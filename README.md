@@ -1,5 +1,5 @@
 # Psilocybin.Female.Mouse.mPFC
-This repo contains the code and data to reproduce analysis and figures for the manuscript titled <<Single-cell sequencing reveals sustained cell-type specific plasticity in mouse medial prefrontal cortex>>.
+This repo contains the code and data to reproduce analysis and figures for the manuscript titled <Single-cell sequencing reveals sustained cell-type specific plasticity in mouse medial prefrontal cortex>.
 
 Single cell RNA-Seq (scRNA-Seq) related analysis are contained in Code/Analysis folder.
 Visualization of processed scRNA-Seq data and other results presented in the figures are contained in Code/Figures folder using preprocessed data in the Data folder.
