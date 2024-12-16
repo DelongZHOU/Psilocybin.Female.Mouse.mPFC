@@ -1,0 +1,46 @@
+gene,celltype,function,DEG,padj
+Uqcrb,L2-6 IT,Mitochondrion,No,0.999999893
+Rps26,L2-6 IT,Ribosome,No,0.999999893
+Epha4,L2-6 IT,Mitochondrion,Yes,0.0000639
+Arc,L2-6 IT,Nervous System Development,Yes,0.008792885
+Gria1,L2-6 IT,Nervous System Development,Yes,0.014095199
+Nr4a3,L2-6 IT,Nervous System Development,Yes,0.0000137
+Uqcrb,L5 PT,Mitochondrion,No,0.999999995
+Rps26,L5 PT,Ribosome,No,0.966537922
+Galc,L5 PT,Mitochondrion,Yes,0.04740324
+Ppp1cb,L5 PT,Mitochondrion,Yes,0.004371092
+Slc25a53,L5 PT,Mitochondrion,Yes,0.003868516
+Ubr1,L5 PT,Ribosome,Yes,0.000773003
+Uqcrb,L5/6 NP,Mitochondrion,No,0.989763114
+Rps26,L5/6 NP,Ribosome,No,0.993904818
+S100a1,L5/6 NP,Mitochondrion,Yes,0
+Nrn1,L5/6 NP,Nervous System Development,Yes,0.001596139
+Shank3,L5/6 NP,Nervous System Development,Yes,0.001181934
+Uqcrb,L6 CT,Mitochondrion,No,0.999999774
+Rps26,L6 CT,Ribosome,No,0.999999774
+Micu3,L6 CT,Mitochondrion,Yes,0.003206854
+Snca,L6 CT,Mitochondrion,Yes,0.046245194
+Arc,L6 CT,Nervous System Development,Yes,0.000750808
+Uqcrb,GABA,Mitochondrion,No,0.999999943
+Rps26,GABA,Ribosome,No,0.999999943
+Baalc,GABA,Mitochondrion,Yes,0.00910934
+Bag4,GABA,Mitochondrion,Yes,0.001073372
+Idh3a,GABA,Mitochondrion,Yes,0.000113447
+Kctd13,GABA,Nervous System Development,Yes,0.008393646
+Myo6,GABA,Nervous System Development,Yes,0.003008183
+Slitrk3,GABA,Nervous System Development,Yes,0.005307804
+Uqcrb,Astro,Mitochondrion,No,0.999999962
+Rps26,Astro,Ribosome,No,0.999999962
+Uqcrb,Endo,Mitochondrion,No,0.999998735
+Rps26,Endo,Ribosome,No,0.999998735
+Uqcrb,Micro,Mitochondrion,No,0.999999895
+Rps26,Micro,Ribosome,No,0.999999895
+Pi4k2a,Micro,Mitochondrion,Yes,0.000370224
+Nsa2,Micro,Ribosome,Yes,0.035371513
+Uqcrb,Oligo,Mitochondrion,No,0.999999998
+Rps26,Oligo,Ribosome,No,0.999999998
+Ppp3ca,Oligo,Mitochondrion,Yes,8.32E-08
+Sqstm1,Oligo,Mitochondrion,Yes,0.00000421
+Hsp90b1,Oligo,Ribosome,Yes,0.018514553
+Uqcrb,OPC,Mitochondrion,No,0.999999893
+Rps26,OPC,Ribosome,No,0.999999893

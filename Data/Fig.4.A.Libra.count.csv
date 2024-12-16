@@ -1,0 +1,23 @@
+Cell_Type,Count,State
+L2-6 IT,15,down
+L5 PT,34,down
+L5/6 NP,30,down
+L6 CT,13,down
+GABA,30,down
+ ,0,down
+Astro,0,down
+Endo,1,down
+Micro,8,down
+Oligo,1,down
+OPC,0,down
+L2-6 IT,26,up
+L5 PT,54,up
+L5/6 NP,57,up
+L6 CT,24,up
+GABA,21,up
+ ,0,up
+Astro,3,up
+Endo,11,up
+Micro,14,up
+Oligo,6,up
+OPC,2,up

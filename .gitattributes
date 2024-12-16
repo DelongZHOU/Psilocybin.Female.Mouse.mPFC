@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+* text eol=lf
+
+# ===
+# Binary Files (don't diff, don't fix line endings)
+# ===
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.tiff binary
+*.png binary

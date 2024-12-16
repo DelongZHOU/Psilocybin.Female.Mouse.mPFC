@@ -1,0 +1,1366 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"abind","abind","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4-5",NA,"R (>= 1.5.0)","methods, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"annotate","annotate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.74.0",NA,"R (>= 2.10), AnnotationDbi (>= 1.27.5), XML","Biobase, DBI, xtable, graphics, utils, stats, methods,
+BiocGenerics (>= 0.13.8), httr",NA,"hgu95av2.db, genefilter, Biostrings (>= 2.25.10), IRanges,
+rae230a.db, rae230aprobe, tkWidgets, GO.db, org.Hs.eg.db,
+org.Mm.eg.db, humanCHRLOC, Rgraphviz, RUnit,",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"AnnotationDbi","AnnotationDbi","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.58.0",NA,"R (>= 2.7.0), methods, utils, stats4, BiocGenerics (>=
+0.29.2), Biobase (>= 1.17.0), IRanges","DBI, RSQLite, S4Vectors (>= 0.9.25), stats, KEGGREST",NA,"hgu95av2.db, GO.db, org.Sc.sgd.db, org.At.tair.db, RUnit,
+TxDb.Hsapiens.UCSC.hg19.knownGene, org.Hs.eg.db, reactome.db,
+AnnotationForge, graph, EnsDb.Hsapiens.v75, BiocStyle, knitr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"ape","ape","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.7-1",NA,"R (>= 3.2.0)","nlme, lattice, graphics, methods, stats, utils, parallel, Rcpp
+(>= 0.12.0), digest","Rcpp","gee, expm, igraph, phangorn",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"aplot","aplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.2",NA,"R (>= 4.1.0)","ggfun (>= 0.1.3), ggplot2, ggplotify, patchwork, magrittr,
+methods, utils",NA,"ggtree",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"arrow","arrow","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","14.0.0",NA,"R (>= 3.4)","assertthat, bit64 (>= 0.9-7), glue, methods, purrr, R6, rlang
+(>= 1.0.0), stats, tidyselect (>= 1.0.0), utils, vctrs","cpp11 (>= 0.4.2)","blob, curl, cli, DBI, dbplyr, decor, distro, dplyr, duckdb
+(>= 0.2.8), hms, jsonlite, knitr, lubridate, pillar, pkgload,
+reticulate, rmarkdown, stringi, stringr, sys, testthat (>=
+3.1.0), tibble, tzdb, withr",NA,"Apache License (>= 2.0)",NA,NA,NA,NA,"yes","4.2.1"
+"askpass","askpass","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"assertthat","assertthat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.1",NA,NA,"tools",NA,"testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"AUCell","AUCell","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.20.2",NA,NA,"DelayedArray, DelayedMatrixStats, data.table, graphics,
+grDevices, GSEABase, Matrix, methods, mixtools, R.utils, shiny,
+stats, SummarizedExperiment, BiocGenerics, utils",NA,"Biobase, BiocStyle, doSNOW, dynamicTreeCut, DT, GEOquery,
+knitr, NMF, plyr, R2HTML, rmarkdown, reshape2, plotly, rbokeh,
+Rtsne, testthat, zoo","doMC, doRNG, doParallel, foreach","GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"Augur","Augur","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.3",NA,"R (>= 3.5.0)","dplyr (>= 0.8.0), purrr (>= 0.3.2), tibble (>= 2.1.3),
+magrittr (>= 1.5), tester (>= 0.1.7), Matrix (>= 1.2-14),
+sparseMatrixStats (>= 0.1.0), parsnip (>= 0.0.2), recipes (>=
+0.1.4), rsample (>= 0.0.4), yardstick (>= 0.0.3), pbmcapply (>=
+1.5.0), lmtest (>= 0.9-37), randomForest (>= 4.6-14),
+tidyselect (>= 0.2.5), rlang (>= 0.4.0), ggplot2 (>= 3.0.0),
+ggrepel (>= 0.8.2), pals (>= 1.6), scales (>= 1.1.1), tidyr (>=
+1.1.2), glmnet (>= 3.0-2), viridis (>= 0.5.1), methods, stats,
+Rdpack (>= 0.7)",NA,"knitr, Seurat, monocle3, SingleCellExperiment,
+SummarizedExperiment",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"backports","backports","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.1",NA,"R (>= 3.0.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"base64enc","base64enc","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"BBmisc","BBmisc","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.13",NA,NA,"checkmate (>= 1.8.0), data.table, methods, stats, utils",NA,"codetools, microbenchmark, testthat",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"bbmle","bbmle","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.25",NA,"R (>= 3.0.0), stats4","stats, numDeriv, lattice, MASS, methods, bdsmatrix, Matrix,
+mvtnorm",NA,"emdbook, rms, ggplot2, RUnit, MuMIn, AICcmodavg, Hmisc,
+optimx (>= 2013.8.6), knitr, testthat",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"bdsmatrix","bdsmatrix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3-6",NA,"methods, R (>= 2.0.0)",NA,NA,NA,NA,"LGPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"beachmat","beachmat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.12.0",NA,NA,"methods, DelayedArray (>= 0.15.14), BiocGenerics, Matrix, Rcpp","Rcpp","testthat, BiocStyle, knitr, rmarkdown, rcmdcheck,
+BiocParallel, HDF5Array",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"beeswarm","beeswarm","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.0",NA,NA,"stats, graphics, grDevices, utils",NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"BH","BH","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.81.0-1",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","4.2.1"
+"Biobase","Biobase","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.56.0",NA,"R (>= 2.10), BiocGenerics (>= 0.27.1), utils","methods",NA,"tools, tkWidgets, ALL, RUnit, golubEsets",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"BiocGenerics","BiocGenerics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.42.0",NA,"R (>= 4.0.0), methods, utils, graphics, stats","methods, utils, graphics, stats",NA,"Biobase, S4Vectors, IRanges, GenomicRanges, DelayedArray,
+Biostrings, Rsamtools, AnnotationDbi, affy, affyPLM, DESeq2,
+flowClust, MSnbase, annotate, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"BiocIO","BiocIO","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0",NA,"R (>= 4.0)","BiocGenerics, S4Vectors, methods, tools",NA,"testthat, knitr, rmarkdown, BiocStyle",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"BiocManager","BiocManager","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.30.22",NA,NA,"utils",NA,"BiocVersion, remotes, rmarkdown, testthat, withr, curl, knitr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"BiocNeighbors","BiocNeighbors","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.14.0",NA,NA,"Rcpp, S4Vectors, BiocParallel, stats, methods, Matrix","Rcpp, RcppHNSW","testthat, BiocStyle, knitr, rmarkdown, FNN, RcppAnnoy,
+RcppHNSW",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"BiocParallel","BiocParallel","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.30.4",NA,"methods, R (>= 3.5.0)","stats, utils, futile.logger, parallel, snow, codetools","BH","BiocGenerics, tools, foreach, BatchJobs, BBmisc, doParallel,
+Rmpi, GenomicRanges, RNAseqData.HNRNPC.bam.chr14,
+TxDb.Hsapiens.UCSC.hg19.knownGene, VariantAnnotation,
+Rsamtools, GenomicAlignments, ShortRead, RUnit, BiocStyle,
+knitr, batchtools, data.table",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"BiocSingular","BiocSingular","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.12.0",NA,NA,"BiocGenerics, S4Vectors, Matrix, methods, utils, DelayedArray,
+BiocParallel, ScaledMatrix, irlba, rsvd, Rcpp, beachmat","Rcpp, beachmat","testthat, BiocStyle, knitr, rmarkdown, ResidualMatrix",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"BiocVersion","BiocVersion","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.15.2",NA,"R (>= 4.2.0)",NA,NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"Biostrings","Biostrings","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.64.1",NA,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.30.1), XVector (>= 0.29.2),
+GenomeInfoDb","methods, utils, grDevices, graphics, stats, crayon","S4Vectors, IRanges, XVector","BSgenome (>= 1.13.14), BSgenome.Celegans.UCSC.ce2 (>=
+1.3.11), BSgenome.Dmelanogaster.UCSC.dm3 (>= 1.3.11),
+BSgenome.Hsapiens.UCSC.hg18, drosophila2probe, hgu95av2probe,
+hgu133aprobe, GenomicFeatures (>= 1.3.14), hgu95av2cdf, affy
+(>= 1.41.3), affydata (>= 1.11.5), RUnit","Rmpi","Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"bit","bit","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.0.5",NA,"R (>= 2.9.2)",NA,NA,"testthat (>= 0.11.0), roxygen2, knitr, rmarkdown,
+microbenchmark, bit64 (>= 4.0.0), ff (>= 4.0.0)",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"bit64","bit64","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.0.5",NA,"R (>= 3.0.1), bit (>= 4.0.0), utils, methods, stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"bitops","bitops","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-7",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"blme","blme","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-5",NA,"R (>= 3.0-0), lme4 (>= 1.0-6)","methods, stats, utils",NA,"expint (>= 0.1-3), testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"blob","blob","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.4",NA,NA,"methods, rlang, vctrs (>= 0.2.1)",NA,"covr, crayon, pillar (>= 1.2.1), testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"bluster","bluster","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0",NA,NA,"stats, methods, utils, cluster, Matrix, Rcpp, igraph,
+S4Vectors, BiocParallel, BiocNeighbors","Rcpp","knitr, rmarkdown, testthat, BiocStyle, dynamicTreeCut,
+scRNAseq, scuttle, scater, scran, pheatmap, viridis, mbkmeans,
+kohonen, apcluster",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"BPCells","BPCells","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.0",NA,"R (>= 2.10)","methods, grDevices, magrittr, Matrix, Rcpp, rlang, vctrs,
+stringr, tibble, dplyr, tidyr, ggplot2, scales, patchwork,
+scattermore, ggrepel, RColorBrewer, hexbin","Rcpp, RcppEigen","IRanges, GenomicRanges, matrixStats",NA,"MIT",NA,NA,NA,NA,"yes","4.2.1"
+"brew","brew","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-8",NA,NA,NA,NA,"testthat (>= 3.0.0)",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"brio","brio","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,NA,NA,NA,"covr, testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"broom","broom","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 3.5)","backports, dplyr (>= 1.0.0), ellipsis, generics (>= 0.0.2),
+glue, lifecycle, purrr, rlang, stringr, tibble (>= 3.0.0),
+tidyr (>= 1.0.0)",NA,"AER, AUC, bbmle, betareg, biglm, binGroup, boot, btergm (>=
+1.10.6), car, carData, caret, cluster, cmprsk, coda, covr, drc,
+e1071, emmeans, epiR, ergm (>= 3.10.4), fixest (>= 0.9.0), gam
+(>= 1.15), gee, geepack, ggplot2, glmnet, glmnetUtils, gmm,
+Hmisc, irlba, interp, joineRML, Kendall, knitr, ks, Lahman,
+lavaan, leaps, lfe, lm.beta, lme4, lmodel2, lmtest (>= 0.9.38),
+lsmeans, maps, margins, MASS, mclust, mediation, metafor, mfx,
+mgcv, mlogit, modeldata, modeltests, muhaz, multcomp, network,
+nnet, orcutt (>= 2.2), ordinal, plm, poLCA, psych, quantreg,
+rmarkdown, robust, robustbase, rsample, sandwich, sp, spdep (>=
+1.1), spatialreg, speedglm, spelling, survey, survival,
+systemfit, testthat (>= 2.1.0), tseries, vars, zoo",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"bslib","bslib","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.1",NA,"R (>= 2.10)","base64enc, cachem, grDevices, htmltools (>= 0.5.4), jquerylib
+(>= 0.1.3), jsonlite, memoise (>= 2.0.1), mime, rlang, sass (>=
+0.4.0)",NA,"bsicons, curl, fontawesome, ggplot2, knitr, magrittr,
+rappdirs, rmarkdown (>= 2.7), shiny (>= 1.6.0), testthat,
+thematic, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"cachem","cachem","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.8",NA,NA,"rlang, fastmap (>= 1.1.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"Cairo","Cairo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6-2",NA,"R (>= 2.4.0)","grDevices, graphics",NA,"png","FastRWeb","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"callr","callr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.7.3",NA,"R (>= 3.4)","processx (>= 3.6.1), R6, utils",NA,"asciicast, cli (>= 1.1.0), covr, mockery, ps, rprojroot,
+spelling, testthat (>= 3.0.0), withr (>= 2.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"car","car","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.1-2",NA,"R (>= 3.5.0), carData (>= 3.0-0)","abind, MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg,
+grDevices, utils, stats, graphics, lme4 (>= 1.1-27.1), nlme,
+scales",NA,"alr4, boot, coxme, effects, knitr, leaps, lmtest, Matrix,
+MatrixModels, mvtnorm, rgl (>= 0.111.3), rio, sandwich,
+SparseM, survival, survey",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"carData","carData","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0-5",NA,"R (>= 3.5.0)",NA,NA,"car (>= 3.0-0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"caret","caret","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","6.0-94",NA,"ggplot2, lattice (>= 0.20), R (>= 3.2.0)","e1071, foreach, grDevices, methods, ModelMetrics (>= 1.2.2.2),
+nlme, plyr, pROC, recipes (>= 0.1.10), reshape2, stats, stats4,
+utils, withr (>= 2.0.0)",NA,"BradleyTerry2, covr, Cubist, dplyr, earth (>= 2.2-3),
+ellipse, fastICA, gam (>= 1.15), ipred, kernlab, klaR, knitr,
+MASS, Matrix, mda, mgcv, mlbench, MLmetrics, nnet, pamr, party
+(>= 0.9-99992), pls, proxy, randomForest, RANN, rmarkdown,
+rpart, spls, subselect, superpc, testthat (>= 0.9.1), themis
+(>= 0.1.3)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"caTools","caTools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.2",NA,"R (>= 3.6.0)","bitops",NA,"MASS, rpart",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"CellChat","CellChat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.2",NA,"R (>= 3.6.0),dplyr,igraph,ggplot2","future, future.apply, pbapply, irlba, NMF (>= 0.23.0),
+ggalluvial, stringr, svglite, Matrix, ggrepel, circlize (>=
+0.4.12), RColorBrewer, cowplot, methods, ComplexHeatmap,
+RSpectra, Rcpp, reticulate, scales, sna, reshape2, FNN, shape,
+BiocGenerics, magrittr, patchwork, colorspace, plyr, ggpubr,
+ggnetwork, BiocNeighbors, plotly,shiny,bslib,presto,tidyverse","Rcpp, RcppEigen","rmarkdown, knitr, roxygen2, Seurat (>= 4.0.0),
+SingleCellExperiment, SummarizedExperiment,
+purrr,uwot,gg.gap,wordcloud,bsicons,tidyr",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"cellranger","cellranger","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.0",NA,"R (>= 3.0.0)","rematch, tibble",NA,"covr, testthat (>= 1.0.0), knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"Cepo","Cepo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"GSEABase, R (>= 4.1)","DelayedMatrixStats, DelayedArray, HDF5Array, S4Vectors,
+methods, SingleCellExperiment, SummarizedExperiment, ggplot2,
+rlang, grDevices, patchwork, reshape2, BiocParallel, stats,
+dplyr",NA,"knitr, rmarkdown, BiocStyle, testthat, covr, UpSetR, scater,
+scMerge, fgsea, escape, pheatmap, patchwork",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"checkmate","checkmate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.0",NA,"R (>= 3.0.0)","backports (>= 1.1.0), utils",NA,"R6, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+3.0.4), tinytest (>= 1.1.0), tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"circlize","circlize","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.16",NA,"R (>= 3.0.0), graphics","GlobalOptions (>= 0.1.2), shape, grDevices, utils, stats,
+colorspace, methods, grid",NA,"knitr, dendextend (>= 1.0.1), ComplexHeatmap (>= 2.0.0),
+gridBase, png, markdown, bezier, covr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"cli","cli","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.6.1",NA,"R (>= 3.4)","utils",NA,"callr, covr, crayon, digest, glue (>= 1.6.0), grDevices,
+htmltools, htmlwidgets, knitr, methods, mockery, processx, ps
+(>= 1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot,
+rstudioapi, testthat, tibble, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"clipr","clipr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.8.0",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"clock","clock","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.7.0",NA,"R (>= 3.5.0)","cli (>= 3.6.1), lifecycle (>= 1.0.3), rlang (>= 1.1.0), tzdb
+(>= 0.4.0), vctrs (>= 0.6.1)","cpp11 (>= 0.4.3), tzdb (>= 0.4.0)","covr, knitr, magrittr, pillar, rmarkdown, slider (>= 0.3.0),
+testthat (>= 3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"clue","clue","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3-65",NA,"R (>= 3.2.0)","stats, cluster, graphics, methods",NA,"e1071, lpSolve (>= 5.5.7), quadprog (>= 1.4-8), relations","RWeka, ape, cba, cclust, flexclust, flexmix, kernlab, mclust,
+movMF, modeltools","GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"cluster","cluster","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.4","recommended","R (>= 3.5.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"clusterProfiler","clusterProfiler","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.4.4",NA,"R (>= 3.5.0)","AnnotationDbi, downloader, DOSE (>= 3.13.1), dplyr, enrichplot
+(>= 1.9.3), GO.db, GOSemSim, magrittr, methods, plyr, qvalue,
+rlang, stats, tidyr, utils, yulab.utils",NA,"AnnotationHub, knitr, rmarkdown, org.Hs.eg.db, prettydoc,
+ReactomePA, testthat",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"coda","coda","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.19-4",NA,"R (>= 2.14.0)","lattice",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"colorspace","colorspace","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1-0",NA,"R (>= 3.0.0), methods","graphics, grDevices, stats",NA,"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"combinat","combinat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.0-8",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"4.2.1"
+"commonmark","commonmark","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.9.0",NA,NA,NA,NA,"curl, testthat, xml2",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"ComplexHeatmap","ComplexHeatmap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.15.4",NA,"R (>= 3.5.0), methods, grid, graphics, stats, grDevices","circlize (>= 0.4.14), GetoptLong, colorspace, clue,
+RColorBrewer, GlobalOptions (>= 0.1.0), png, digest, IRanges,
+matrixStats, foreach, doParallel, codetools",NA,"testthat (>= 1.0.0), knitr, markdown, dendsort, jpeg, tiff,
+fastcluster, EnrichedHeatmap, dendextend (>= 1.0.1), grImport,
+grImport2, glue, GenomicRanges, gridtext, pheatmap (>= 1.0.12),
+gridGraphics, gplots, rmarkdown, Cairo, magick",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"conflicted","conflicted","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"R (>= 3.2)","cli (>= 3.4.0), memoise, rlang (>= 1.0.0)",NA,"callr, covr, dplyr, Matrix, methods, pkgload, testthat (>=
+3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"corpcor","corpcor","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.10",NA,"R (>= 3.0.2)","stats",NA,"",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"corrplot","corrplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.92",NA,NA,NA,NA,"seriation, knitr, RColorBrewer, rmarkdown, magrittr,
+prettydoc, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"cowplot","cowplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,"R (>= 3.5.0)","ggplot2 (> 2.2.1), grid, gtable, grDevices, methods, rlang,
+scales",NA,"Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr,
+lattice, magick, maps, PASWR, patchwork, rmarkdown, ragg,
+testthat (>= 1.0.0), tidyr, vdiffr (>= 0.3.0), VennDiagram",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"cpp11","cpp11","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.6",NA,"R (>= 3.5.0)",NA,NA,"bench, brio, callr, cli, covr, decor, desc, ggplot2, glue,
+knitr, lobstr, mockery, progress, rmarkdown, scales, Rcpp,
+testthat, tibble, utils, vctrs, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"crayon","crayon","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.2",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"credentials","credentials","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.1",NA,NA,"openssl (>= 1.3), sys (>= 2.1), curl, jsonlite, askpass",NA,"testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"crossmap","crossmap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.0",NA,NA,"backports, cli, dplyr (>= 1.0.0), generics, lifecycle, purrr,
+rlang, stats, utils, vctrs",NA,"broom, covr, crayon, estimatr, furrr, future, testthat,
+tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"crosstalk","crosstalk","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,NA,"htmltools (>= 0.3.6), jsonlite, lazyeval, R6",NA,"shiny, ggplot2, testthat (>= 2.1.0), sass, bslib",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"crul","crul","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.2",NA,NA,"curl (>= 3.3), R6 (>= 2.2.0), urltools (>= 1.6.0), httpcode
+(>= 0.2.0), jsonlite, mime",NA,"testthat, roxygen2 (>= 7.1.1), fauxpas (>= 0.1.0), webmockr
+(>= 0.1.0), knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"CSCORE","CSCORE","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.0.0.9000",NA,"R (>= 2.10)","stats, Seurat",NA,"knitr, rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"curl","curl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.1.0",NA,"R (>= 3.0.0)",NA,NA,"spelling, testthat (>= 1.0.0), knitr, jsonlite, rmarkdown,
+magrittr, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"data.table","data.table","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.14.8",NA,"R (>= 3.1.0)","methods",NA,"bit64 (>= 4.0.0), bit (>= 4.0.4), curl, R.utils, xts,
+nanotime, zoo (>= 1.8-1), yaml, knitr, rmarkdown",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"DBI","DBI","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,"methods, R (>= 3.0.0)",NA,NA,"blob, covr, DBItest, dbplyr, downlit, dplyr, glue, hms,
+knitr, magrittr, RMariaDB, rmarkdown, rprojroot, RSQLite (>=
+1.1-2), testthat, xml2",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"dbplyr","dbplyr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.0",NA,"R (>= 3.6)","blob (>= 1.2.0), cli (>= 3.6.1), DBI (>= 1.1.3), dplyr (>=
+1.1.2), glue (>= 1.6.2), lifecycle (>= 1.0.3), magrittr,
+methods, pillar (>= 1.9.0), purrr (>= 1.0.1), R6 (>= 2.2.2),
+rlang (>= 1.1.1), tibble (>= 3.2.1), tidyr (>= 1.3.0),
+tidyselect (>= 1.2.0), utils, vctrs (>= 0.6.3), withr (>=
+2.5.0)",NA,"bit64, covr, knitr, Lahman, nycflights13, odbc, RMariaDB (>=
+1.2.2), rmarkdown, RPostgres (>= 1.4.5), RPostgreSQL, RSQLite
+(>= 2.3.1), testthat (>= 3.1.10)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"DelayedArray","DelayedArray","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.22.0",NA,"R (>= 4.0.0), methods, stats4, Matrix, BiocGenerics (>=
+0.37.0), MatrixGenerics (>= 1.1.3), S4Vectors (>= 0.27.2),
+IRanges (>= 2.17.3)","stats","S4Vectors","BiocParallel, HDF5Array (>= 1.17.12), genefilter,
+SummarizedExperiment, airway, lobstr, DelayedMatrixStats,
+knitr, rmarkdown, BiocStyle, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"DelayedMatrixStats","DelayedMatrixStats","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.2",NA,"MatrixGenerics (>= 1.5.3), DelayedArray (>= 0.17.6)","methods, matrixStats (>= 0.60.0), sparseMatrixStats, Matrix
+(>= 1.5-0), S4Vectors (>= 0.17.5), IRanges (>= 2.25.10)",NA,"testthat, knitr, rmarkdown, covr, BiocStyle, microbenchmark,
+profmem, HDF5Array",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"deldir","deldir","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-9",NA,"R (>= 3.5.0)","graphics, grDevices",NA,"polyclip",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"densEstBayes","densEstBayes","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-2.2",NA,"R (>= 3.5.0)","MASS, nlme, Rcpp, methods, rstan, rstantools","BH, Rcpp, RcppArmadillo, RcppEigen, RcppParallel,
+StanHeaders, rstan",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"DEoptimR","DEoptimR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-3",NA,NA,"stats",NA,NA,"robustbase","GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"desc","desc","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.2",NA,"R (>= 3.4)","cli, R6, rprojroot, utils",NA,"callr, covr, gh, spelling, testthat, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"DescTools","DescTools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.99.50",NA,"base, stats, R (>= 4.0.0)","graphics, grDevices, methods, MASS, utils, boot, mvtnorm,
+expm, Rcpp (>= 0.12.10), rstudioapi, Exact, gld, data.table,
+readxl, httr, withr","Rcpp, BH","RDCOMClient, tcltk, VGAM, R.rsp, testthat (>= 3.0.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"DESeq2","DESeq2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.36.0",NA,"S4Vectors (>= 0.23.18), IRanges, GenomicRanges,
+SummarizedExperiment (>= 1.1.6)","BiocGenerics (>= 0.7.5), Biobase, BiocParallel, genefilter,
+methods, stats4, locfit, geneplotter, ggplot2, Rcpp (>= 0.11.0)","Rcpp, RcppArmadillo","testthat, knitr, rmarkdown, vsn, pheatmap, RColorBrewer,
+apeglm, ashr, tximport, tximeta, tximportData, readr, pbapply,
+airway, pasilla (>= 0.2.10), glmGamPoi, BiocManager",NA,"LGPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"DEsingle","DEsingle","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.16.0",NA,"R (>= 3.4.0)","stats, Matrix (>= 1.2-14), MASS (>= 7.3-45), VGAM (>= 1.0-2),
+bbmle (>= 1.0.18), gamlss (>= 4.4-0), maxLik (>= 1.3-4), pscl
+(>= 1.4.9), BiocParallel (>= 1.12.0),",NA,"knitr, rmarkdown, SingleCellExperiment",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"devtools","devtools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.5",NA,"R (>= 3.0.2), usethis (>= 2.1.6)","cli (>= 3.3.0), desc (>= 1.4.1), ellipsis (>= 0.3.2), fs (>=
+1.5.2), lifecycle (>= 1.0.1), memoise (>= 2.0.1), miniUI (>=
+0.1.1.1), pkgbuild (>= 1.3.1), pkgdown (>= 2.0.6), pkgload (>=
+1.3.0), profvis (>= 0.3.7), rcmdcheck (>= 1.4.0), remotes (>=
+2.4.2), rlang (>= 1.0.4), roxygen2 (>= 7.2.1), rversions (>=
+2.1.1), sessioninfo (>= 1.2.2), stats, testthat (>= 3.1.5),
+tools, urlchecker (>= 1.0.1), utils, withr (>= 2.5.0)",NA,"BiocManager (>= 1.30.18), callr (>= 3.7.1), covr (>= 3.5.1),
+curl (>= 4.3.2), digest (>= 0.6.29), DT (>= 0.23), foghorn (>=
+1.4.2), gh (>= 1.3.0), gmailr (>= 1.0.1), httr (>= 1.4.3),
+knitr (>= 1.39), lintr (>= 3.0.0), MASS, mockery (>= 0.4.3),
+pingr (>= 2.0.1), rhub (>= 1.1.1), rmarkdown (>= 2.14),
+rstudioapi (>= 0.13), spelling (>= 2.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"diagram","diagram","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.5",NA,"R (>= 2.01), shape","stats, graphics",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"DiagrammeR","DiagrammeR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.10",NA,"R (>= 3.2)","dplyr (>= 1.0.7), downloader (>= 0.4), glue (>= 1.5.0),
+htmltools (>= 0.5.2), htmlwidgets (>= 1.5), igraph (>= 1.2.11),
+magrittr (>= 1.5), purrr (>= 0.3.4), RColorBrewer (>= 1.1-2),
+readr (>= 2.1.1), rlang (>= 0.4), rstudioapi (>= 0.7), scales
+(>= 1.1), stringr (>= 1.4), tibble (>= 3.1), tidyr (>= 1.1),
+viridis (>= 0.6.2), visNetwork (>= 2.1.0)",NA,"covr, DiagrammeRsvg, rsvg, knitr, testthat, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"DiceKriging","DiceKriging","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0",NA,"methods",NA,NA,"rgenoud (>= 5.8-2.0), foreach, doParallel, testthat, numDeriv",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"dichromat","dichromat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0-0.1",NA,"R (>= 2.10), stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"diffobj","diffobj","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.5",NA,"R (>= 3.1.0)","crayon (>= 1.3.2), tools, methods, utils, stats",NA,"knitr, rmarkdown",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"digest","digest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6.33",NA,"R (>= 3.3.0)","utils",NA,"tinytest, simplermarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"diptest","diptest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.76-0",NA,NA,"graphics, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"disgenet2r","disgenet2r","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.99.3",NA,"R (>= 3.5.0)","httr, VennDiagram, stringr, igraph, tidyr, tidyverse, purrr,
+ggplot2, reshape2, reshape, gtable, data.table, jsonlite",NA,"testthat, parallel, knitr",NA,"MIT",NA,NA,NA,NA,"no","4.2.1"
+"dittoSeq","dittoSeq","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.1",NA,"ggplot2","methods, colorspace (>= 1.4), gridExtra, cowplot, reshape2,
+pheatmap, grDevices, ggrepel, ggridges, stats, utils,
+SummarizedExperiment, SingleCellExperiment, S4Vectors",NA,"plotly, testthat, Seurat (>= 2.2), DESeq2, edgeR,
+ggplot.multistats, knitr, rmarkdown, BiocStyle, scRNAseq,
+ggrastr (>= 0.2.0), ComplexHeatmap, bluster, scater, scran",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"dml","dml","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.0",NA,"MASS","lfda",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"DO.db","DO.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.9",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.9.7)","methods, AnnotationDbi",NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"docopt","docopt","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.7.1",NA,NA,"methods",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"doMC","doMC","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.8",NA,"R (>= 2.14.0), foreach(>= 1.2.0), iterators(>= 1.0.0),
+parallel","utils",NA,NA,"compiler, RUnit","GPL-2",NA,NA,"unix",NA,"no","4.2.1"
+"doParallel","doParallel","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.17",NA,"R (>= 2.14.0), foreach (>= 1.2.0), iterators (>= 1.0.0),
+parallel, utils",NA,NA,"caret, mlbench, rpart, RUnit","compiler","GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"doRNG","doRNG","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.6",NA,"R (>= 3.0.0), foreach, rngtools (>= 1.5)","stats, utils, iterators",NA,"doParallel, doMPI, doRedis, rbenchmark, devtools, knitr,
+rbibutils (>= 1.3), testthat, pkgmaker (>= 0.32.7), covr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"DOSE","DOSE","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.22.1",NA,"R (>= 3.5.0)","AnnotationDbi, BiocParallel, DO.db, fgsea, ggplot2, GOSemSim
+(>= 2.0.0), methods, qvalue, reshape2, stats, utils",NA,"prettydoc, clusterProfiler, knitr, rmarkdown, org.Hs.eg.db,
+testthat",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"dotCall64","dotCall64","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-0",NA,"R (>= 3.1)",NA,NA,"microbenchmark, RhpcBLASctl, RColorBrewer, roxygen2, spam,
+testthat,",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"DoubletFinder","DoubletFinder","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.3",NA,NA,"fields, KernSmooth, ROCR, parallel",NA,NA,NA,"CC-0",NA,NA,NA,NA,"no","4.2.1"
+"downlit","downlit","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.3",NA,"R (>= 3.4.0)","brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs,
+withr, yaml",NA,"covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload,
+rmarkdown, testthat (>= 3.0.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"downloader","downloader","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4",NA,NA,"utils, digest",NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"dplyr","dplyr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,"R (>= 3.5.0)","cli (>= 3.4.0), generics, glue (>= 1.3.2), lifecycle (>=
+1.0.3), magrittr (>= 1.5), methods, pillar (>= 1.9.0), R6,
+rlang (>= 1.1.0), tibble (>= 3.2.0), tidyselect (>= 1.2.0),
+utils, vctrs (>= 0.6.0)",NA,"bench, broom, callr, covr, DBI, dbplyr (>= 2.2.1), ggplot2,
+knitr, Lahman, lobstr, microbenchmark, nycflights13, purrr,
+rmarkdown, RMySQL, RPostgreSQL, RSQLite, stringi (>= 1.7.6),
+testthat (>= 3.1.5), tidyr (>= 1.3.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"dqrng","dqrng","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.1",NA,"R (>= 3.5.0)","Rcpp (>= 0.12.16)","Rcpp, BH (>= 1.64.0-1), sitmo (>= 2.0.0)","testthat, knitr, rmarkdown, mvtnorm (>= 1.2-3), bench, sitmo",NA,"AGPL-3 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"DropletUtils","DropletUtils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.16.0",NA,"SingleCellExperiment","utils, stats, methods, Matrix, Rcpp, BiocGenerics, S4Vectors,
+IRanges, GenomicRanges, SummarizedExperiment, BiocParallel,
+DelayedArray, DelayedMatrixStats, HDF5Array, rhdf5, edgeR,
+R.utils, dqrng, beachmat, scuttle","Rcpp, beachmat, Rhdf5lib, BH, dqrng, scuttle","testthat, knitr, BiocStyle, rmarkdown, jsonlite,
+DropletTestFiles",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"DT","DT","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.33",NA,NA,"htmltools (>= 0.3.6), htmlwidgets (>= 1.3), httpuv, jsonlite
+(>= 0.9.16), magrittr, crosstalk, jquerylib, promises",NA,"knitr (>= 1.8), rmarkdown, shiny (>= 1.6), bslib, future,
+testit, tibble",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"dtplyr","dtplyr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.1",NA,"R (>= 3.3)","cli (>= 3.4.0), data.table (>= 1.13.0), dplyr (>= 1.1.0),
+glue, lifecycle, rlang (>= 1.0.4), tibble, tidyselect (>=
+1.2.0), vctrs (>= 0.4.1)",NA,"bench, covr, knitr, rmarkdown, testthat (>= 3.1.2), tidyr (>=
+1.1.0), waldo (>= 0.3.1)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"dynamicTreeCut","dynamicTreeCut","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.63-1",NA,"R (>= 2.3.0), stats",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"e1071","e1071","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7-13",NA,NA,"graphics, grDevices, class, stats, methods, utils, proxy",NA,"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"edgeR","edgeR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.38.4",NA,"R (>= 3.6.0), limma (>= 3.41.5)","methods, graphics, stats, utils, locfit, Rcpp","Rcpp","jsonlite, readr, rhdf5, splines, Biobase, AnnotationDbi,
+SummarizedExperiment, org.Hs.eg.db",NA,"GPL (>=2)",NA,NA,NA,NA,"yes","4.2.1"
+"ellipsis","ellipsis","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.2",NA,"R (>= 3.2)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"emoa","emoa","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5-0.2",NA,NA,NA,NA,"RUnit",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"enrichplot","enrichplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.16.2",NA,"R (>= 3.5.0)","aplot, DOSE (>= 3.16.0), ggplot2, ggraph, graphics, grid,
+igraph, methods, plyr, purrr, RColorBrewer, reshape2, stats,
+utils, scatterpie, shadowtext, GOSemSim, magrittr, ggtree,
+yulab.utils (>= 0.0.4)",NA,"clusterProfiler, dplyr, europepmc, ggupset, knitr, rmarkdown,
+org.Hs.eg.db, prettydoc, tibble, tidyr, ggforce, AnnotationDbi,
+ggplotify, ggridges, grDevices, gridExtra, ggnewscale, ggrepel
+(>= 0.9.0), ggstar, treeio, scales, tidytree, rlang,
+ggtreeExtra, tidydr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"enrichR","enrichR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2",NA,"R (>= 3.0.0)","httr, curl, rjson, ggplot2, WriteXLS",NA,"knitr, rmarkdown",NA,"GPL (>=2)",NA,NA,NA,NA,"no","4.2.1"
+"evaluate","evaluate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.22",NA,"R (>= 3.0.2)","methods",NA,"covr, ggplot2, lattice, rlang, testthat (>= 3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"Exact","Exact","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2",NA,"R (>= 3.5.0)","graphics, stats, utils, rootSolve",NA,"ExactData",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"expm","expm","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.999-7",NA,"Matrix","methods",NA,"RColorBrewer, sfsmisc, Rmpfr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"fansi","fansi","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 3.1.0)","grDevices, utils",NA,"unitizer, knitr, rmarkdown",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"farver","farver","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.1",NA,NA,NA,NA,"covr, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"fastcluster","fastcluster","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.3",NA,"R (>= 3.0.0)",NA,NA,NA,"stats, flashClust","FreeBSD | GPL-2 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"fastDummies","fastDummies","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.3",NA,"R (>= 2.10)","data.table, tibble, stringr",NA,"testthat (>= 2.1.0), knitr, rmarkdown, covr, spelling",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"fastICA","fastICA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2-3",NA,"R (>= 4.0.0)",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"fastmap","fastmap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,NA,NA,NA,"testthat (>= 2.1.1)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"fastmatch","fastmatch","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-4",NA,"R (>= 2.3.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"FCBF","FCBF","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.0",NA,"R (>= 4.1)","ggplot2, gridExtra, pbapply, parallel, SummarizedExperiment,
+stats, mclust",NA,"caret, mlbench, SingleCellExperiment, knitr, rmarkdown,
+testthat, BiocManager",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"fcoex","fcoex","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.10.0",NA,"R (>= 4.1)","FCBF, parallel, progress, dplyr, ggplot2, ggrepel, igraph,
+grid, intergraph, stringr, clusterProfiler, data.table,
+grDevices, methods, network, scales, sna, utils, stats,
+SingleCellExperiment, pathwayPCA, Matrix",NA,"testthat (>= 2.1.0), devtools, BiocManager, TENxPBMCData,
+scater, schex, gridExtra, scran, Seurat, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"fdrtool","fdrtool","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.17",NA,"R (>= 3.0.2)","graphics, grDevices, stats",NA,"",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"fgsea","fgsea","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.22.0",NA,"R (>= 3.3)","Rcpp, data.table, BiocParallel, stats, ggplot2 (>= 2.2.0),
+gridExtra, grid, fastmatch, Matrix, utils","Rcpp, BH","testthat, knitr, rmarkdown, reactome.db, AnnotationDbi,
+parallel, org.Mm.eg.db, limma, GEOquery",NA,"MIT + file LICENCE",NA,NA,NA,NA,"yes","4.2.1"
+"fields","fields","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","15.2",NA,"R (>= 3.5.0), methods, spam, viridisLite","maps",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"fitdistrplus","fitdistrplus","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-11",NA,"R (>= 3.5.0), MASS, grDevices, survival, methods","stats",NA,"actuar, rgenoud, mc2d, gamlss.dist, knitr, ggplot2,
+GeneralizedHyperbolic, rmarkdown, Hmisc, bookdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"flexmix","flexmix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3-19",NA,"R (>= 2.15.0), lattice","graphics, grid, grDevices, methods, modeltools (>= 0.2-16),
+nnet, stats, stats4, utils",NA,"actuar, codetools, diptest, Ecdat, ellipse, gclus, glmnet,
+lme4 (>= 1.1), MASS, mgcv (>= 1.8-0), mlbench, multcomp,
+mvtnorm, SuppDists, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"FNN","FNN","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3.2",NA,"R (>= 3.0.0)",NA,NA,"chemometrics, mvtnorm",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"fontawesome","fontawesome","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.2",NA,"R (>= 3.3.0)","rlang (>= 1.0.6), htmltools (>= 0.5.1.1)",NA,"covr, dplyr (>= 1.0.8), knitr (>= 1.31), testthat (>= 3.0.0),
+rsvg",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"forcats","forcats","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 3.4)","cli (>= 3.4.0), glue, lifecycle, magrittr, rlang (>= 1.0.0),
+tibble",NA,"covr, dplyr, ggplot2, knitr, readr, rmarkdown, testthat (>=
+3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"foreach","foreach","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.2",NA,"R (>= 2.5.0)","codetools, utils, iterators",NA,"randomForest, doMC, doParallel, testthat, knitr, rmarkdown",NA,"Apache License (== 2.0)",NA,NA,NA,NA,"no","4.2.1"
+"formatR","formatR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.14",NA,"R (>= 3.2.3)",NA,NA,"rstudioapi, shiny, testit, rmarkdown, knitr",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"Formula","Formula","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2-5",NA,"R (>= 2.0.0), stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"fs","fs","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.3",NA,"R (>= 3.4)","methods",NA,"covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling,
+testthat (>= 3.0.0), tibble (>= 1.1.0), vctrs (>= 0.3.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"furrr","furrr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.1",NA,"future (>= 1.25.0), R (>= 3.4.0)","globals (>= 0.14.0), lifecycle (>= 1.0.1), purrr (>= 0.3.4),
+rlang (>= 1.0.2), vctrs (>= 0.4.1)",NA,"carrier, covr, dplyr (>= 0.7.4), knitr, listenv (>= 0.6.0),
+magrittr, rmarkdown, testthat (>= 3.0.0), tidyselect, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"futile.logger","futile.logger","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.3",NA,"R (>= 3.0.0)","utils, lambda.r (>= 1.1.0), futile.options",NA,"testthat, jsonlite",NA,"LGPL-3",NA,NA,NA,NA,"no","4.2.1"
+"futile.options","futile.options","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,"R (>= 2.8.0)",NA,NA,NA,NA,"LGPL-3",NA,NA,NA,NA,"no","4.2.1"
+"future","future","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.33.0",NA,NA,"digest, globals (>= 0.16.1), listenv (>= 0.8.0), parallel,
+parallelly (>= 1.34.0), utils",NA,"methods, RhpcBLASctl, R.rsp, markdown",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"future.apply","future.apply","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.11.0",NA,"R (>= 3.2.0), future (>= 1.28.0)","globals (>= 0.16.1), parallel, utils",NA,"datasets, stats, tools, listenv (>= 0.8.0), R.rsp, markdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"gamlss","gamlss","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.4-20",NA,"R (>= 3.3.0), graphics, stats, splines, utils, grDevices,
+gamlss.data (>= 5.0-0), gamlss.dist (>= 4.3.1), nlme, parallel","MASS, survival, methods",NA,"distributions3 (>= 0.2.1)",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"gamlss.data","gamlss.data","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","6.0-2",NA,"R (>= 3.5.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"gamlss.dist","gamlss.dist","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","6.1-1",NA,"R (>= 3.5.0)","MASS, graphics, stats, methods, grDevices",NA,"distributions3 (>= 0.2.1)",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"gargle","gargle","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.2",NA,"R (>= 3.6)","cli (>= 3.0.1), fs (>= 1.3.1), glue (>= 1.3.0), httr (>=
+1.4.5), jsonlite, lifecycle, openssl, rappdirs, rlang (>=
+1.1.0), stats, utils, withr",NA,"aws.ec2metadata, aws.signature, covr, httpuv, knitr,
+rmarkdown, sodium, spelling, testthat (>= 3.1.7)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"genefilter","genefilter","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.78.0",NA,NA,"BiocGenerics, AnnotationDbi, annotate, Biobase, graphics,
+methods, stats, survival, grDevices",NA,"class, hgu95av2.db, tkWidgets, ALL, ROC, RColorBrewer,
+BiocStyle, knitr",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"GeneOverlap","GeneOverlap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.32.0",NA,NA,"stats, RColorBrewer, gplots, methods",NA,"RUnit, BiocGenerics, BiocStyle",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"geneplotter","geneplotter","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.74.0",NA,"R (>= 2.10), methods, Biobase, BiocGenerics, lattice, annotate","AnnotationDbi, graphics, grDevices, grid, RColorBrewer, stats,
+utils",NA,"Rgraphviz, fibroEset, hgu95av2.db, hu6800.db, hgu133a.db",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"generics","generics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.3",NA,"R (>= 3.2)","methods",NA,"covr, pkgload, testthat (>= 3.0.0), tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"GENIE3","GENIE3","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.20.0",NA,NA,"stats, reshape2, dplyr",NA,"knitr, rmarkdown, foreach, doRNG, doParallel, Biobase,
+SummarizedExperiment, testthat, methods",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"GenomeInfoDb","GenomeInfoDb","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.32.4",NA,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.25.12), IRanges (>= 2.13.12)","stats, stats4, utils, RCurl, GenomeInfoDbData",NA,"GenomicRanges, Rsamtools, GenomicAlignments, GenomicFeatures,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene, BSgenome,
+BSgenome.Scerevisiae.UCSC.sacCer2, BSgenome.Celegans.UCSC.ce2,
+BSgenome.Hsapiens.NCBI.GRCh38, RUnit, BiocStyle, knitr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"GenomeInfoDbData","GenomeInfoDbData","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.8",NA,"R (>= 3.5.0)",NA,NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"GenomicAlignments","GenomicAlignments","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.32.1",NA,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9), GenomeInfoDb (>= 1.13.1),
+GenomicRanges (>= 1.41.5), SummarizedExperiment (>= 1.9.13),
+Biostrings (>= 2.55.7), Rsamtools (>= 1.31.2)","methods, utils, stats, BiocGenerics, S4Vectors, IRanges,
+GenomicRanges, Biostrings, Rsamtools, BiocParallel","S4Vectors, IRanges","ShortRead, rtracklayer, BSgenome, GenomicFeatures,
+RNAseqData.HNRNPC.bam.chr14, pasillaBamSubset,
+TxDb.Hsapiens.UCSC.hg19.knownGene,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+BSgenome.Dmelanogaster.UCSC.dm3, BSgenome.Hsapiens.UCSC.hg19,
+DESeq2, edgeR, RUnit, BiocStyle",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"GenomicRanges","GenomicRanges","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.48.0",NA,"R (>= 4.0.0), methods, stats4, BiocGenerics (>= 0.37.0),
+S4Vectors (>= 0.27.12), IRanges (>= 2.23.9), GenomeInfoDb (>=
+1.15.2)","utils, stats, XVector (>= 0.29.2)","S4Vectors, IRanges","Matrix, Biobase, AnnotationDbi, annotate, Biostrings (>=
+2.25.3), SummarizedExperiment (>= 0.1.5), Rsamtools (>=
+1.13.53), GenomicAlignments, rtracklayer, BSgenome,
+GenomicFeatures, Gviz, VariantAnnotation, AnnotationHub,
+DESeq2, DEXSeq, edgeR, KEGGgraph, RNAseqData.HNRNPC.bam.chr14,
+pasillaBamSubset, KEGGREST, hgu95av2.db, hgu95av2probe,
+BSgenome.Scerevisiae.UCSC.sacCer2, BSgenome.Hsapiens.UCSC.hg19,
+BSgenome.Mmusculus.UCSC.mm10,
+TxDb.Athaliana.BioMart.plantsmart22,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+TxDb.Hsapiens.UCSC.hg19.knownGene,
+TxDb.Mmusculus.UCSC.mm10.knownGene, RUnit, digest, knitr,
+rmarkdown, BiocStyle",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"gert","gert","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.0",NA,NA,"askpass, credentials (>= 1.2.1), openssl (>= 2.0.3),
+rstudioapi (>= 0.11), sys, zip (>= 2.1.0)",NA,"spelling, knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"GetoptLong","GetoptLong","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 3.3.0)","rjson, GlobalOptions (>= 0.1.0), methods, crayon",NA,"testthat (>= 1.0.0), knitr, markdown, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggalluvial","ggalluvial","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.12.5",NA,"R (>= 3.6), ggplot2 (>= 2.2)","stats, dplyr (>= 0.7), tidyr (>= 0.7), lazyeval, rlang,
+tidyselect",NA,"grid, alluvial, testthat, knitr, rmarkdown, babynames,
+sessioninfo, ggrepel, shiny (>= 1.4.0.2), htmltools, sp (>=
+1.4-0), ggfittext (>= 0.6), vdiffr (>= 0.2)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ggbeeswarm","ggbeeswarm","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.7.2",NA,"R (>= 3.5.0), ggplot2 (>= 3.3.0)","beeswarm, lifecycle, vipor, cli",NA,"gridExtra",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"ggdendro","ggdendro","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.0",NA,"R(>= 3.5)","MASS, ggplot2(>= 0.9.2)",NA,"rpart (>= 4.0-0), tree, testthat, knitr, cluster, scales,
+spelling, rmarkdown, covr",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ggforce","ggforce","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.1",NA,"ggplot2 (>= 3.3.6), R (>= 3.3.0)","Rcpp (>= 0.12.2), grid, scales, MASS, tweenr (>= 0.1.5),
+gtable, rlang, polyclip, stats, grDevices, tidyselect, withr,
+utils, lifecycle, cli, vctrs, systemfonts","Rcpp, RcppEigen","sessioninfo, concaveman, deldir, latex2exp, reshape2, units
+(>= 0.4-6), covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"ggforestplot","ggforestplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.0",NA,"R (>= 3.5.0)","broom, dplyr (>= 0.8.0), generics, ggforce, ggplot2,
+ggplotify, ggstance, grid, gridExtra, lazyeval, magrittr,
+patchwork, purrr, rlang, scales, stringr, survival, tibble,
+tidyr (>= 1.0.0), tidyselect",NA,"knitr, readr, rmarkdown, tidyverse, testthat, vdiffr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggfun","ggfun","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.3",NA,"R (>= 4.1.0)","cli, ggplot2, grid, rlang, utils",NA,"ggplotify, knitr, rmarkdown, prettydoc, tidyr, ggnewscale",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"ggnetwork","ggnetwork","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.12",NA,"R (>= 3.5), ggplot2 (>= 2.0.0)","ggrepel (>= 0.5), network, igraph, sna, utils",NA,"knitr, rmarkdown, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ggnewscale","ggnewscale","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.10",NA,NA,"ggplot2 (>= 3.0.0)",NA,"testthat, vdiffr, covr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ggplot2","ggplot2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.4.4",NA,"R (>= 3.3)","cli, glue, grDevices, grid, gtable (>= 0.1.1), isoband,
+lifecycle (> 1.0.1), MASS, mgcv, rlang (>= 1.1.0), scales (>=
+1.2.0), stats, tibble, vctrs (>= 0.5.0), withr (>= 2.5.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, lattice,
+mapproj, maps, multcomp, munsell, nlme, profvis, quantreg,
+ragg, RColorBrewer, rmarkdown, rpart, sf (>= 0.7-3), svglite
+(>= 1.2.0.9001), testthat (>= 3.1.2), vdiffr (>= 1.0.0), xml2","sp","MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggplotify","ggplotify","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.2",NA,"R (>= 3.4.0)","ggplot2, graphics, grDevices, grid, gridGraphics, yulab.utils",NA,"aplot, colorspace, cowplot, ggimage, knitr, rmarkdown,
+lattice, prettydoc, vcd, utils",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"ggprism","ggprism","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 3.2)","digest, ggplot2 (>= 3.2.0), glue, grid, gtable (>= 0.1.1),
+rlang (>= 0.3.0), scales (>= 0.5.0), stats, tibble, utils",NA,"covr, dplyr, ggbeeswarm, ggnewscale, knitr, magrittr,
+patchwork, rmarkdown, rstatix, tidyr, tinytest",NA,"GPL (>= 3.0)",NA,NA,NA,NA,"no","4.2.1"
+"ggpubr","ggpubr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6.0",NA,"R (>= 3.1.0), ggplot2 (>= 3.4.0)","ggrepel (>= 0.9.2), grid, ggsci, stats, utils, tidyr (>=
+1.3.0), purrr, dplyr (>= 0.7.1), cowplot (>= 1.1.1), ggsignif,
+scales, gridExtra, glue, polynom, rlang (>= 0.4.6), rstatix (>=
+0.7.2), tibble, magrittr",NA,"grDevices, knitr, RColorBrewer, gtable, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"ggraph","ggraph","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.0",NA,"R (>= 2.10), ggplot2 (>= 3.0.0)","Rcpp (>= 0.12.2), dplyr, ggforce (>= 0.3.1), grid, igraph (>=
+1.0.0), scales, MASS, digest, gtable, ggrepel, utils, stats,
+viridis, rlang, tidygraph, graphlayouts (>= 0.5.0), withr, cli,
+vctrs, lifecycle","Rcpp","network, knitr, rmarkdown, purrr, tibble, seriation, deldir,
+gganimate, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"ggrastr","ggrastr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.2",NA,"R (>= 3.2.2)","ggplot2 (>= 2.1.0), Cairo (>= 1.5.9), ggbeeswarm, grid, png,
+ragg",NA,"knitr, maps, rmarkdown, sf",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggrepel","ggrepel","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9.4",NA,"R (>= 3.0.0), ggplot2 (>= 2.2.0)","grid, Rcpp, rlang (>= 0.3.0), scales (>= 0.5.0), withr (>=
+2.5.0)","Rcpp","knitr, rmarkdown, testthat, svglite, vdiffr, gridExtra,
+devtools, prettydoc, ggbeeswarm, dplyr, magrittr, readr,
+stringr",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"ggridges","ggridges","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.4",NA,"R (>= 3.2)","ggplot2 (>= 3.0.0), grid (>= 3.0.0), scales (>= 0.4.1), withr
+(>= 2.1.1)",NA,"covr, dplyr, patchwork, ggplot2movies, forcats, knitr,
+rmarkdown, testthat, vdiffr",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggsci","ggsci","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0.0",NA,"R (>= 3.5.0)","ggplot2 (>= 2.0.0), grDevices, scales",NA,"gridExtra, knitr, ragg, reshape2, rmarkdown",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"ggsignif","ggsignif","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6.4",NA,NA,"ggplot2 (>= 3.3.5)",NA,"knitr, rmarkdown, testthat, vdiffr (>= 1.0.2)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ggstance","ggstance","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.6",NA,"R (>= 3.6.0)","cli (>= 3.4.1), ggplot2 (>= 3.4.0), plyr, rlang, withr (>=
+2.0.0)",NA,"covr, Hmisc, testthat, vdiffr (>= 1.0.4)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ggtree","ggtree","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.4.4",NA,"R (>= 3.5.0)","ape, aplot, dplyr, ggplot2 (>= 3.0.0), grid, magrittr,
+methods, purrr, rlang, ggfun (>= 0.0.6), yulab.utils, tidyr,
+tidytree (>= 0.3.9), treeio (>= 1.8.0), utils, scales",NA,"emojifont, ggimage, ggplotify, shadowtext, grDevices, knitr,
+prettydoc, rmarkdown, stats, testthat, tibble, glue",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"gh","gh","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.0",NA,"R (>= 3.4)","cli (>= 3.0.1), gitcreds, httr2, ini, jsonlite, rlang (>=
+1.0.0)",NA,"covr, knitr, mockery, rmarkdown, rprojroot, spelling,
+testthat (>= 3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"gistr","gistr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9.0",NA,NA,"jsonlite, crul, httr, magrittr, assertthat, knitr, rmarkdown,
+dplyr",NA,"git2r, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"gitcreds","gitcreds","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.2",NA,"R (>= 3.4)",NA,NA,"codetools, covr, knitr, mockery, oskeyring, rmarkdown,
+testthat (>= 3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"gld","gld","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.6.6",NA,NA,"stats, graphics, e1071, lmom",NA,"",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"glmGamPoi","glmGamPoi","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.0",NA,NA,"Rcpp, DelayedMatrixStats, matrixStats, DelayedArray,
+HDF5Array, SummarizedExperiment, BiocGenerics, methods, stats,
+utils, splines","Rcpp, RcppArmadillo, beachmat","testthat (>= 2.1.0), zoo, DESeq2, edgeR, limma, beachmat,
+MASS, statmod, ggplot2, bench, BiocParallel, knitr, rmarkdown,
+BiocStyle, TENxPBMCData, muscData, scran",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"glmmTMB","glmmTMB","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.8",NA,"R (>= 3.2.0)","methods, TMB (>= 1.9.0), lme4 (>= 1.1-18.9000), Matrix, nlme,
+numDeriv, mgcv","TMB, RcppEigen","knitr, rmarkdown, testthat, MASS, lattice, ggplot2 (>=
+2.2.1), mlmRev, bbmle (>= 1.0.19), pscl, coda, reshape2, car
+(>= 3.0.6), emmeans (>= 1.4), estimability, DHARMa, multcomp,
+MuMIn, effects (>= 4.0-1), dotwhisker, broom, broom.mixed,
+plyr, png, boot, texreg, xtable, huxtable, mvabund, parallel",NA,"AGPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"glmnet","glmnet","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.1-8",NA,"R (>= 3.6.0), Matrix (>= 1.0-6)","methods, utils, foreach, shape, survival, Rcpp","RcppEigen, Rcpp","knitr, lars, testthat, xfun, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"GlobalOptions","GlobalOptions","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.2",NA,"R (>= 3.3.0), methods","utils",NA,"testthat (>= 1.0.0), knitr, markdown, GetoptLong",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"globals","globals","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.16.2",NA,"R (>= 3.1.2)","codetools",NA,NA,NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"glue","glue","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.2",NA,"R (>= 3.4)","methods",NA,"covr, crayon, DBI, dplyr, forcats, ggplot2, knitr, magrittr,
+microbenchmark, R.utils, rmarkdown, rprintf, RSQLite, stringr,
+testthat (>= 3.0.0), vctrs (>= 0.3.0), waldo (>= 0.3.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"GO.db","GO.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.15.0",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.57.1)",NA,NA,"DBI",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"goftest","goftest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2-3",NA,"R (>= 3.3)","stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"googledrive","googledrive","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.1",NA,"R (>= 3.6)","cli (>= 3.0.0), gargle (>= 1.5.0), glue (>= 1.4.2), httr,
+jsonlite, lifecycle, magrittr, pillar (>= 1.9.0), purrr (>=
+1.0.1), rlang (>= 1.0.2), tibble (>= 2.0.0), utils, uuid, vctrs
+(>= 0.3.0), withr",NA,"curl, dplyr (>= 1.0.0), knitr, mockr, rmarkdown, spelling,
+testthat (>= 3.1.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"googlesheets4","googlesheets4","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,"R (>= 3.6)","cellranger, cli (>= 3.0.0), curl, gargle (>= 1.5.0), glue (>=
+1.3.0), googledrive (>= 2.1.0), httr, ids, lifecycle, magrittr,
+methods, purrr, rematch2, rlang (>= 1.0.2), tibble (>= 2.1.1),
+utils, vctrs (>= 0.2.3), withr",NA,"readr, rmarkdown, spelling, testthat (>= 3.1.7)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"GOplot","GOplot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.2",NA,"ggplot2 (>= 2.0.0), ggdendro (>= 0.1-17), gridExtra (>=
+2.0.0), RColorBrewer (>= 1.1.2), R (>= 3.2.3)",NA,NA,"knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"GOSemSim","GOSemSim","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.22.0",NA,"R (>= 3.5.0)","AnnotationDbi, GO.db, methods, utils","Rcpp","AnnotationHub, BiocManager, clusterProfiler, DOSE, knitr,
+rmarkdown, org.Hs.eg.db, prettydoc, testthat, ROCR",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"GOSim","GOSim","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.34.0",NA,"GO.db, annotate","org.Hs.eg.db, AnnotationDbi, topGO, cluster, flexmix, RBGL,
+graph, Matrix, corpcor, Rcpp","Rcpp",NA,"igraph","GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"gower","gower","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,NA,NA,NA,"tinytest (>= 0.9.3),",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"gplots","gplots","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.1.3",NA,"R (>= 3.0)","gtools, stats, caTools, KernSmooth, methods",NA,"grid, MASS, knitr, r2d2",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"gprofiler2","gprofiler2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.2",NA,"R (>= 3.5)","jsonlite, RCurl, ggplot2, plotly, tidyr (>= 1.0.0), crosstalk,
+grDevices, gridExtra, grid, viridisLite, dplyr",NA,"knitr, rmarkdown, prettydoc",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"graph","graph","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.74.0",NA,"R (>= 2.10), methods, BiocGenerics (>= 0.13.11)","stats, stats4, utils",NA,"SparseM (>= 0.36), XML, RBGL, RUnit, cluster","Rgraphviz","Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"graphite","graphite","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.42.0",NA,"R (>= 4.2), methods","AnnotationDbi, graph (>= 1.67.1), httr, rappdirs, stats,
+utils, graphics, rlang",NA,"checkmate, a4Preproc, ALL, BiocStyle, clipper, codetools,
+hgu133plus2.db, hgu95av2.db, impute, knitr, org.Hs.eg.db,
+parallel, R.rsp, RCy3, rmarkdown, SPIA (>= 2.2), testthat,
+topologyGSA (>= 1.4.0)",NA,"AGPL-3",NA,NA,NA,NA,"no","4.2.1"
+"graphlayouts","graphlayouts","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,"R (>= 3.2.0)","igraph, Rcpp","Rcpp, RcppArmadillo","oaqc, testthat, ggraph, ggplot2, knitr, rmarkdown, uwot",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"gridBase","gridBase","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4-7",NA,"R (>= 2.3.0)","graphics, grid",NA,"lattice",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"gridExtra","gridExtra","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3",NA,NA,"gtable, grid, grDevices, graphics, utils",NA,"ggplot2, egg, lattice, knitr, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"gridGraphics","gridGraphics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5-1",NA,"grid, graphics","grDevices",NA,"magick (>= 1.3), pdftools (>= 1.6)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"groundhog","groundhog","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.1.2",NA,"utils","methods",NA,"git2r, remotes",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"GSEABase","GSEABase","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.58.0",NA,"R (>= 2.6.0), BiocGenerics (>= 0.13.8), Biobase (>= 2.17.8),
+annotate (>= 1.45.3), methods, graph (>= 1.37.2)","AnnotationDbi, XML",NA,"hgu95av2.db, GO.db, org.Hs.eg.db, Rgraphviz, ReportingTools,
+testthat, BiocStyle, knitr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"gtable","gtable","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.4",NA,"R (>= 3.5)","cli, glue, grid, lifecycle, rlang (>= 1.1.0)",NA,"covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"gtools","gtools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.9.4",NA,"methods, stats, utils",NA,NA,"car, gplots, knitr, rstudioapi, SGP, taxize",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"GWENA","GWENA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0",NA,"R (>= 4.1)","WGCNA (>= 1.67), dplyr (>= 0.8.3), dynamicTreeCut (>= 1.63-1),
+ggplot2 (>= 3.1.1), gprofiler2 (>= 0.1.6), magrittr (>= 1.5),
+tibble (>= 2.1.1), tidyr (>= 1.0.0), NetRep (>= 1.2.1), igraph
+(>= 1.2.4.1), RColorBrewer (>= 1.1-2), purrr (>= 0.3.3), rlist
+(>= 0.4.6.1), matrixStats (>= 0.55.0), SummarizedExperiment (>=
+1.14.1), stringr (>= 1.4.0), cluster (>= 2.1.0), grDevices (>=
+4.0.4), methods, graphics, stats, utils",NA,"testthat (>= 2.1.0), knitr (>= 1.25), rmarkdown (>= 1.16),
+prettydoc (>= 0.3.0), httr (>= 1.4.1), S4Vectors (>= 0.22.1),
+BiocStyle (>= 2.15.8)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"hardhat","hardhat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.0",NA,"R (>= 3.5.0)","cli (>= 3.6.0), glue (>= 1.6.2), rlang (>= 1.1.0), tibble (>=
+3.2.1), vctrs (>= 0.6.0)",NA,"covr, crayon, devtools, knitr, Matrix, modeldata (>= 0.0.2),
+recipes (>= 1.0.5), rmarkdown (>= 2.3), roxygen2, testthat (>=
+3.0.0), usethis (>= 2.1.5)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"harmony","harmony","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.0",NA,"R(>= 3.5.0), Rcpp","dplyr, cowplot, ggplot2, Matrix, methods, tibble, rlang,
+RhpcBLASctl","Rcpp, RcppArmadillo, RcppProgress","SingleCellExperiment, Seurat (>= 4.1.1), testthat, knitr,
+rmarkdown, ggthemes, ggrepel, patchwork, tidyverse, tidyr,
+data.table",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"haven","haven","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.5.3",NA,"R (>= 3.6)","cli (>= 3.0.0), forcats (>= 0.2.0), hms, lifecycle, methods,
+readr (>= 0.1.0), rlang (>= 0.4.0), tibble, tidyselect, vctrs
+(>= 0.3.0)","cpp11","covr, crayon, fs, knitr, pillar (>= 1.4.0), rmarkdown,
+testthat (>= 3.0.0), utf8",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"HDF5Array","HDF5Array","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.24.2",NA,"R (>= 3.4), methods, DelayedArray (>= 0.15.16), rhdf5 (>=
+2.31.6)","utils, stats, tools, Matrix, rhdf5filters, BiocGenerics (>=
+0.31.5), S4Vectors, IRanges","S4Vectors (>= 0.27.13), Rhdf5lib","BiocParallel, GenomicRanges, SummarizedExperiment (>=
+1.15.1), h5vcData, ExperimentHub, TENxBrainData, zellkonverter,
+GenomicFeatures, RUnit, SingleCellExperiment",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"hdf5r","hdf5r","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.7",NA,"R (>= 3.2.2), methods","R6, bit64, utils",NA,"testthat, knitr, rmarkdown, nycflights13, reshape2, formatR,",NA,"Apache License 2.0 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"hdWGCNA","hdWGCNA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.01",NA,"R (>= 3.5.0), harmony (>= 1.0.1), Seurat (>= 4.0.0), ggrepel
+(>= 0.9.0), WGCNA, igraph","WGCNA, Seurat, Matrix, harmony, igraph, ggplot2, dplyr,
+tester, proxy",NA,"testthat (>= 3.0.0)",NA,"GNU GPLv3",NA,NA,NA,NA,"no","4.2.1"
+"here","here","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,NA,"rprojroot (>= 2.0.2)",NA,"conflicted, covr, fs, knitr, palmerpenguins, plyr, readr,
+rlang, rmarkdown, testthat, uuid, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"hexbin","hexbin","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.28.3",NA,"R (>= 2.0.1), methods","lattice, grid, graphics, grDevices, stats, utils",NA,"marray, affy, Biobase, limma, knitr",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"highr","highr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.10",NA,"R (>= 3.3.0)","xfun (>= 0.18)",NA,"knitr, markdown, testit",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"Hmisc","Hmisc","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.1-1",NA,NA,"methods, ggplot2, cluster, rpart, nnet, foreign, gtable, grid,
+gridExtra, data.table, htmlTable (>= 1.11.0), viridis,
+htmltools, base64enc, colorspace, rmarkdown, knitr, Formula",NA,"survival, qreport, acepack, chron, rms, mice, rstudioapi,
+tables, plotly (>= 4.5.6), rlang, plyr, VGAM, leaps, pcaPP,
+digest, parallel, polspline, abind, kableExtra, rio, lattice,
+latticeExtra, gt, sparkline, jsonlite, htmlwidgets, qs,
+getPass, keyring, safer",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"hms","hms","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,NA,"lifecycle, methods, pkgconfig, rlang (>= 1.0.2), vctrs (>=
+0.3.8)",NA,"crayon, lubridate, pillar (>= 1.1.0), testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"hopach","hopach","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.56.0",NA,"R (>= 2.11.0), cluster, Biobase, methods","graphics, grDevices, stats, utils, BiocGenerics",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"htmlTable","htmlTable","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.1",NA,NA,"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",NA,"testthat, XML, xml2, Hmisc, reshape, rmarkdown, chron,
+lubridate, tibble, purrr, tidyselect, glue, rlang, tidyr (>=
+0.7.2), dplyr (>= 0.7.4)",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"htmltools","htmltools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.6.1",NA,"R (>= 2.14.1)","utils, digest, grDevices, base64enc, rlang (>= 0.4.12),
+fastmap (>= 1.1.0), ellipsis",NA,"markdown, testthat, withr, Cairo, ragg, shiny","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"htmlwidgets","htmlwidgets","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.2",NA,NA,"grDevices, htmltools (>= 0.5.4), jsonlite (>= 0.9.16), yaml,
+knitr (>= 1.8), rmarkdown",NA,"testthat","shiny (>= 1.1)","MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"httpcode","httpcode","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"httpuv","httpuv","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.12",NA,"R (>= 2.15.1)","later (>= 0.8.0), promises, R6, Rcpp (>= 1.0.7), utils","later, Rcpp","callr, curl, testthat, websocket",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"httr","httr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.7",NA,"R (>= 3.5)","curl (>= 5.0.2), jsonlite, mime, openssl (>= 0.8), R6",NA,"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"httr2","httr2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.3",NA,"R (>= 3.4)","cli (>= 3.0.0), curl, glue, magrittr, openssl, R6, rappdirs,
+rlang (>= 1.0.0), withr",NA,"askpass, bench, clipr, covr, docopt, httpuv, jose, jsonlite,
+knitr, purrr, rmarkdown, testthat (>= 3.0.0), tibble, webfakes,
+xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ica","ica","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-3",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"ids","ids","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,NA,"openssl, uuid",NA,"knitr, rcorpora, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"igraph","igraph","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.1",NA,"methods, R (>= 3.5.0)","cli, graphics, grDevices, lifecycle, magrittr, Matrix,
+pkgconfig (>= 2.0.0), rlang, stats, utils","cpp11 (>= 0.2.0)","ape (>= 5.7-0.1), callr, decor, digest, graph, igraphdata,
+knitr, rgl, rmarkdown, scales, stats4, tcltk, testthat, vdiffr,
+withr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"impute","impute","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.70.0",NA,"R (>= 2.10)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"ini","ini","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"inline","inline","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.19",NA,NA,"methods",NA,"Rcpp (>= 0.11.0), tinytest",NA,"LGPL",NA,NA,NA,NA,"no","4.2.1"
+"intergraph","intergraph","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0-3",NA,"R (>= 2.10)","network (>= 1.4-2), igraph (>= 0.6-0), utils",NA,"rmarkdown, knitr, roxygen2, testthat, tibble",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"ipred","ipred","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9-14",NA,"R (>= 2.10)","rpart (>= 3.1-8), MASS, survival, nnet, class, prodlim",NA,"mvtnorm, mlbench, TH.data, randomForest, party",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"IRanges","IRanges","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.30.1",NA,"R (>= 4.0.0), methods, utils, stats, BiocGenerics (>= 0.39.2),
+S4Vectors (>= 0.33.3)","stats4","S4Vectors","XVector, GenomicRanges, Rsamtools, GenomicAlignments,
+GenomicFeatures, BSgenome.Celegans.UCSC.ce2, pasillaBamSubset,
+RUnit, BiocStyle",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"irlba","irlba","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.5.1",NA,"R (>= 3.6.2), Matrix","stats, methods","Matrix",NA,NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"isoband","isoband","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.7",NA,NA,"grid, utils",NA,"covr, ggplot2, knitr, magick, microbenchmark, rmarkdown, sf,
+testthat, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"iterators","iterators","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.14",NA,"R (>= 2.5.0), utils",NA,NA,"RUnit, foreach",NA,"Apache License (== 2.0)",NA,NA,NA,NA,"no","4.2.1"
+"janitor","janitor","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.2.0",NA,"R (>= 3.1.2)","dplyr (>= 1.0.0), hms, lifecycle, lubridate, magrittr, purrr,
+rlang, stringi, stringr, snakecase (>= 0.9.2), tidyselect (>=
+1.0.0), tidyr (>= 0.7.0)",NA,"dbplyr, knitr, rmarkdown, RSQLite, sf, testthat (>= 3.0.0),
+tibble, tidygraph",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"jquerylib","jquerylib","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.4",NA,NA,"htmltools",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"jsonlite","jsonlite","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.7",NA,"methods",NA,NA,"httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"KEGGREST","KEGGREST","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.36.3",NA,"R (>= 3.5.0)","methods, httr, png, Biostrings",NA,"RUnit, BiocGenerics, knitr, markdown",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"kernlab","kernlab","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9-32",NA,"R (>= 2.10)","methods, stats, grDevices, graphics",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"knitr","knitr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.44",NA,"R (>= 3.3.0)","evaluate (>= 0.15), highr, methods, tools, xfun (>= 0.39),
+yaml (>= 2.1.19)",NA,"bslib, codetools, DBI (>= 0.4-1), digest, formatR, gifski,
+gridSVG, htmlwidgets (>= 0.7), curl, jpeg, JuliaCall (>=
+0.11.1), magick, markdown (>= 1.3), png, ragg, reticulate (>=
+1.4), rgl (>= 0.95.1201), rlang, rmarkdown, sass, showtext,
+styler (>= 1.2.0), targets (>= 0.6.0), testit, tibble,
+tikzDevice (>= 0.10), tinytex (>= 0.46), webshot, rstudioapi,
+svglite, xml2 (>= 1.2.0)",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"labeling","labeling","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.3",NA,NA,"stats, graphics",NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","4.2.1"
+"lambda.r","lambda.r","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.4",NA,"R (>= 3.0.0)","formatR",NA,"testit",NA,"LGPL-3",NA,NA,NA,NA,"no","4.2.1"
+"lars","lars","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3",NA,"R (>= 2.10)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"later","later","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.1",NA,NA,"Rcpp (>= 0.12.9), rlang","Rcpp","knitr, rmarkdown, testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"lava","lava","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.2.1",NA,"R (>= 3.0)","future.apply, grDevices, graphics, methods, numDeriv,
+progressr, stats, survival, SQUAREM, utils",NA,"KernSmooth, Matrix, Rgraphviz, data.table, ellipse, fields,
+geepack, graph, knitr, bookdown, rmarkdown, igraph (>= 0.6),
+lavaSearch2, lme4, mets (>= 1.1), nlme, optimx, polycor,
+quantreg, rgl, R.rsp (>= 0.40), targeted (>= 0.2), testthat (>=
+0.11), visNetwork, zoo",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"lazyeval","lazyeval","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.2",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"leiden","leiden","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.3",NA,NA,"methods, reticulate, Matrix, igraph (>= 1.2.7)",NA,"bipartite, covr, data.table, devtools, graphsim, knitr,
+markdown, multiplex, multinet, network, RColorBrewer, remotes,
+rmarkdown, spelling, testthat, tibble",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"lfda","lfda","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,"R (>= 3.1.0)","plyr, grDevices, rARPACK",NA,"testthat, rgl",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"lhs","lhs","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.6",NA,"R (>= 3.4.0)","Rcpp","Rcpp","testthat, assertthat, DoE.base, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"Libra","Libra","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 3.6.0)","dplyr (>= 0.8.0), purrr (>= 0.3.2), tibble (>= 2.1.3),
+magrittr (>= 1.5), tester (>= 0.1.7), Matrix (>= 1.2-14),
+pbmcapply (>= 1.5.0), lmtest (>= 0.9-37), tidyselect (>=
+0.2.5), DESeq2 (>= 0.4.0), Seurat (>= 3.1.5), blme (>= 1.0-4),
+edgeR (>= 3.28.1), glmmTMB (>= 1.0.2.1), limma (>= 3.1-3), lme4
+(>= 1.1-25), lmerTest (>= 3.1-3), matrixStats (>= 0.57.0),
+forcats (>= 0.5.0), methods, stats, Rdpack (>= 0.7)",NA,"knitr, monocle3, SingleCellExperiment, SummarizedExperiment",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"lifecycle","lifecycle","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.3",NA,"R (>= 3.4)","cli (>= 3.4.0), glue, rlang (>= 1.0.6)",NA,"covr, crayon, knitr, lintr, rmarkdown, testthat (>= 3.0.1),
+tibble, tidyverse, tools, vctrs, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"limma","limma","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.52.4",NA,"R (>= 3.6.0)","grDevices, graphics, stats, utils, methods",NA,"affy, AnnotationDbi, BiasedUrn, Biobase, ellipse, GO.db,
+gplots, illuminaio, locfit, MASS, org.Hs.eg.db, splines,
+statmod (>= 1.2.2), vsn",NA,"GPL (>=2)",NA,NA,NA,NA,"yes","4.2.1"
+"listenv","listenv","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9.0",NA,"R (>= 3.1.2)",NA,NA,"R.utils, R.rsp, markdown",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"lme4","lme4","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-34",NA,"R (>= 3.5.0), Matrix (>= 1.2-1), methods, stats","graphics, grid, splines, utils, parallel, MASS, lattice, boot,
+nlme (>= 3.1-123), minqa (>= 1.1.15), nloptr (>= 1.0.4)","Rcpp (>= 0.10.5), RcppEigen","knitr, rmarkdown, MEMSS, testthat (>= 0.8.1), ggplot2,
+mlmRev, optimx (>= 2013.8.6), gamm4, pbkrtest, HSAUR3,
+numDeriv, car, dfoptim, mgcv, statmod, rr2, semEff, tibble,
+merDeriv",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"lmerTest","lmerTest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.1-3",NA,"R (>= 3.2.5), lme4 (>= 1.1-10), stats, methods","numDeriv, MASS, ggplot2",NA,"pbkrtest (>= 0.4-3), tools",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"lmom","lmom","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0",NA,"R (>= 3.0.0)","stats, graphics",NA,NA,NA,"Common Public License Version 1.0",NA,NA,NA,NA,"yes","4.2.1"
+"lmtest","lmtest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9-40",NA,"R (>= 3.0.0), stats, zoo","graphics",NA,"car, strucchange, sandwich, dynlm, stats4, survival, AER",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"lobstr","lobstr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.2",NA,"R (>= 3.2)","crayon, methods, prettyunits, rlang (>= 1.0.0)","cpp11 (>= 0.4.2)","covr, pillar, pkgdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"locfit","locfit","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5-9.8",NA,"R (>= 4.1.0)","lattice",NA,"interp, gam",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"loo","loo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.6.0",NA,"R (>= 3.1.2)","checkmate, matrixStats (>= 0.52), parallel, stats",NA,"bayesplot (>= 1.7.0), brms (>= 2.10.0), ggplot2, graphics,
+knitr, posterior, rmarkdown, rstan, rstanarm (>= 2.19.0),
+rstantools, spdep, testthat (>= 2.1.0)",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"loomR","loomR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.1.9000",NA,"R (>= 3.2.2), R6, hdf5r","utils, Matrix, methods, pbapply, stringr, stats",NA,NA,NA,"DBAD",NA,NA,NA,NA,"no","4.2.1"
+"lubridate","lubridate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.9.3",NA,"methods, R (>= 3.2)","generics, timechange (>= 0.1.1)",NA,"covr, knitr, rmarkdown, testthat (>= 2.1.0), vctrs (>= 0.5.0)","chron, data.table, timeDate, tis, zoo","GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"M3Drop","M3Drop","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.22.0",NA,"R (>= 3.4), numDeriv","RColorBrewer, gplots, bbmle, statmod, grDevices, graphics,
+stats, matrixStats, Matrix, irlba, reldist, Hmisc, methods",NA,"ROCR, knitr, M3DExampleData, scater, SingleCellExperiment,
+monocle, Seurat, Biobase",NA,"GPL (>=2)",NA,NA,NA,NA,"no","4.2.1"
+"magrittr","magrittr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.3",NA,"R (>= 3.4.0)",NA,NA,"covr, knitr, rlang, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"mapproj","mapproj","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.11",NA,"R (>= 3.0.0), maps (>= 2.3-0)","stats, graphics",NA,NA,NA,"Lucent Public License",NA,NA,NA,NA,"yes","4.2.1"
+"maps","maps","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.4.1",NA,"R (>= 3.5.0)","graphics, utils",NA,"mapproj (>= 1.2-0), mapdata (>= 2.3.0), sp, rnaturalearth",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"MAST","MAST","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.22.0",NA,"SingleCellExperiment (>= 1.2.0), R(>= 3.5)","Biobase, BiocGenerics, S4Vectors, data.table, ggplot2, plyr,
+stringr, abind, methods, parallel, reshape2, stats, stats4,
+graphics, utils, SummarizedExperiment(>= 1.5.3), progress",NA,"knitr, rmarkdown, testthat, lme4(>= 1.0), blme, roxygen2(>
+6.0.0), numDeriv, car, gdata, lattice, GGally, GSEABase, NMF,
+TxDb.Hsapiens.UCSC.hg19.knownGene, rsvd, limma, RColorBrewer,
+BiocStyle, scater, DelayedArray, Matrix, HDF5Array, zinbwave,
+dplyr",NA,"GPL(>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"mathjaxr","mathjaxr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6-0",NA,NA,NA,NA,"js",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"Matrix","Matrix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6-1.1","recommended","R (>= 3.5.0), methods","grDevices, graphics, grid, lattice, stats, utils",NA,"MASS, datasets, sfsmisc","SparseM, graph","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","4.2.1"
+"MatrixGenerics","MatrixGenerics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.15.0",NA,"matrixStats (>= 1.0.0)","methods",NA,"Matrix, sparseMatrixStats, SparseArray, DelayedArray,
+DelayedMatrixStats, SummarizedExperiment, testthat (>= 2.1.0)",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"MatrixModels","MatrixModels","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5-2",NA,"R (>= 3.6.0)","stats, methods, Matrix (>= 1.6-0)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"matrixStats","matrixStats","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 2.12.0)",NA,NA,"base64enc, ggplot2, knitr, markdown, microbenchmark,
+R.devices, R.rsp",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"maxLik","maxLik","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5-2",NA,"R (>= 2.4.0), miscTools (>= 0.6-8), methods","sandwich, generics",NA,"MASS, clue, dlm, plot3D, tibble, tinytest",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"mclust","mclust","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","6.0.0",NA,"R (>= 3.0)","stats, utils, graphics, grDevices",NA,"knitr (>= 1.12), rmarkdown (>= 0.9), mix (>= 1.0), geometry
+(>= 0.3-6), MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"memoise","memoise","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.1",NA,NA,"rlang (>= 0.4.10), cachem",NA,"digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr,
+testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"metap","metap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.9",NA,"R (>= 3.5.0)","lattice,Rdpack (>= 0.7),TFisher,mutoss,mathjaxr (>=
+0.8-3),qqconf",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"metapod","metapod","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.0",NA,NA,"Rcpp","Rcpp","testthat, knitr, BiocStyle, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"MetBrewer","MetBrewer","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.0",NA,NA,"ggplot2",NA,NA,NA,"CC0",NA,NA,NA,NA,"no","4.2.1"
+"mime","mime","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.12",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","4.2.1"
+"miniUI","miniUI","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.1.1",NA,NA,"shiny (>= 0.13), htmltools (>= 0.3), utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"minpack.lm","minpack.lm","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2-4",NA,NA,NA,NA,"MASS",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"minqa","minqa","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.6",NA,NA,"Rcpp (>= 0.9.10)","Rcpp",NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"miscTools","miscTools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6-28",NA,"R (>= 2.14.0)","digest",NA,"Ecdat (>= 0.1-5)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"mixtools","mixtools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.0",NA,"R (>= 4.0.0)","kernlab, MASS, plotly, scales, segmented, stats, survival",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"MLmetrics","MLmetrics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,"R (>= 2.10)","stats, utils, ROCR",NA,"e1071",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"mlr","mlr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.19.1",NA,"ParamHelpers (>= 1.10), R (>= 3.0.2)","backports (>= 1.1.0), BBmisc (>= 1.11), checkmate (>= 1.8.2),
+data.table (>= 1.12.4), ggplot2, methods, parallelMap (>= 1.3),
+stats, stringi, survival, utils, XML",NA,"ada, adabag, bartMachine, batchtools, bit64, brnn, bst, C50,
+care, caret (>= 6.0-57), class, clue, cluster, ClusterR,
+clusterSim (>= 0.44-5), cmaes, cowplot, crs, Cubist, deepnet,
+DiceKriging, e1071, earth, elasticnet, emoa, evtree, fda.usc,
+FDboost, FNN, forecast (>= 8.3), fpc, frbs, FSelector,
+FSelectorRcpp (>= 0.3.5), gbm, GenSA, ggpubr, glmnet, GPfit,
+h2o (>= 3.6.0.8), Hmisc, irace (>= 2.0), kernlab, kknn, klaR,
+knitr, laGP, LiblineaR, lintr (>= 1.0.0.9001), MASS, mboost,
+mco, mda, memoise, mlbench, mldr, mlrMBO, mmpf, modeltools,
+mRMRe, neuralnet, nnet, numDeriv, pamr, pander, party, pec,
+penalized (>= 0.9-47), pls, PMCMRplus, praznik (>= 5.0.0),
+randomForest, ranger (>= 0.8.0), rappdirs, refund, rex, rFerns,
+rgenoud, rmarkdown, Rmpi, ROCR, rotationForest, rpart, RRF,
+rsm, RSNNS, rucrdtw, RWeka, sda, sf, smoof, sparseLDA, stepPlr,
+survAUC, svglite, SwarmSVM, testthat, tgp, TH.data, tidyr,
+tsfeatures, vdiffr, wavelets, xgboost (>= 0.7)",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"mlrMBO","mlrMBO","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.5.1",NA,"mlr (>= 2.10), ParamHelpers (>= 1.10), smoof (>= 1.5.1)","backports (>= 1.1.0), BBmisc (>= 1.11), checkmate (>= 1.8.2),
+data.table, lhs, parallelMap (>= 1.3)",NA,"cmaesr (>= 1.0.3), ggplot2, DiceKriging, earth, emoa, GGally,
+gridExtra, kernlab, kknn, knitr, mco, nnet, party,
+randomForest, reshape2, rmarkdown, rgenoud, rpart, testthat,
+covr",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"mnormt","mnormt","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.1",NA,"R (>= 2.2.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"ModelMetrics","ModelMetrics","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.2.2",NA,"R (>= 3.2.2)","Rcpp, data.table","Rcpp","testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"modelr","modelr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.11",NA,"R (>= 3.2)","broom, magrittr, purrr (>= 0.2.2), rlang (>= 1.0.6), tibble,
+tidyr (>= 0.8.0), tidyselect, vctrs",NA,"compiler, covr, ggplot2, testthat (>= 3.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"modeltools","modeltools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2-23",NA,"stats, stats4","methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"MTPS","MTPS","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.2",NA,"R (>= 3.5.0), glmnet, rpart, MASS, e1071, class",NA,NA,"knitr, rmarkdown, ggplot2, reshape2",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"multcomp","multcomp","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4-25",NA,"stats, graphics, mvtnorm (>= 1.0-10), survival (>= 2.39-4),
+TH.data (>= 1.0-2)","sandwich (>= 2.3-0), codetools",NA,"lme4 (>= 0.999375-16), nlme, robustbase, coin, MASS, foreign,
+xtable, lmtest, coxme (>= 2.2-1), SimComp, ISwR, tram (>=
+0.2-5), fixest (>= 0.10), glmmTMB",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"multtest","multtest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.52.0",NA,"R (>= 2.10), methods, BiocGenerics, Biobase","survival, MASS, stats4",NA,"snow",NA,"LGPL",NA,NA,NA,NA,"yes","4.2.1"
+"munsell","munsell","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.0",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"mutoss","mutoss","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1-13",NA,"R (>= 2.10.0), mvtnorm","plotrix, multtest (>= 2.2.0), multcomp (>= 1.1-0), methods",NA,"fdrtool, qvalue, testthat, lattice",NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"mvtnorm","mvtnorm","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2-3",NA,"R(>= 3.5.0)","stats",NA,"qrng, numDeriv",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"NetRep","NetRep","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.7",NA,"R (>= 3.6), methods","foreach, Rcpp (>= 0.11), statmod, RhpcBLASctl, abind,
+RColorBrewer, utils, stats, graphics, grDevices","Rcpp, BH, RcppArmadillo (>= 0.4)","bigmemory, testthat, knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"network","network","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.1",NA,"R (>= 2.10), utils","tibble, magrittr, statnet.common (>= 4.5), stats",NA,"sna, testthat, covr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"NeuronChat","NeuronChat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 4.0.0),dplyr,igraph,ggplot2","CellChat, circlize, ComplexHeatmap, data.table, ggalluvial,
+ggplot2, NMF, Seurat, SeuratObject",NA,"knitr, rmarkdown",NA,"`use_gpl3_license()`",NA,NA,NA,NA,"no","4.2.1"
+"nichenetr","nichenetr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,"R (>= 3.0.0)","dplyr, tidyr, igraph, Matrix, fdrtool, ROCR, caTools,
+data.table, limma, readr, Hmisc, tibble, caret, purrr,
+randomForest, DiagrammeR, ggplot2, mlrMBO, parallelMap, emoa,
+DiceKriging, e1071, Seurat, cowplot, ggpubr, magrittr,
+circlize, ComplexHeatmap, grDevices",NA,"knitr, rmarkdown, testthat, doMC, parallel, covr, tidyverse",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"nloptr","nloptr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.3",NA,NA,NA,"testthat","knitr, rmarkdown, xml2, testthat (>= 3.0.0), covr",NA,"LGPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"NMF","NMF","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.27",NA,"R (>= 3.0.0), methods, utils, registry, rngtools (>= 1.2.3),
+cluster","graphics, stats, stringr (>= 1.0.0), digest, grid, grDevices,
+gridBase, colorspace, RColorBrewer, foreach, doParallel,
+ggplot2, reshape2, Biobase, codetools, BiocManager",NA,"fastICA, doMPI, bigmemory (>= 4.2), synchronicity(>= 1.3.2),
+corpcor, xtable, devtools, knitr, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"nnls","nnls","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5",NA,NA,NA,NA,"bvls, quadprog",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"numDeriv","numDeriv","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2016.8-1.1",NA,"R (>= 2.11.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"openssl","openssl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.1",NA,NA,"askpass",NA,"curl, testthat (>= 2.1.0), digest, knitr, rmarkdown,
+jsonlite, jose, sodium",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"org.Hs.eg.db","org.Hs.eg.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.15.0",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.57.1)",NA,NA,"DBI, annotate, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"org.Mm.eg.db","org.Mm.eg.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.15.0",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.57.1)",NA,NA,"DBI, annotate, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"Orthology.eg.db","Orthology.eg.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.15.0",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.57.1)",NA,NA,"DBI, annotate, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"paletteer","paletteer","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0",NA,"R (>= 2.10)","prismatic, rematch2, rlang, rstudioapi",NA,"covr, ggplot2 (>= 3.3.0), ggthemes (>= 4.0.0), harrypotter
+(>= 2.1.0), knitr, oompaBase, palr, pals, rmarkdown, scico,
+testthat (>= 2.1.0), vdiffr, viridisLite",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"pals","pals","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8",NA,"R (>= 2.10)","dichromat, colorspace, graphics, grDevices, mapproj, maps,
+methods, stats",NA,"classInt, ggplot2, knitr, latticeExtra, reshape2, rgl,
+rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"parallelly","parallelly","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.36.0",NA,NA,"parallel, tools, utils",NA,NA,NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"parallelMap","parallelMap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.1",NA,"R (>= 3.0.0)","BBmisc (>= 1.8), checkmate (>= 1.8.0), parallel, stats, utils",NA,"BatchJobs (>= 1.8), batchtools (>= 0.9.6), data.table, Rmpi,
+rpart, snow, testthat",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ParamHelpers","ParamHelpers","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.14.1",NA,NA,"backports, BBmisc (>= 1.10), checkmate (>= 1.8.2), fastmatch,
+methods",NA,"interp, covr, eaf, emoa, GGally, ggplot2, grid, gridExtra,
+irace (>= 2.1), lhs, plyr, reshape2, testthat",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"parsnip","parsnip","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.1",NA,"R (>= 3.5)","cli, dplyr (>= 1.1.0), generics (>= 0.1.2), ggplot2, globals,
+glue, hardhat (>= 1.1.0), lifecycle, magrittr, pillar,
+prettyunits, purrr (>= 1.0.0), rlang (>= 0.3.1), stats, tibble
+(>= 2.1.1), tidyr (>= 1.3.0), utils, vctrs (>= 0.6.0), withr",NA,"C50, covr, dials (>= 1.1.0), earth, ggrepel, keras, kernlab,
+kknn, knitr, LiblineaR, MASS, Matrix, mgcv, modeldata, nlme,
+prodlim, ranger (>= 0.12.0), remotes, rmarkdown, rpart,
+sparklyr (>= 1.0.0), survival, tensorflow, testthat (>= 3.0.0),
+xgboost (>= 1.5.0.1)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"patchwork","patchwork","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.2",NA,NA,"ggplot2 (>= 3.0.0), gtable, grid, stats, grDevices, utils,
+graphics",NA,"knitr, rmarkdown, gridGraphics, gridExtra, ragg, testthat (>=
+2.1.0), vdiffr, covr, png",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pathwayPCA","pathwayPCA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.12.0",NA,"R (>= 3.1)","lars, methods, parallel, stats, survival, utils",NA,"airway, circlize, grDevices, knitr, RCurl, reshape2,
+rmarkdown, SummarizedExperiment, survminer, testthat, tidyverse",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"pbapply","pbapply","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7-2",NA,"R (>= 3.2.0)","parallel",NA,"shiny, future, future.apply",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"pbkrtest","pbkrtest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.2",NA,"R (>= 4.1.0), lme4 (>= 1.1.31)","broom, dplyr, MASS, Matrix (>= 1.2.3), methods, numDeriv,
+parallel",NA,"knitr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"pbmcapply","pbmcapply","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.1",NA,"utils, parallel",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"pheatmap","pheatmap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.12",NA,"R (>= 2.0)","grid, RColorBrewer, scales, gtable, stats, grDevices, graphics",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"pillar","pillar","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.9.0",NA,NA,"cli (>= 2.3.0), fansi, glue, lifecycle, rlang (>= 1.0.2), utf8
+(>= 1.1.0), utils, vctrs (>= 0.5.0)",NA,"bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2,
+knitr, lubridate, nanotime, nycflights13, palmerpenguins,
+rmarkdown, scales, stringi, survival, testthat (>= 3.1.1),
+tibble, units (>= 0.7.2), vdiffr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pkgbuild","pkgbuild","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.2",NA,"R (>= 3.4)","callr (>= 3.2.0), cli (>= 3.4.0), crayon, desc, prettyunits,
+processx, R6, rprojroot",NA,"covr, cpp11, knitr, mockery, Rcpp, rmarkdown, testthat (>=
+3.0.0), withr (>= 2.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pkgconfig","pkgconfig","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.3",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pkgdown","pkgdown","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.7",NA,"R (>= 3.1.0)","bslib (>= 0.3.1), callr (>= 3.7.3), cli, desc, digest, downlit
+(>= 0.4.0), fs (>= 1.4.0), httr (>= 1.4.2), jsonlite, magrittr,
+memoise, purrr, ragg, rlang (>= 1.0.0), rmarkdown (>=
+1.1.9007), tibble, whisker, withr (>= 2.4.3), xml2 (>= 1.3.1),
+yaml",NA,"covr, diffviewer, evaluate, htmltools, htmlwidgets, knitr,
+lifecycle, methods, openssl, pkgload (>= 1.0.2), rsconnect,
+rstudioapi, rticles, sass, testthat (>= 3.1.3), tools",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pkgload","pkgload","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.3",NA,"R (>= 3.4.0)","cli (>= 3.3.0), crayon, desc, fs, glue, methods, pkgbuild,
+rlang (>= 1.1.1), rprojroot, utils, withr (>= 2.4.3)",NA,"bitops, covr, mathjaxr, mockr, pak, Rcpp, remotes,
+rstudioapi, testthat (>= 3.1.0)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"plogr","plogr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.0",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"plotly","plotly","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.10.3",NA,"R (>= 3.2.0), ggplot2 (>= 3.0.0)","tools, scales, httr (>= 1.3.0), jsonlite (>= 1.6), magrittr,
+digest, viridisLite, base64enc, htmltools (>= 0.3.6),
+htmlwidgets (>= 1.5.2.9001), tidyr (>= 1.0.0), RColorBrewer,
+dplyr, vctrs, tibble, lazyeval (>= 0.2.0), rlang (>= 0.4.10),
+crosstalk, purrr, data.table, promises",NA,"MASS, maps, hexbin, ggthemes, GGally, ggalluvial, testthat,
+knitr, shiny (>= 1.1.0), shinytest (>= 1.3.0), curl, rmarkdown,
+Cairo, broom, webshot, listviewer, dendextend, sf, png,
+IRdisplay, processx, plotlyGeoAssets, forcats, withr,
+palmerpenguins, rversions, reticulate, rsvg",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"plotrix","plotrix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.8-2",NA,"R (>= 3.5.0)","grDevices, graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"plyr","plyr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.9",NA,"R (>= 3.1.0)","Rcpp (>= 0.11.0)","Rcpp","abind, covr, doParallel, foreach, iterators, itertools,
+tcltk, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"png","png","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1-8",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"polyclip","polyclip","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.10-6",NA,"R (>= 3.0.0)",NA,NA,NA,NA,"BSL",NA,NA,NA,NA,"yes","4.2.1"
+"polynom","polynom","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4-1",NA,NA,"stats, graphics",NA,"knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"praise","praise","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"preprocessCore","preprocessCore","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.58.0",NA,NA,"stats",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"presto","presto","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 3.4.0), Rcpp, data.table","dplyr, methods, tidyr, purrr, tibble, Matrix, rlang, stats,
+utils","Rcpp, RcppArmadillo","knitr, rmarkdown, testthat, Seurat, SingleCellExperiment,
+SummarizedExperiment, broom, BiocStyle, DESeq2",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"prettyunits","prettyunits","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"R(>= 2.10)",NA,NA,"codetools, covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"princurve","princurve","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.6",NA,"R (>= 3.0)","stats, graphics, grDevices, Rcpp","Rcpp","devtools, testthat",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"prismatic","prismatic","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.2",NA,"R (>= 3.2)","graphics, farver (>= 2.0.1), grDevices",NA,"covr, cli, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"pROC","pROC","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.4",NA,"R (>= 2.14)","methods, plyr, Rcpp (>= 0.11.1)","Rcpp","microbenchmark, tcltk, MASS, logcondens, doParallel,
+testthat, vdiffr, ggplot2, rlang",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"processx","processx","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.8.2",NA,"R (>= 3.4.0)","ps (>= 1.2.0), R6, utils",NA,"callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl,
+debugme, parallel, rlang (>= 1.0.2), testthat (>= 3.0.0),
+webfakes, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"prodlim","prodlim","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2023.08.28",NA,"R (>= 2.9.0)","Rcpp (>= 0.11.5), stats, data.table, grDevices, graphics,
+diagram, survival, KernSmooth, lava","Rcpp",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"profvis","profvis","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.8",NA,"R (>= 3.0)","htmlwidgets (>= 0.3.2), purrr, rlang (>= 0.4.9), stringr,
+vctrs",NA,"knitr, ggplot2, rmarkdown, testthat (>= 3.0.0), devtools,
+shiny, htmltools",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"progress","progress","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.2",NA,NA,"hms, prettyunits, R6, crayon",NA,"Rcpp, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"progressr","progressr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.14.0",NA,"R (>= 3.5.0)","digest, utils",NA,"graphics, tcltk, beepr, cli, crayon, pbmcapply, progress,
+purrr, foreach, plyr, doFuture, future, future.apply, furrr,
+RPushbullet, rstudioapi, shiny, commonmark, base64enc, tools",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"promises","promises","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.1",NA,NA,"fastmap (>= 1.1.0), later, magrittr (>= 1.5), R6, Rcpp, rlang,
+stats","later, Rcpp","future (>= 1.21.0), knitr, purrr, rmarkdown, spelling,
+testthat, vembedr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"proxy","proxy","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4-27",NA,"R (>= 3.4.0)","stats, utils",NA,"cba",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"proxyC","proxyC","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.4",NA,"R (>= 3.1.0), methods","Matrix (>= 1.2), Rcpp (>= 0.12.12), RcppParallel","Rcpp, RcppParallel, RcppArmadillo (>= 0.7.600.1.0)","testthat, entropy, proxy, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"pryr","pryr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.6",NA,"R (>= 3.1.0)","codetools, lobstr, methods, Rcpp (>= 0.11.0), stringr","Rcpp","testthat (>= 0.8.0)",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"ps","ps","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.5",NA,"R (>= 3.4)","utils",NA,"callr, covr, curl, pillar, pingr, processx (>= 3.1.0), R6,
+rlang, testthat (>= 3.0.0), webfakes",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"pscl","pscl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.5.1",NA,NA,"MASS, datasets, grDevices, graphics, stats, utils",NA,"lattice, MCMCpack, car, lmtest, sandwich, zoo, coda, vcd,
+mvtnorm, mgcv",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"psych","psych","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.9",NA,NA,"mnormt,parallel,stats,graphics,grDevices,methods,lattice,nlme",NA,"psychTools, GPArotation, lavaan, lme4, Rcsdp, graph, knitr,
+Rgraphviz",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"purrr","purrr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.2",NA,"R (>= 3.5.0)","cli (>= 3.6.1), lifecycle (>= 1.0.3), magrittr (>= 1.5.0),
+rlang (>= 1.1.1), vctrs (>= 0.6.3)","cli","covr, dplyr (>= 0.7.8), httr, knitr, lubridate, rmarkdown,
+testthat (>= 3.0.0), tibble, tidyselect",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"qlcMatrix","qlcMatrix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.9.7",NA,"Matrix (>= 1.1-0), R (>= 3.2), slam (>= 0.1-32), sparsesvd","methods, docopt",NA,"MASS, knitr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"qqconf","qqconf","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.2",NA,"R (>= 4.0.0)","MASS (>= 7.3-50), robustbase (>= 0.93-4), Rcpp","Rcpp","knitr, rmarkdown, distr (>= 2.8.0)",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"quantreg","quantreg","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.97",NA,"R (>= 3.5), stats, SparseM","methods, graphics, Matrix, MatrixModels, survival, MASS",NA,"interp, rgl, logspline, nor1mix, Formula, zoo, R.rsp, conquer",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"QuickJSR","QuickJSR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.7",NA,NA,"jsonlite, R6, Rcpp","Rcpp","testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"qvalue","qvalue","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.28.0",NA,"R(>= 2.10)","splines, ggplot2, grid, reshape2",NA,"knitr",NA,"LGPL",NA,NA,NA,NA,"no","4.2.1"
+"R.methodsS3","R.methodsS3","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.2",NA,"R (>= 2.13.0)","utils",NA,"codetools",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"R.oo","R.oo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.25.0",NA,"R (>= 2.13.0), R.methodsS3 (>= 1.8.1)","methods, utils",NA,"tools",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"R.utils","R.utils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.12.2",NA,"R (>= 2.14.0), R.oo","methods, utils, tools, R.methodsS3",NA,"datasets, digest (>= 0.6.10)",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.2.1"
+"R2HTML","R2HTML","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.3",NA,"R (>= 2.0)","stats, graphics, utils, grDevices, methods",NA,"boot, splines, survival, cluster, nlme, rpart, nnet",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"R6","R6","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.5.1",NA,"R (>= 3.0)",NA,NA,"testthat, pryr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"ragg","ragg","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.6",NA,NA,"systemfonts (>= 1.0.3), textshaping (>= 0.3.0)","systemfonts, textshaping","covr, graphics, grid, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"random","random","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.6",NA,"R (>= 2.8.0)","curl, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"randomForest","randomForest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.7-1.1",NA,"R (>= 4.1.0), stats",NA,NA,"RColorBrewer, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RANN","RANN","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.6.1",NA,NA,NA,NA,"testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"rappdirs","rappdirs","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.3",NA,"R (>= 3.2)",NA,NA,"roxygen2, testthat (>= 3.0.0), covr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"rARPACK","rARPACK","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.11-0",NA,NA,"RSpectra",NA,"Matrix (>= 1.1-0)",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"RBGL","RBGL","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.72.0",NA,"graph, methods","methods","BH","Rgraphviz, XML, RUnit, BiocGenerics",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"rbibutils","rbibutils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.2.15",NA,"R (>= 2.10)","utils, tools",NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"rbokeh","rbokeh","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.1",NA,NA,"htmlwidgets (>= 0.5), maps, methods, jsonlite, digest, hexbin,
+lazyeval, pryr, magrittr, ggplot2, scales, gistr",NA,"testthat, data.table, lattice, lintr, roxygen2 (>= 5.0.0),
+latticeExtra, knitr, rmarkdown","shiny (>= 0.12)","MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"RcisTarget","RcisTarget","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.2",NA,"R (>= 3.5.0)","AUCell (>= 1.1.6), BiocGenerics, data.table, graphics,
+GenomeInfoDb, GenomicRanges, arrow (>= 2.0.0), dplyr, tibble,
+GSEABase, methods, R.utils, stats, SummarizedExperiment,
+S4Vectors, utils",NA,"Biobase, BiocStyle, BiocParallel, doParallel, DT, foreach,
+gplots, rtracklayer, igraph, knitr,
+RcisTarget.hg19.motifDBs.cisbpOnly.500bp, rmarkdown, testthat,
+visNetwork","doMC, doRNG, zoo","GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"rcmdcheck","rcmdcheck","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.0",NA,NA,"callr (>= 3.1.1.9000), cli (>= 3.0.0), curl, desc (>= 1.2.0),
+digest, pkgbuild, prettyunits, R6, rprojroot, sessioninfo (>=
+1.1.1), utils, withr, xopen",NA,"covr, knitr, mockery, processx, ps, rmarkdown, svglite,
+testthat, webfakes",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"RColorBrewer","RColorBrewer","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-3",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","4.2.1"
+"Rcpp","Rcpp","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.11",NA,NA,"methods, utils",NA,"tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppAnnoy","RcppAnnoy","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.0.21",NA,"R (>= 3.1)","methods, Rcpp","Rcpp","tinytest",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppArmadillo","RcppArmadillo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.12.6.4.0",NA,"R (>= 3.3.0)","Rcpp (>= 0.11.0), stats, utils, methods","Rcpp","tinytest, Matrix (>= 1.3.0), pkgKitten, reticulate, slam",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppEigen","RcppEigen","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.3.9.3",NA,"R (>= 3.6.0)","Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils","Rcpp","inline, tinytest, pkgKitten, microbenchmark",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"RcppHNSW","RcppHNSW","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.0",NA,NA,"methods, Rcpp (>= 0.11.3)","Rcpp","testthat, covr",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppML","RcppML","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.7",NA,NA,"Rcpp, Matrix, methods, stats","Rcpp, RcppEigen","knitr, rmarkdown, testthat (>= 3.0.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppParallel","RcppParallel","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","5.1.7",NA,"R (>= 3.0.2)",NA,NA,"Rcpp, RUnit, knitr, rmarkdown",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"RcppProgress","RcppProgress","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.2",NA,NA,NA,NA,"RcppArmadillo, devtools, roxygen2, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"RcppTOML","RcppTOML","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.2",NA,"R (>= 3.3.0)","Rcpp (>= 0.11.5)","Rcpp","tinytest",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RCurl","RCurl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.98-1.12",NA,"R (>= 3.4.0), methods","bitops",NA,"XML",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"Rdpack","Rdpack","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.5",NA,"R (>= 2.15.0), methods","tools, utils, rbibutils (>= 1.3)",NA,"grDevices, testthat, rstudioapi, rprojroot, gbRd",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"reactome.db","reactome.db","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.81.0",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.33.0)","methods, AnnotationDbi",NA,"RSQLite",NA,"CC BY 4.0",NA,NA,NA,NA,"no","4.2.1"
+"ReactomePA","ReactomePA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.40.0",NA,"R (>= 3.4.0)","AnnotationDbi, DOSE (>= 3.5.1), enrichplot, ggplot2 (>=
+3.3.5), ggraph, reactome.db, igraph, graphite",NA,"BiocStyle, clusterProfiler, knitr, rmarkdown, org.Hs.eg.db,
+prettydoc, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"readr","readr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.4",NA,"R (>= 3.5)","cli (>= 3.2.0), clipr, crayon, hms (>= 0.4.1), lifecycle (>=
+0.2.0), methods, R6, rlang, tibble, utils, vroom (>= 1.6.0)","cpp11, tzdb (>= 0.1.1)","covr, curl, datasets, knitr, rmarkdown, spelling, stringi,
+testthat (>= 3.1.2), tzdb (>= 0.1.1), waldo, withr, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"readxl","readxl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.3",NA,"R (>= 3.6)","cellranger, tibble (>= 2.0.1), utils","cpp11 (>= 0.4.0), progress","covr, knitr, rmarkdown, testthat (>= 3.1.6), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"recipes","recipes","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.9",NA,"dplyr (>= 1.1.0), R (>= 3.6)","cli, clock (>= 0.6.1), ellipsis, generics (>= 0.1.2), glue,
+gower, hardhat (>= 1.3.0), ipred (>= 0.9-12), lifecycle (>=
+1.0.3), lubridate (>= 1.8.0), magrittr, Matrix, purrr (>=
+1.0.0), rlang (>= 1.1.0), stats, tibble, tidyr (>= 1.0.0),
+tidyselect (>= 1.2.0), timeDate, utils, vctrs (>= 0.5.0), withr",NA,"covr, ddalpha, dials (>= 1.2.0), ggplot2, igraph, kernlab,
+knitr, modeldata (>= 0.1.1), parsnip (>= 0.1.7), RANN,
+RcppRoll, rmarkdown, rpart, rsample, RSpectra, splines2,
+testthat (>= 3.0.0), workflows, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"registry","registry","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5-1",NA,"R (>= 2.6.0)","utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"reldist","reldist","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7-2",NA,NA,"mgcv, densEstBayes",NA,"locfit",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rematch","rematch","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.0",NA,NA,NA,NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rematch2","rematch2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.2",NA,NA,"tibble",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"remotes","remotes","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.2.1",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, codetools, curl, covr, git2r (>= 0.23.0), knitr,
+mockery, pkgbuild (>= 1.0.1), pingr, rmarkdown, rprojroot,
+testthat, webfakes, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"reprex","reprex","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.2",NA,"R (>= 3.4)","callr (>= 3.6.0), cli (>= 3.2.0), clipr (>= 0.4.0), fs, glue,
+knitr (>= 1.23), lifecycle, rlang (>= 1.0.0), rmarkdown,
+rstudioapi, utils, withr (>= 2.3.0)",NA,"covr, fortunes, miniUI, mockr, rprojroot, sessioninfo, shiny,
+spelling, styler (>= 1.2.0), testthat (>= 3.0.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"reshape","reshape","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.8.9",NA,"R (>= 2.6.1)","plyr",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"reshape2","reshape2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.4",NA,"R (>= 3.1)","plyr (>= 1.8.1), Rcpp, stringr","Rcpp","covr, lattice, testthat (>= 0.8.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"restfulr","restfulr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.0.15",NA,"R (>= 3.4.0), methods","XML, RCurl, rjson, S4Vectors (>= 0.13.15), yaml",NA,"getPass, rsolr, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"reticulate","reticulate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.34.0",NA,"R (>= 3.5)","Matrix, Rcpp (>= 1.0.7), RcppTOML, graphics, here, jsonlite,
+methods, png, rappdirs, utils, rlang, withr","Rcpp","callr, knitr, glue, cli, rmarkdown, pillar, testthat",NA,"Apache License 2.0",NA,NA,NA,NA,"yes","4.2.1"
+"rgeos","rgeos","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5-9",NA,"R (>= 3.3.0), methods, sp (>= 1.1-0)","utils, stats, graphics","sp","maptools (>= 0.8-5), testthat, XML, maps, rgdal",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"rhdf5","rhdf5","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.40.0",NA,"R (>= 4.0.0), methods","Rhdf5lib (>= 1.13.4), rhdf5filters","Rhdf5lib","bit64, BiocStyle, knitr, rmarkdown, testthat, microbenchmark,
+dplyr, ggplot2, mockery",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"rhdf5filters","rhdf5filters","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.0",NA,NA,NA,"Rhdf5lib","BiocStyle, knitr, rmarkdown, testthat (>= 2.1.0), rhdf5 (>=
+2.34.0)",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"Rhdf5lib","Rhdf5lib","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.2",NA,"R (>= 4.0.0)",NA,NA,"BiocStyle, knitr, rmarkdown, tinytest, mockery",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"RhpcBLASctl","RhpcBLASctl","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.23-42",NA,NA,NA,NA,NA,NA,"AGPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"Rhtslib","Rhtslib","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.28.0",NA,NA,"zlibbioc","zlibbioc","knitr, rmarkdown, BiocStyle",NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"rjson","rjson","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.21",NA,"R (>= 4.0.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"rlang","rlang","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1.3",NA,"R (>= 3.5.0)","utils",NA,"cli (>= 3.1.0), covr, crayon, fs, glue, knitr, magrittr,
+methods, pillar, rmarkdown, stats, testthat (>= 3.0.0), tibble,
+usethis, vctrs (>= 0.2.3), withr","winch","MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"rliger","rliger","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,"R (>= 3.4), Matrix, methods, stats, utils","Rcpp (>= 0.12.10), plyr, FNN, dplyr, grid, ggrepel, irlba,
+ica, Rtsne, ggplot2, foreach, parallel, doParallel, mclust,
+psych, RANN, uwot, rlang, hdf5r, scattermore (>= 0.7),
+patchwork, cowplot","Rcpp, RcppArmadillo, RcppEigen, RcppProgress","Seurat, SeuratObject, knitr, reticulate, rmarkdown, testthat,
+GenomicRanges, S4Vectors, IRanges, org.Hs.eg.db, reactome.db,
+fgsea, AnnotationDbi",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"rlist","rlist","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.6.2",NA,"R (>= 2.15)","yaml, jsonlite, XML, data.table",NA,"testthat, stringdist",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rmarkdown","rmarkdown","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.25",NA,"R (>= 3.0)","bslib (>= 0.2.5.1), evaluate (>= 0.13), fontawesome (>=
+0.5.0), htmltools (>= 0.5.1), jquerylib, jsonlite, knitr (>=
+1.22), methods, stringr (>= 1.2.0), tinytex (>= 0.31), tools,
+utils, xfun (>= 0.36), yaml (>= 2.1.19)",NA,"digest, dygraphs, fs, rsconnect, downlit (>= 0.4.0), katex
+(>= 1.4.0), sass (>= 0.4.0), shiny (>= 1.6.0), testthat (>=
+3.0.3), tibble, vctrs, cleanrmd, withr (>= 2.4.2)",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"rngtools","rngtools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.2",NA,"R (>= 3.2.0), methods","digest, utils, stats, parallel",NA,"covr, RUnit, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"robustbase","robustbase","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.99-0",NA,"R (>= 3.5.0)","stats, graphics, utils, methods, DEoptimR",NA,"grid, MASS, lattice, boot, cluster, Matrix, robust,
+fit.models, MPV, xtable, ggplot2, GGally, RColorBrewer,
+reshape2, sfsmisc, catdata, doParallel, foreach, skewt","robustX, rrcov, matrixStats, quantreg, Hmisc","GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"ROCR","ROCR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0-11",NA,"R (>= 3.6)","methods, graphics, grDevices, gplots, stats",NA,"testthat, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"rootSolve","rootSolve","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.2.4",NA,"R (>= 2.01)","stats, graphics, grDevices",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"roxygen2","roxygen2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","7.2.3",NA,"R (>= 3.3)","brew, cli (>= 3.3.0), commonmark, desc (>= 1.2.0), knitr,
+methods, pkgload (>= 1.0.2), purrr (>= 0.3.3), R6 (>= 2.1.2),
+rlang (>= 1.0.6), stringi, stringr (>= 1.0.0), utils, withr,
+xml2","cpp11","covr, R.methodsS3, R.oo, rmarkdown (>= 2.16), testthat (>=
+3.1.2), yaml",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"RPresto","RPresto","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.6",NA,"R (>= 3.1.0), methods","DBI (>= 0.3.0), httr (>= 0.6), openssl, jsonlite, stringi,
+stats, utils, purrr, dplyr (>= 0.7.0), dbplyr (>= 2.3.3),
+tibble, bit64, rlang, lifecycle, lubridate, progress, vctrs",NA,"testthat, hms, knitr, rmarkdown",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rprojroot","rprojroot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.3",NA,"R (>= 3.0.0)",NA,NA,"covr, knitr, lifecycle, mockr, rmarkdown, testthat (>=
+3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"RRHO","RRHO","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.36.0",NA,"R (>= 2.10), grid","VennDiagram",NA,"lattice","","GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"RRHO2","RRHO2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0",NA,"VennDiagram, R(>= 2.14.1)",NA,NA,"knitr, rmarkdown",NA,"GPL-3.0",NA,NA,NA,NA,"no","4.2.1"
+"rsample","rsample","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"R (>= 3.6)","cli, dplyr (>= 1.1.1), furrr, generics, glue, lifecycle,
+methods, pillar, purrr (>= 1.0.0), rlang (>= 0.4.10), slider
+(>= 0.1.5), tibble, tidyr, tidyselect, vctrs (>= 0.5.0)",NA,"broom, covr, ggplot2, knitr, modeldata, recipes (>= 0.1.4),
+rmarkdown, stats, testthat (>= 3.0.0), utils, whisker, withr,
+xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"Rsamtools","Rsamtools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.12.0",NA,"methods, GenomeInfoDb (>= 1.1.3), GenomicRanges (>= 1.31.8),
+Biostrings (>= 2.47.6), R (>= 3.5.0)","utils, BiocGenerics (>= 0.25.1), S4Vectors (>= 0.17.25),
+IRanges (>= 2.13.12), XVector (>= 0.19.7), zlibbioc, bitops,
+BiocParallel, stats","Rhtslib (>= 1.17.7), S4Vectors, IRanges, XVector, Biostrings","GenomicAlignments, ShortRead (>= 1.19.10), GenomicFeatures,
+TxDb.Dmelanogaster.UCSC.dm3.ensGene,
+TxDb.Hsapiens.UCSC.hg18.knownGene, RNAseqData.HNRNPC.bam.chr14,
+BSgenome.Hsapiens.UCSC.hg19, RUnit, BiocStyle",NA,"Artistic-2.0 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"RSpectra","RSpectra","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.16-1",NA,"R (>= 3.0.2)","Matrix (>= 1.1-0), Rcpp (>= 0.11.5)","Rcpp, RcppEigen (>= 0.3.3.3.0)","knitr, rmarkdown, prettydoc",NA,"MPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"RSQLite","RSQLite","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.1",NA,"R (>= 3.1.0)","bit64, blob (>= 1.2.0), DBI (>= 1.1.0), memoise, methods,
+pkgconfig","plogr (>= 0.2.0), cpp11 (>= 0.4.0)","callr, DBItest (>= 1.7.2.9001), gert, gh, hms, knitr,
+magrittr, rmarkdown, rvest, testthat (>= 3.0.0), withr, xml2",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"yes","4.2.1"
+"rstan","rstan","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.32.3",NA,"R (>= 3.4.0), StanHeaders (>= 2.26.28)","methods, stats4, inline (>= 0.3.19), gridExtra (>= 2.3), Rcpp
+(>= 1.0.7), RcppParallel (>= 5.1.4), loo (>= 2.4.1), pkgbuild
+(>= 1.2.0), QuickJSR, ggplot2 (>= 3.3.5)","Rcpp (>= 1.0.7), RcppEigen (>= 0.3.3.9.3), BH (>= 1.75.0-0),
+StanHeaders (>= 2.26.28), RcppParallel (>= 5.1.4)","testthat (>= 3.0.4), parallel, KernSmooth, shinystan,
+bayesplot, rmarkdown, rstantools, rstudioapi, Matrix, knitr,
+coda, V8",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"rstantools","rstantools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.1.1",NA,NA,"desc, stats, utils, Rcpp (>= 0.12.16), RcppParallel (>= 5.0.1)",NA,"rstan (>= 2.17.2), usethis (>= 1.5.1), testthat (>= 2.0.0),
+knitr, pkgbuild, pkgload, roxygen2 (>= 6.0.1), rmarkdown,
+rstudioapi",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"rstatix","rstatix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.7.2",NA,"R (>= 3.3.0)","stats, utils, tidyr (>= 1.0.0), purrr, broom (>= 0.7.4), rlang
+(>= 0.3.1), tibble (>= 2.1.3), dplyr (>= 0.7.1), magrittr,
+corrplot, tidyselect (>= 1.2.0), car, generics (>= 0.0.2)",NA,"knitr, rmarkdown, ggpubr, graphics, emmeans, coin, boot,
+testthat, spelling",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"rstudioapi","rstudioapi","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.15.0",NA,NA,NA,NA,"testthat, knitr, rmarkdown, clipr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rsvd","rsvd","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 4.0.0)","Matrix",NA,"ggplot2, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"rtracklayer","rtracklayer","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.56.1",NA,"R (>= 3.5.0), methods, GenomicRanges (>= 1.37.2)","XML (>= 1.98-0), BiocGenerics (>= 0.35.3), S4Vectors (>=
+0.23.18), IRanges (>= 2.13.13), XVector (>= 0.19.7),
+GenomeInfoDb (>= 1.15.2), Biostrings (>= 2.47.6), zlibbioc,
+RCurl (>= 1.4-2), Rsamtools (>= 1.31.2), GenomicAlignments (>=
+1.15.6), BiocIO, tools, restfulr (>= 0.0.13)","S4Vectors, IRanges, XVector","BSgenome (>= 1.33.4), humanStemCell, microRNA (>= 1.1.1),
+genefilter, limma, org.Hs.eg.db, hgu133plus2.db,
+GenomicFeatures, BSgenome.Hsapiens.UCSC.hg19,
+TxDb.Hsapiens.UCSC.hg19.knownGene, RUnit",NA,"Artistic-2.0 + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"Rtsne","Rtsne","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.17",NA,NA,"Rcpp (>= 0.11.0), stats","Rcpp","irlba, testthat",NA,"file LICENSE","yes",NA,NA,NA,"yes","4.2.1"
+"rversions","rversions","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.2",NA,NA,"curl, utils, xml2 (>= 1.0.0)",NA,"covr, mockery, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"rvest","rvest","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.3",NA,"R (>= 3.2)","glue, cli, httr (>= 0.5), lifecycle (>= 1.0.0), magrittr,
+rlang (>= 1.0.0), selectr, tibble, xml2 (>= 1.3), withr",NA,"covr, knitr, readr, repurrrsive, rmarkdown, spelling, stringi
+(>= 0.3.1), testthat (>= 3.0.2), webfakes",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"S4Vectors","S4Vectors","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.34.0",NA,"R (>= 4.0.0), methods, utils, stats, stats4, BiocGenerics (>=
+0.37.0)",NA,NA,"IRanges, GenomicRanges, SummarizedExperiment, Matrix,
+DelayedArray, ShortRead, graph, data.table, RUnit, BiocStyle",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"sandwich","sandwich","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0-2",NA,"R (>= 3.0.0)","stats, utils, zoo",NA,"AER, car, geepack, lattice, lme4, lmtest, MASS, multiwayvcov,
+parallel, pcse, plm, pscl, scatterplot3d, stats4, strucchange,
+survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"sass","sass","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.7",NA,NA,"fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6,
+rappdirs",NA,"testthat, knitr, rmarkdown, withr, shiny, curl",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"ScaledMatrix","ScaledMatrix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.1",NA,NA,"methods, Matrix, S4Vectors, DelayedArray",NA,"testthat, BiocStyle, knitr, rmarkdown, BiocSingular",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"scales","scales","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.1",NA,"R (>= 3.2)","farver (>= 2.0.3), labeling, lifecycle, munsell (>= 0.5), R6,
+RColorBrewer, rlang (>= 1.0.0), viridisLite",NA,"bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi,
+testthat (>= 3.0.0), waldo (>= 0.4.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"scAnnotate","scAnnotate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.1",NA,"R(>= 4.0.0)","glmnet, stats, MTPS, Seurat (>= 4.0.5), harmony",NA,"knitr, testthat (>= 3.0.0), rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"scater","scater","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.24.0",NA,"SingleCellExperiment, scuttle, ggplot2","stats, utils, methods, grid, gridExtra, Matrix, BiocGenerics,
+S4Vectors, SummarizedExperiment, DelayedArray,
+DelayedMatrixStats, beachmat, BiocNeighbors, BiocSingular,
+BiocParallel, rlang, ggbeeswarm, viridis, Rtsne, RColorBrewer,
+RcppML, ggrepel",NA,"BiocStyle, biomaRt, cowplot, knitr, scRNAseq, robustbase,
+rmarkdown, uwot, testthat, pheatmap, snifter, Biobase",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"scattermore","scattermore","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2",NA,NA,"ggplot2, scales, grid, grDevices, graphics",NA,"covr, knitr, rmarkdown, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"scatterpie","scatterpie","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.1",NA,"R (>= 4.1.0), ggplot2","ggforce, rlang, ggfun, stats, tidyr, dplyr, utils",NA,"knitr, rmarkdown, prettydoc, maps, scales",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"scClassify","scClassify","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.0",NA,"R (>= 4.0)","S4Vectors, limma, ggraph, igraph, methods, cluster,
+minpack.lm, mixtools, BiocParallel, proxy, proxyC, Matrix,
+ggplot2, hopach, diptest, mgcv, stats, graphics, statmod, Cepo",NA,"knitr, rmarkdown, BiocStyle, pkgdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"scDblFinder","scDblFinder","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.10.0",NA,"R (>= 4.0)","igraph, Matrix, BiocGenerics, BiocParallel, BiocNeighbors,
+BiocSingular, S4Vectors, SummarizedExperiment,
+SingleCellExperiment, scran, scater, scuttle, bluster, methods,
+DelayedArray, xgboost, stats, utils, MASS, IRanges,
+GenomicRanges, GenomeInfoDb, Rsamtools, rtracklayer",NA,"BiocStyle, knitr, rmarkdown, testthat, scRNAseq, circlize,
+ComplexHeatmap, ggplot2, dplyr, viridisLite, mbkmeans",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"SCENIC","SCENIC","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.1",NA,NA,"data.table, GENIE3 (>= 1.10.0), RcisTarget (>= 1.16.0), AUCell
+(>= 1.10.0), NMF, dynamicTreeCut, mixtools, Rtsne",NA,"SingleCellExperiment, GEOquery, R2HTML, SCopeLoomR (>=
+0.10.1), hdf5r, rbokeh, DT, plotly, BiocStyle, knitr, pheatmap,
+rmarkdown","doMC, doRNG","file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"scibet","scibet","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0",NA,NA,"Rcpp (>= 1.0.0), RcppEigen, tidyverse, viridis, ggsci, ggplot2","Rcpp, RcppEigen, tidyverse, viridis, ggsci, ggplot2",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"scLearn","scLearn","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0",NA,"dml, SingleCellExperiment, M3Drop, R (>= 3.6.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"SCopeLoomR","SCopeLoomR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.13.0",NA,NA,"hdf5r, rjson, utils, methods, base, base64enc, igraph, plyr,
+rlist, Matrix",NA,"seurat, stringr",NA,"Apache-2",NA,NA,NA,NA,"no","4.2.1"
+"scran","scran","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.24.1",NA,"SingleCellExperiment, scuttle","SummarizedExperiment, S4Vectors, BiocGenerics, BiocParallel,
+Rcpp, stats, methods, utils, Matrix, edgeR, limma, igraph,
+statmod, DelayedArray, DelayedMatrixStats, BiocSingular,
+bluster, metapod, dqrng, beachmat","Rcpp, beachmat, BH, dqrng, scuttle","testthat, BiocStyle, knitr, rmarkdown, HDF5Array, scRNAseq,
+dynamicTreeCut, ResidualMatrix, ScaledMatrix, DESeq2, monocle,
+Biobase, pheatmap, scater",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"sctransform","sctransform","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.1",NA,"R (>= 3.6.0)","dplyr, magrittr, MASS, Matrix (>= 1.5-0), methods,
+future.apply, future, ggplot2, reshape2, rlang, gridExtra,
+matrixStats","RcppArmadillo, Rcpp (>= 0.11.0)","irlba, testthat, knitr","glmGamPoi","GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"scuttle","scuttle","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.3",NA,"SingleCellExperiment","methods, utils, stats, Matrix, Rcpp, BiocGenerics, S4Vectors,
+BiocParallel, GenomicRanges, SummarizedExperiment,
+DelayedArray, DelayedMatrixStats, beachmat","Rcpp, beachmat","BiocStyle, knitr, scRNAseq, rmarkdown, testthat, scran",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"segmented","segmented","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6-4",NA,"MASS, nlme",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"selectr","selectr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4-2",NA,"R (>= 3.0)","methods, stringr, R6",NA,"testthat, XML, xml2",NA,"BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","4.2.1"
+"sessioninfo","sessioninfo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.2",NA,"R (>= 2.10)","cli (>= 3.1.0), tools, utils",NA,"callr, covr, mockery, reticulate, rmarkdown, testthat, withr",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"Seurat","Seurat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.4.0",NA,"R (>= 4.0.0), methods","cluster, cowplot, fitdistrplus, future, future.apply, ggplot2
+(>= 3.3.0), ggrepel, ggridges, graphics, grDevices, grid, httr,
+ica, igraph, irlba, jsonlite, KernSmooth, leiden (>= 0.3.1),
+lmtest, MASS, Matrix (>= 1.5-0), matrixStats, miniUI,
+patchwork, pbapply, plotly (>= 4.9.0), png, progressr, purrr,
+RANN, RColorBrewer, Rcpp (>= 1.0.7), RcppAnnoy (>= 0.0.18),
+reticulate, rlang, ROCR, Rtsne, scales, scattermore (>= 1.2),
+sctransform (>= 0.4.0), SeuratObject (>= 4.1.4), shiny,
+spatstat.explore, spatstat.geom, stats, tibble, tools, utils,
+uwot (>= 0.1.14)","Rcpp (>= 0.11.0), RcppEigen, RcppProgress","ape, rsvd, testthat, hdf5r, S4Vectors, SummarizedExperiment,
+SingleCellExperiment, MAST, DESeq2, BiocGenerics,
+GenomicRanges, GenomeInfoDb, IRanges, rtracklayer, Rfast2,
+monocle, Biobase, VGAM, limma, metap, enrichR, mixtools,
+ggrastr, data.table, R.utils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"SeuratDisk","SeuratDisk","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.0.0.9020",NA,"R (>= 3.6.0)","cli (>= 2.0.1), crayon (>= 1.3.4), hdf5r (>= 1.3.0), Matrix
+(>= 1.2.18), methods (>= 3.6.0), R6 (>= 2.4.1), rlang (>=
+0.4.4), Seurat (>= 3.2.0), SeuratObject (>= 4.0.0), stats,
+stringi (>= 1.4.6), tools, utils, withr (>= 2.1.2)",NA,"httr, knitr, rmarkdown, SeuratData",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"SeuratObject","SeuratObject","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.1.4",NA,"R (>= 4.0.0), sp (>= 1.5.0)","future, future.apply, grDevices, grid, Matrix (>= 1.6.1),
+methods, progressr, Rcpp (>= 1.0.5), rlang (>= 0.4.7), stats,
+tools, utils","Rcpp, RcppEigen","ggplot2, sf, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"shadowtext","shadowtext","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.2",NA,"R (>= 3.4.0)","ggplot2, grid, scales",NA,"knitr, rmarkdown, prettydoc",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"shape","shape","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.6",NA,"R (>= 2.01)","stats, graphics, grDevices",NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"no","4.2.1"
+"shiny","shiny","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.5.1",NA,"R (>= 3.0.2), methods","utils, grDevices, httpuv (>= 1.5.2), mime (>= 0.3), jsonlite
+(>= 0.9.16), xtable, fontawesome (>= 0.4.0), htmltools (>=
+0.5.4), R6 (>= 2.0), sourcetools, later (>= 1.0.0), promises
+(>= 1.1.0), tools, crayon, rlang (>= 0.4.10), fastmap (>=
+1.1.1), withr, commonmark (>= 1.7), glue (>= 1.3.2), bslib (>=
+0.3.0), cachem, ellipsis, lifecycle (>= 0.2.0)",NA,"datasets, Cairo (>= 1.5-5), testthat (>= 3.0.0), knitr (>=
+1.6), markdown, rmarkdown, ggplot2, reactlog (>= 1.0.0),
+magrittr, yaml, future, dygraphs, ragg, showtext, sass",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"SingleCellExperiment","SingleCellExperiment","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.18.1",NA,"SummarizedExperiment","methods, utils, stats, S4Vectors, BiocGenerics, GenomicRanges,
+DelayedArray",NA,"testthat, BiocStyle, knitr, rmarkdown, Matrix, scRNAseq (>=
+2.9.1), Rtsne",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"singleCellNet","singleCellNet","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.0",NA,"R (>= 3.5.0), ggplot2, dplyr,pheatmap,reshape2,cowplot","DescTools, umap, ggplot2, pheatmap, viridis, parallel,
+randomForest, dplyr, cowplot, reshape2",NA,NA,NA,"PRIVATE",NA,NA,NA,NA,"no","4.2.1"
+"SingleR","SingleR","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.10.0",NA,"SummarizedExperiment","methods, Matrix, S4Vectors, DelayedArray, DelayedMatrixStats,
+BiocNeighbors, BiocParallel, BiocSingular, stats, utils, Rcpp,
+beachmat, parallel","Rcpp, beachmat","testthat, knitr, rmarkdown, BiocStyle, BiocGenerics,
+SingleCellExperiment, scuttle, scater, scran, scRNAseq,
+ggplot2, pheatmap, grDevices, gridExtra, viridis, celldex",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"sitmo","sitmo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.2",NA,"R (>= 3.2.0)","Rcpp (>= 0.12.13)","Rcpp","knitr, rmarkdown, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"slam","slam","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1-50",NA,"R (>= 3.4.0)","stats",NA,NA,"Matrix, SparseM, spam","GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"slider","slider","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.1",NA,"R (>= 3.6.0)","cli (>= 3.6.1), rlang (>= 1.1.1), vctrs (>= 0.6.3), warp","vctrs (>= 0.6.3)","covr, dplyr (>= 1.0.0), knitr, lubridate, rmarkdown, testthat
+(>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"slingshot","slingshot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4.0",NA,"R (>= 4.0), princurve (>= 2.0.4), stats, TrajectoryUtils","graphics, grDevices, igraph, matrixStats, methods, S4Vectors,
+SingleCellExperiment, SummarizedExperiment",NA,"BiocGenerics, BiocStyle, clusterExperiment,
+DelayedMatrixStats, knitr, mclust, mgcv, RColorBrewer, rgl,
+rmarkdown, testthat, uwot, covr",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"smoof","smoof","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.0.3",NA,"ParamHelpers (>= 1.8), checkmate (>= 1.1)","BBmisc (>= 1.6), ggplot2 (>= 2.2.1), Rcpp (>= 0.11.0)","Rcpp, RcppArmadillo","testthat, plot3D, plotly, mco, RColorBrewer, reticulate, covr",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"sn","sn","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.1",NA,"R (>= 3.0.0), methods, stats4","mnormt (>= 2.0.0), numDeriv, utils, quantreg",NA,"R.rsp",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"sna","sna","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.7-1",NA,"R (>= 2.0.0), utils, statnet.common, network",NA,NA,"rgl, numDeriv, SparseM",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"snakecase","snakecase","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.11.1",NA,"R (>= 3.2)","stringr, stringi",NA,"testthat, covr, tibble, purrrlyr, knitr, rmarkdown, magrittr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"snow","snow","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4-4",NA,"R (>= 2.13.1), utils",NA,NA,"rlecuyer","Rmpi","GPL",NA,NA,NA,NA,"no","4.2.1"
+"sourcetools","sourcetools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.7-1",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"sp","sp","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1-1",NA,"R (>= 3.5.0), methods","utils, stats, graphics, grDevices, lattice, grid",NA,"RColorBrewer, gstat, deldir, knitr, rmarkdown, sf, terra,
+raster",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spam","spam","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.10-0",NA,"R (>= 3.5)","dotCall64, grid, methods, Rcpp (>= 1.0.8.3)","Rcpp","spam64, fields, Matrix, testthat, R.rsp, truncdist, knitr,
+rmarkdown",NA,"LGPL-2 | BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"SparseM","SparseM","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.81",NA,"R (>= 2.15), methods","graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"sparseMatrixStats","sparseMatrixStats","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.13.4",NA,"MatrixGenerics (>= 1.5.3)","Rcpp, Matrix, matrixStats (>= 0.60.0), methods","Rcpp","testthat (>= 2.1.0), knitr, bench, rmarkdown, BiocStyle",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"sparsesvd","sparsesvd","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2-2",NA,"R (>= 3.0)","Matrix (>= 1.3), methods",NA,NA,NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.core","spatstat.core","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.4-4",NA,"R (>= 3.5.0), spatstat.data (>= 2.1-0), spatstat.geom (>=
+2.4-0), spatstat.random (>= 2.2-0), stats, graphics, grDevices,
+utils, methods, nlme, rpart","spatstat.utils (>= 2.3-1), spatstat.sparse (>= 2.0-0), mgcv,
+Matrix, abind, tensor, goftest (>= 1.2-2)",NA,"sm, maptools (>= 0.9-9), gsl, locfit, spatial, RandomFields
+(>= 3.1.24.1), RandomFieldsUtils(>= 0.3.3.1), fftwtools (>=
+0.9-8), nleqslv, spatstat.linnet (>= 2.0-0), spatstat (>=
+2.3-3)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.data","spatstat.data","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0-3",NA,"R (>= 3.5.0)","spatstat.utils (>= 3.0-2), Matrix",NA,"spatstat.geom, spatstat.random, spatstat.explore,
+spatstat.model, spatstat.linnet",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"spatstat.explore","spatstat.explore","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2-5",NA,"R (>= 3.5.0), spatstat.data (>= 3.0-1), spatstat.geom (>=
+3.2-7), spatstat.random (>= 3.2-1), stats, graphics, grDevices,
+utils, methods, nlme","spatstat.utils (>= 3.0-3), spatstat.sparse (>= 3.0-1), goftest
+(>= 1.2-2), Matrix, abind",NA,"sm, gsl, locfit, spatial, fftwtools (>= 0.9-8),
+spatstat.linnet (>= 3.1), spatstat.model (>= 3.2-3), spatstat
+(>= 3.0-5)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.geom","spatstat.geom","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2-7",NA,"R (>= 3.5.0), spatstat.data (>= 3.0), stats, graphics,
+grDevices, utils, methods","spatstat.utils (>= 3.0-2), deldir (>= 1.0-2), polyclip (>=
+1.10-0)",NA,"spatstat.random, spatstat.explore, spatstat.model,
+spatstat.linnet, spatial, fftwtools (>= 0.9-8), spatstat (>=
+3.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.random","spatstat.random","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2-1",NA,"R (>= 3.5.0), spatstat.data (>= 3.0), spatstat.geom (>=
+3.2-1), stats, utils, methods, grDevices","spatstat.utils (>= 3.0-2)",NA,"spatial, spatstat.linnet (>= 3.0), spatstat.explore,
+spatstat.model, spatstat (>= 3.0), gsl",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.sparse","spatstat.sparse","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0-3",NA,"R (>= 3.5.0), stats, utils, methods, Matrix, abind, tensor","spatstat.utils (>= 3.0-2)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"spatstat.utils","spatstat.utils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.0-4",NA,"R (>= 3.3.0), stats, graphics, grDevices, utils, methods",NA,NA,"spatstat.model",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"SQUAREM","SQUAREM","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2021.1",NA,"R (>= 3.0)",NA,NA,"setRNG",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"StanHeaders","StanHeaders","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.26.28",NA,"R (>= 3.4.0)","RcppParallel (>= 5.1.4)","RcppEigen, RcppParallel (>= 5.1.4)","Rcpp, BH (>= 1.75.0-0), knitr (>= 1.36), rmarkdown, Matrix,
+methods, rstan, withr",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"statmod","statmod","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.0",NA,"R (>= 3.0.0)","stats, graphics",NA,"MASS, tweedie",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"statnet.common","statnet.common","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4.9.0",NA,"R (>= 3.5)","utils, methods, coda, parallel, tools",NA,"covr, rlang (>= 1.1.1), MASS, Matrix",NA,"GPL-3 + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"strex","strex","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.0",NA,"R (>= 3.5), stringr (>= 1.5)","checkmate (>= 1.9.3), lifecycle, magrittr (>= 1.5), rlang (>=
+1.0), stats, stringi (>= 1.7.8), utils",NA,"bench, covr, knitr, purrr, rmarkdown, spelling, testthat (>=
+3.0)",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"stringi","stringi","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8.3",NA,"R (>= 3.4)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","4.2.1"
+"stringr","stringr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.0",NA,"R (>= 3.3)","cli, glue (>= 1.6.1), lifecycle (>= 1.0.3), magrittr, rlang
+(>= 1.0.0), stringi (>= 1.5.3), vctrs",NA,"covr, htmltools, htmlwidgets, knitr, rmarkdown, testthat (>=
+3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"SummarizedExperiment","SummarizedExperiment","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.26.1",NA,"R (>= 4.0.0), methods, MatrixGenerics (>= 1.1.3),
+GenomicRanges (>= 1.41.5), Biobase","utils, stats, tools, Matrix, BiocGenerics (>= 0.37.0),
+S4Vectors (>= 0.33.7), IRanges (>= 2.23.9), GenomeInfoDb (>=
+1.13.1), DelayedArray (>= 0.15.10)",NA,"HDF5Array (>= 1.7.5), annotate, AnnotationDbi, hgu95av2.db,
+GenomicFeatures, TxDb.Hsapiens.UCSC.hg19.knownGene, jsonlite,
+rhdf5, airway (>= 1.15.1), BiocStyle, knitr, rmarkdown, RUnit,
+testthat, digest",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"svglite","svglite","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.2",NA,"R (>= 3.5.0)","systemfonts (>= 1.0.0)","cpp11, systemfonts","covr, fontquiver (>= 0.2.0), htmltools, knitr, rmarkdown,
+testthat (>= 3.0.0), xml2 (>= 1.0.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"sys","sys","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.4.2",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"systemfonts","systemfonts","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.5",NA,"R (>= 3.2.0)",NA,"cpp11 (>= 0.2.1)","covr, knitr, rmarkdown, testthat (>= 2.1.0), tools",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"tensor","tensor","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"4.2.1"
+"tester","tester","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.7",NA,"R (>= 3.0)",NA,NA,"testthat, knitr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"testthat","testthat","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2.0",NA,"R (>= 3.6.0)","brio (>= 1.1.3), callr (>= 3.7.3), cli (>= 3.6.1), desc (>=
+1.4.2), digest (>= 0.6.33), ellipsis (>= 0.3.2), evaluate (>=
+0.21), jsonlite (>= 1.8.7), lifecycle (>= 1.0.3), magrittr (>=
+2.0.3), methods, pkgload (>= 1.3.2.1), praise (>= 1.0.0),
+processx (>= 3.8.2), ps (>= 1.7.5), R6 (>= 2.5.1), rlang (>=
+1.1.1), utils, waldo (>= 0.5.1), withr (>= 2.5.0)",NA,"covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), knitr,
+rmarkdown, rstudioapi, shiny, usethis, vctrs (>= 0.1.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"textshaping","textshaping","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.3.7",NA,"R (>= 3.2.0)","systemfonts (>= 1.0.0)","cpp11 (>= 0.2.1), systemfonts (>= 1.0.0)","covr, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"TFisher","TFisher","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.0",NA,NA,"stats, sn, mvtnorm, Matrix",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"TH.data","TH.data","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-2",NA,"R (>= 3.5.0), survival, MASS",NA,NA,"trtf, tram, rms, coin, ATR, multcomp, gridExtra, vcd,
+colorspace, lattice, knitr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"tibble","tibble","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.2.1",NA,"R (>= 3.4.0)","fansi (>= 0.4.0), lifecycle (>= 1.0.0), magrittr, methods,
+pillar (>= 1.8.1), pkgconfig, rlang (>= 1.0.2), utils, vctrs
+(>= 0.4.2)",NA,"bench, bit64, blob, brio, callr, cli, covr, crayon (>=
+1.3.4), DiagrammeR, dplyr, evaluate, formattable, ggplot2,
+here, hms, htmltools, knitr, lubridate, mockr, nycflights13,
+pkgbuild, pkgload, purrr, rmarkdown, stringi, testthat (>=
+3.0.2), tidyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"tidygraph","tidygraph","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.3",NA,NA,"tibble, dplyr (>= 0.8.5), igraph (>= 1.3.0), magrittr, utils,
+rlang, R6, tools, stats, tidyr, pillar, cli","cpp11","network, data.tree, ape, graph, methods, testthat, covr,
+seriation, netrankr, influenceR, NetSwan",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"tidyr","tidyr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.0",NA,"R (>= 3.4.0)","cli (>= 3.4.1), dplyr (>= 1.0.10), glue, lifecycle (>= 1.0.3),
+magrittr, purrr (>= 1.0.1), rlang (>= 1.0.4), stringr (>=
+1.5.0), tibble (>= 2.1.1), tidyselect (>= 1.2.0), utils, vctrs
+(>= 0.5.2)","cpp11 (>= 0.4.0)","covr, data.table, knitr, readr, repurrrsive (>= 1.1.0),
+rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"tidyselect","tidyselect","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"R (>= 3.4)","cli (>= 3.3.0), glue (>= 1.3.0), lifecycle (>= 1.0.3), rlang
+(>= 1.0.4), vctrs (>= 0.4.1), withr",NA,"covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr,
+testthat (>= 3.1.1), tibble (>= 2.1.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"tidytree","tidytree","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.5",NA,"R (>= 3.4.0)","ape, dplyr, lazyeval, magrittr, methods, rlang, tibble, tidyr,
+tidyselect, yulab.utils (>= 0.0.4), pillar, cli",NA,"knitr, rmarkdown, prettydoc, testthat, utils",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"tidyverse","tidyverse","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.0",NA,"R (>= 3.3)","broom (>= 1.0.3), conflicted (>= 1.2.0), cli (>= 3.6.0),
+dbplyr (>= 2.3.0), dplyr (>= 1.1.0), dtplyr (>= 1.2.2), forcats
+(>= 1.0.0), ggplot2 (>= 3.4.1), googledrive (>= 2.0.0),
+googlesheets4 (>= 1.0.1), haven (>= 2.5.1), hms (>= 1.1.2),
+httr (>= 1.4.4), jsonlite (>= 1.8.4), lubridate (>= 1.9.2),
+magrittr (>= 2.0.3), modelr (>= 0.1.10), pillar (>= 1.8.1),
+purrr (>= 1.0.1), ragg (>= 1.2.5), readr (>= 2.1.4), readxl (>=
+1.4.2), reprex (>= 2.0.2), rlang (>= 1.0.6), rstudioapi (>=
+0.14), rvest (>= 1.0.3), stringr (>= 1.5.0), tibble (>= 3.1.8),
+tidyr (>= 1.3.0), xml2 (>= 1.3.3)",NA,"covr (>= 3.6.1), feather (>= 0.3.5), glue (>= 1.6.2), mockr
+(>= 0.2.0), knitr (>= 1.41), rmarkdown (>= 2.20), testthat (>=
+3.1.6)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"timechange","timechange","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.0",NA,"R (>= 3.3)",NA,"cpp11 (>= 0.2.7)","testthat (>= 0.7.1.99), knitr",NA,"GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"timeDate","timeDate","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","4022.108",NA,"R (>= 3.6.0)","graphics, utils, stats, methods",NA,"RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"tinytex","tinytex","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.48",NA,NA,"xfun (>= 0.29)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"TMB","TMB","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.9.6",NA,"R (>= 3.0.0)","graphics, methods, stats, utils, Matrix (>= 1.0-12)","Matrix, RcppEigen","numDeriv, parallel",NA,"GPL-2",NA,NA,NA,NA,"yes","4.2.1"
+"topGO","topGO","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.48.0",NA,"R (>= 2.10.0), methods, BiocGenerics (>= 0.13.6), graph (>=
+1.14.0), Biobase (>= 2.0.0), GO.db (>= 2.3.0), AnnotationDbi
+(>= 1.7.19), SparseM (>= 0.73)","lattice, matrixStats, DBI",NA,"ALL, hgu95av2.db, hgu133a.db, genefilter, xtable, multtest,
+Rgraphviz, globaltest",NA,"LGPL",NA,NA,NA,NA,"no","4.2.1"
+"TrajectoryUtils","TrajectoryUtils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.4.0",NA,"SingleCellExperiment","methods, stats, Matrix, igraph, S4Vectors,
+SummarizedExperiment",NA,"BiocNeighbors, DelayedArray, DelayedMatrixStats,
+BiocParallel, testthat, knitr, BiocStyle, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"treeio","treeio","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.20.2",NA,"R (>= 3.6.0)","ape, dplyr, jsonlite, magrittr, methods, rlang, tibble,
+tidytree (>= 0.3.9), utils",NA,"Biostrings, ggplot2, ggtree, igraph, knitr, rmarkdown,
+phangorn, prettydoc, testthat, tidyr, vroom, xml2, yaml",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"triebeard","triebeard","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.1",NA,NA,"Rcpp","Rcpp","knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"TSCAN","TSCAN","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.34.0",NA,"SingleCellExperiment, TrajectoryUtils","ggplot2, shiny, plyr, grid, fastICA, igraph, combinat, mgcv,
+mclust, gplots, methods, stats, Matrix, SummarizedExperiment,
+DelayedArray, S4Vectors",NA,"knitr, testthat, scuttle, scran, metapod, BiocParallel,
+BiocNeighbors, batchelor",NA,"GPL(>=2)",NA,NA,NA,NA,"no","4.2.1"
+"tweenr","tweenr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.0.2",NA,"R (>= 3.2.0)","farver, magrittr, rlang, vctrs","cpp11 (>= 0.4.2)","testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"tzdb","tzdb","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.0",NA,"R (>= 3.5.0)",NA,"cpp11 (>= 0.4.2)","covr, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"umap","umap","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.10.0",NA,"R (>= 3.6.0)","Matrix, methods, openssl, reticulate, Rcpp (>= 0.12.6),
+RSpectra, stats","Rcpp","knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"unix","unix","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.5.5",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,"unix",NA,"yes","4.2.1"
+"urlchecker","urlchecker","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.1",NA,"R (>= 3.3)","cli, curl, tools, xml2",NA,"covr",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"urltools","urltools","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.3",NA,"R (>= 2.10)","Rcpp, methods, triebeard","Rcpp","testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"usethis","usethis","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.2.2",NA,"R (>= 3.6)","cli (>= 3.0.1), clipr (>= 0.3.0), crayon, curl (>= 2.7), desc
+(>= 1.4.2), fs (>= 1.3.0), gert (>= 1.4.1), gh (>= 1.2.1), glue
+(>= 1.3.0), jsonlite, lifecycle (>= 1.0.0), purrr, rappdirs,
+rlang (>= 1.1.0), rprojroot (>= 1.2), rstudioapi, stats, utils,
+whisker, withr (>= 2.3.0), yaml",NA,"covr, knitr, magick, pkgload, rmarkdown, roxygen2 (>= 7.1.2),
+spelling (>= 1.2), styler (>= 1.2.0), testthat (>= 3.1.8)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"utf8","utf8","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.4",NA,"R (>= 2.10)",NA,NA,"cli, covr, knitr, rlang, rmarkdown, testthat (>= 3.0.0),
+withr",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"uuid","uuid","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-1",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"uwot","uwot","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.16",NA,"Matrix","Rcpp, methods, FNN, RcppAnnoy (>= 0.0.17), irlba","Rcpp, RcppProgress, RcppAnnoy, dqrng","testthat, covr, bigstatsr, RSpectra",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","4.2.1"
+"vctrs","vctrs","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6.4",NA,"R (>= 3.5.0)","cli (>= 3.4.0), glue, lifecycle (>= 1.0.3), rlang (>= 1.1.0)",NA,"bit64, covr, crayon, dplyr (>= 0.8.5), generics, knitr,
+pillar (>= 1.4.4), pkgdown (>= 2.0.1), rmarkdown, testthat (>=
+3.0.0), tibble (>= 3.1.3), waldo (>= 0.2.0), withr, xml2,
+zeallot",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"VennDiagram","VennDiagram","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.3",NA,"R (>= 3.5.0), grid (>= 2.14.1), futile.logger","methods",NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"no","4.2.1"
+"VGAM","VGAM","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.1-9",NA,"R (>= 4.0.0), methods, stats, stats4, splines",NA,NA,"VGAMextra, MASS, mgcv","VGAMdata","GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"vipor","vipor","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.5",NA,"R (>= 3.0.0)","stats, graphics",NA,"testthat, beeswarm, lattice, ggplot2, beanplot, vioplot,
+ggbeeswarm,",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"viridis","viridis","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.6.4",NA,"R (>= 2.10), viridisLite (>= 0.4.0)","ggplot2 (>= 1.0.1), gridExtra",NA,"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, httr, mapproj, vdiffr, svglite (>= 1.2.0),
+testthat, covr, rmarkdown, maps, terra",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"viridisLite","viridisLite","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.2",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"visNetwork","visNetwork","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.1.2",NA,"R (>= 3.0)","htmlwidgets, htmltools, jsonlite, magrittr, utils, methods,
+grDevices, stats",NA,"knitr, rmarkdown, webshot, igraph, rpart, shiny,
+shinyWidgets, colourpicker, sparkline, ggraph, tidygraph,
+flashClust",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"vroom","vroom","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.6.4",NA,"R (>= 3.6)","bit64, cli (>= 3.2.0), crayon, glue, hms, lifecycle (>=
+1.0.3), methods, rlang (>= 0.4.2), stats, tibble (>= 2.0.0),
+tidyselect, tzdb (>= 0.1.1), vctrs (>= 0.2.0), withr","cpp11 (>= 0.2.0), progress (>= 1.2.1), tzdb (>= 0.1.1)","archive, bench (>= 1.1.0), covr, curl, dplyr, forcats, fs,
+ggplot2, knitr, patchwork, prettyunits, purrr, rmarkdown,
+rstudioapi, scales, spelling, testthat (>= 2.1.0), tidyr,
+utils, waldo, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"waldo","waldo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.5.1",NA,NA,"cli, diffobj (>= 0.3.4), fansi, glue, methods, rematch2, rlang
+(>= 1.0.0), tibble",NA,"covr, R6, testthat (>= 3.0.0), withr, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"warp","warp","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.2.1",NA,"R (>= 3.2)",NA,NA,"covr, knitr, rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"WGCNA","WGCNA","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.72-1",NA,"R (>= 3.0), dynamicTreeCut (>= 1.62), fastcluster","stats, grDevices, utils, matrixStats (>= 0.8.1), Hmisc,
+impute, splines, foreach, doParallel, preprocessCore, survival,
+parallel, GO.db, AnnotationDbi, Rcpp (>= 0.11.0)","Rcpp","org.Hs.eg.db, org.Mm.eg.db, infotheo, entropy, minet",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"whisker","whisker","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.4.1",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.2.1"
+"withr","withr","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.5.1",NA,"R (>= 3.2.0)","graphics, grDevices, stats",NA,"callr, covr, DBI, knitr, lattice, methods, rlang, rmarkdown
+(>= 2.12), RSQLite, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"WriteXLS","WriteXLS","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","6.4.0",NA,NA,"utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"xfun","xfun","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.40",NA,NA,"stats, tools",NA,"testit, parallel, codetools, rstudioapi, tinytex (>= 0.30),
+mime, markdown (>= 1.5), knitr (>= 1.42), htmltools, remotes,
+pak, rhub, renv, curl, jsonlite, magick, yaml, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"xgboost","xgboost","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.7.5.1",NA,"R (>= 3.3.0)","Matrix (>= 1.1-0), methods, data.table (>= 1.9.6), jsonlite
+(>= 1.0),",NA,"knitr, rmarkdown, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.9.0),
+Ckmeans.1d.dp (>= 3.3.1), vcd (>= 1.3), testthat, lintr, igraph
+(>= 1.0.1), float, crayon, titanic",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"XML","XML","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","3.99-0.14",NA,"R (>= 4.0.0), methods, utils",NA,NA,"bitops, RCurl",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"xml2","xml2","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.3.5",NA,"R (>= 3.1.0)","methods",NA,"covr, curl, httr, knitr, magrittr, mockery, rmarkdown,
+testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"xopen","xopen","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.0.0",NA,"R (>= 3.1)","processx",NA,"ps, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.2.1"
+"xtable","xtable","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8-4",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.2.1"
+"XVector","XVector","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.36.0",NA,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9)","methods, utils, tools, zlibbioc, BiocGenerics, S4Vectors,
+IRanges","S4Vectors, IRanges","Biostrings, drosophila2probe, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.2.1"
+"yaml","yaml","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.7",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"yardstick","yardstick","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.2.0",NA,"R (>= 3.4.0)","cli, dplyr (>= 1.1.0), generics (>= 0.1.2), hardhat (>=
+1.3.0), lifecycle (>= 1.0.3), rlang (>= 1.0.6), tibble,
+tidyselect (>= 1.2.0), utils, vctrs (>= 0.5.0)",NA,"covr, crayon, ggplot2, knitr, probably (>= 0.0.6), rmarkdown,
+survival (>= 3.5-0), testthat (>= 3.0.0), tidyr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"yulab.utils","yulab.utils","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","0.1.0",NA,NA,"cli, digest, fs, memoise, rlang, stats, tools, utils",NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.2.1"
+"zip","zip","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","2.3.0",NA,NA,NA,NA,"covr, processx, R6, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"zlibbioc","zlibbioc","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.42.0",NA,NA,NA,NA,NA,NA,"Artistic-2.0 + file LICENSE",NA,NA,NA,NA,"yes","4.2.1"
+"zoo","zoo","/home/zhoudel/R/x86_64-pc-linux-gnu-library/4.2","1.8-12",NA,"R (>= 3.1.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"AER, coda, chron, ggplot2 (>= 3.0.0), mondate, scales,
+stinepack, strucchange, timeDate, timeSeries, tis, tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"base","base","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,"methods",NA,"Part of R 4.2.1",NA,NA,NA,NA,NA,"4.2.1"
+"boot","boot","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","1.3-28","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","4.2.1"
+"class","class","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","7.3-20","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"cluster","cluster","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","2.1.3","recommended","R (>= 3.5.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"codetools","codetools","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","0.2-18","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","4.2.1"
+"compiler","compiler","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,NA,"4.2.1"
+"datasets","datasets","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,NA,"4.2.1"
+"foreign","foreign","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","0.8-82","recommended","R (>= 4.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"graphics","graphics","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"grDevices",NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"grDevices","grDevices","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"grid","grid","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"grDevices, utils",NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"KernSmooth","KernSmooth","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","2.23-20","recommended","R (>= 2.5.0), stats",NA,NA,"MASS, carData",NA,"Unlimited",NA,NA,NA,NA,"yes","4.2.1"
+"lattice","lattice","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","0.20-45","recommended","R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"MASS","MASS","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","7.3-57","recommended","R (>= 3.3.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"Matrix","Matrix","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","1.4-1","recommended","R (>= 3.5.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc, igraph, maptools, sp,
+spdep","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","4.2.1"
+"methods","methods","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"mgcv","mgcv","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","1.8-40","recommended","R (>= 3.6.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"nlme","nlme","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","3.1-157","recommended","R (>= 3.5.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS, SASmixed",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"nnet","nnet","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","7.3-17","recommended","R (>= 3.0.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"parallel","parallel","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"tools, compiler",NA,"methods","snow, nws, Rmpi","Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"rpart","rpart","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.1.16","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"spatial","spatial","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","7.3-15","recommended","R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.2.1"
+"splines","splines","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"stats","stats","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"stats4","stats4","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,NA,"4.2.1"
+"survival","survival","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","3.3-1","recommended","R (>= 3.5.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","4.2.1"
+"tcltk","tcltk","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,"utils",NA,NA,NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"tools","tools","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,"codetools, methods, xml2, curl, commonmark, knitr, xfun, mathjaxr",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
+"utils","utils","/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/r/4.2.1/lib64/R/library","4.2.1","base",NA,NA,NA,"methods, xml2, commonmark, knitr",NA,"Part of R 4.2.1",NA,NA,NA,NA,"yes","4.2.1"
