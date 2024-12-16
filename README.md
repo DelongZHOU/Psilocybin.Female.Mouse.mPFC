@@ -62,4 +62,5 @@ and aggregated for the top 50 of either positively or negatively enriched terms 
 Seurat related figures such as UMAP and violin plots are performed on Compute Canada Béluga.
 Python scripts were executed using WinPython with package versions in WinPython.txt
 
-
+## Biorender
+Portions of Figures 1, 3 and Supp. Figures S4 were created with Biorender. These graphics were not included in this repo.
