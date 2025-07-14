@@ -1,4 +1,4 @@
-gene,celltype,function,DEG,padj
+gene,celltype,function,significant,padj
 Uqcrb,L2-6 IT,Mitochondrion,No,0.999999893
 Rps26,L2-6 IT,Ribosome,No,0.999999893
 Epha4,L2-6 IT,Mitochondrion,Yes,0.0000639
