@@ -13,9 +13,14 @@ The R package versions can be found in the R_sessioninfo.txt
 Analysis with CellBender was performed on Compute Canada Béluga cluster with Python virtual enrivonment.
 Other Python scripts were executed using WinPython with package versions in WinPython.txt
 
+Packages and dependencies required to extract the gene modules using supervised latent factor modeling (and all downstream analyses shown in Fig 3 and Extended Figures 6–8) and listed in ```python.package.version.txt``` . The conda environment can be recreated with ```psilocybin_mouse_pls.yml```.
+
 
 ## Analysis Pipeline
 Single cell RNA-Seq analysis and R related visualization were performed using Compute Canada Béluga cluster.
+
+Supervised latent factor modeling analyses, and mapping to the [Imputed MERFISH spatial transcriptomics of a single adult mouse brain](https://alleninstitute.github.io/abc_atlas_access/descriptions/MERFISH-C57BL6J-638850-imputed.html) were performed in Python 3.13.2 on a private server hosted by the McConnell Brain Imaging Centre (Montreal Neurological Institute).
+
 
 
 ### Preprocess
