@@ -13,7 +13,7 @@ The R package versions can be found in the R_sessioninfo.txt
 Analysis with CellBender was performed on Compute Canada Béluga cluster with Python virtual enrivonment.
 Other Python scripts were executed using WinPython with package versions in WinPython.txt
 
-Packages and dependencies required to extract the gene modules using supervised latent factor modeling (and all downstream analyses shown in Fig 3 and Extended Figures 6–8) and listed in ```python.package.version.txt``` . The conda environment can be recreated with ```psilocybin_mouse_pls.yml```.
+Packages and dependencies required to extract the gene modules using supervised latent factor modeling (and all downstream analyses shown in Fig 3 and Extended Figures 6–8) and listed in ```python.package.version.txt```. The conda environment can be recreated with ```psilocybin_mouse_pls.yml```.
 
 
 ## Analysis Pipeline
