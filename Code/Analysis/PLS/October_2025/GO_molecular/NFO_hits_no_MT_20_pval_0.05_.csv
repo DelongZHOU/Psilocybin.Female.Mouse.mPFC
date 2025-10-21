@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7
+comp_1,Transmitter-Gated Monoatomic Ion Channel Activity GO,,,,,,,
+comp_2,Ligand-Gated Monoatomic Anion Channel Activity GO,GABA-A Receptor Activity GO,Transmitter-Gated Monoatomic Ion Channel Activity GO,Transmitter-Gated Monoatomic Ion Channel Activity Involved In Regulation Of Postsynaptic Membrane Potential GO,Phosphatidylinositol Binding GO,,,
+comp_3,,,,,,,,
+comp_4,DNA-directed '-' RNA Polymerase Activity GO,NADH Dehydrogenase Ubiquinone Activity GO,NADH Dehydrogenase Quinone Activity GO,Oxidoreduction-Driven Active Transmembrane Transporter Activity GO,rRNA Binding GO,RNA Binding GO,GTPase Regulator Activity GO,Guanyl-Nucleotide Exchange Factor Activity GO

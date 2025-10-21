@@ -1,0 +1,111 @@
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 7 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'Metabolism.Lipid_metabolism' 'Mitochondrial_central_dogma.Translation'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 7 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'Metabolism.Lipid_metabolism' 'Mitochondrial_central_dogma.Translation'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 7 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'Metabolism.Lipid_metabolism' 'Mitochondrial_central_dogma.Translation'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 3 
+Pathways 
+['OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.Complex_I.CI_subunits'] 
+

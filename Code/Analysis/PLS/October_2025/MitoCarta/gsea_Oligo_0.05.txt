@@ -1,0 +1,81 @@
+PLS-C 1 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Metabolism.Metals_and_cofactors.Fe-S_cluster_biosynthesis'
+ 'OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome' 'OXPHOS'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis'
+ 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'Metabolism.Carbohydrate_metabolism.TCA_cycle' 'OXPHOS.Complex_IV'
+ 'Metabolism.Nucleotide_metabolism' 'Metabolism.Metals_and_cofactors'
+ 'Mitochondrial_central_dogma' 'Metabolism.Lipid_metabolism'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Metabolism.Metals_and_cofactors.Fe-S_cluster_biosynthesis'
+ 'OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome' 'OXPHOS'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis'
+ 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'Metabolism.Carbohydrate_metabolism.TCA_cycle' 'OXPHOS.Complex_IV'
+ 'Metabolism.Nucleotide_metabolism' 'Metabolism.Metals_and_cofactors'
+ 'Mitochondrial_central_dogma' 'Metabolism.Lipid_metabolism'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Metabolism.Metals_and_cofactors.Fe-S_cluster_biosynthesis'
+ 'OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'OXPHOS.OXPHOS_subunits'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome' 'OXPHOS'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis'
+ 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'Metabolism.Carbohydrate_metabolism.TCA_cycle' 'OXPHOS.Complex_IV'
+ 'Metabolism.Nucleotide_metabolism' 'Metabolism.Metals_and_cofactors'
+ 'Mitochondrial_central_dogma' 'Metabolism.Lipid_metabolism'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+

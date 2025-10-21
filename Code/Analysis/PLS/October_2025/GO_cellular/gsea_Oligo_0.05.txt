@@ -1,0 +1,2346 @@
+PLS-C 1 
+Number of significantly enriched pathways: 1 
+Pathways 
+['9+2 Motile Cilium (GO:0097729)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 51 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'U12-type Spliceosomal Complex (GO:0005689)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Non-Motile Cilium (GO:0097730)'
+ 'Endosome Lumen (GO:0031904)' 'Euchromatin (GO:0000791)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Azurophil Granule (GO:0042582)'
+ 'Platelet Alpha Granule Lumen (GO:0031093)' 'Peroxisome (GO:0005777)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)' 'Tertiary Granule (GO:0070820)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Neuron Projection (GO:0043005)' 'Cell-Cell Junction (GO:0005911)'
+ 'Adherens Junction (GO:0005912)' 'Asymmetric Synapse (GO:0032279)'
+ 'Tight Junction (GO:0070160)' 'Bicellular Tight Junction (GO:0005923)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Apical Junction Complex (GO:0043296)' 'Catenin Complex (GO:0016342)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-A Receptor Complex (GO:1902711)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 62 
+Pathways 
+['Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Postsynaptic Density (GO:0014069)' 'Axon (GO:0030424)'
+ 'Asymmetric Synapse (GO:0032279)' 'Cilium (GO:0005929)'
+ 'Adherens Junction (GO:0005912)' 'Neuron Projection (GO:0043005)'
+ 'Endoplasmic Reticulum Membrane (GO:0005789)' 'Lysosome (GO:0005764)'
+ 'Secretory Granule Membrane (GO:0030667)'
+ 'Lytic Vacuole Membrane (GO:0098852)' 'Lysosomal Membrane (GO:0005765)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Lytic Vacuole (GO:0000323)'
+ 'Vesicle (GO:0031982)' 'Peroxisome (GO:0005777)'
+ 'Lysosomal Lumen (GO:0043202)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Vacuolar Lumen (GO:0005775)' 'Secretory Granule Lumen (GO:0034774)'
+ 'Myofibril (GO:0030016)' 'Azurophil Granule (GO:0042582)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Ficolin-1-Rich Granule Membrane (GO:0101003)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Azurophil Granule Lumen (GO:0035578)' 'Tertiary Granule (GO:0070820)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Endosome Lumen (GO:0031904)'
+ 'Vesicle Coat (GO:0030120)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Microbody Lumen (GO:0031907)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 28 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Axon (GO:0030424)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite (GO:0030425)'
+ 'Cilium (GO:0005929)' 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Basement Membrane (GO:0005604)' 'Intermediate Filament (GO:0005882)'
+ 'Sperm Flagellum (GO:0036126)' '9+2 Motile Cilium (GO:0097729)'
+ 'Motile Cilium (GO:0031514)' 'Clathrin Coat Of Coated Pit (GO:0030132)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 25 
+Pathways 
+['High-Density Lipoprotein Particle (GO:0034364)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Astrocyte Projection (GO:0097449)' 'Endosome Lumen (GO:0031904)'
+ 'Platelet Dense Granule (GO:0042827)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Endoplasmic reticulum-Golgi Intermediate Compartment Membrane (GO:0033116)'
+ 'Lysosomal Lumen (GO:0043202)' 'Intercalated Disc (GO:0014704)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cell-Cell Contact Zone (GO:0044291)' 'Vacuolar Lumen (GO:0005775)'
+ 'Azurophil Granule (GO:0042582)' 'Platelet Alpha Granule (GO:0031091)'
+ 'Lytic Vacuole (GO:0000323)'
+ 'Collagen-Containing Extracellular Matrix (GO:0062023)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Serine/Threonine Protein Kinase Complex (GO:1902554)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 21 
+Pathways 
+['beta-catenin-TCF Complex (GO:1990907)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Neuron Projection (GO:0043005)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Sarcolemma (GO:0042383)' 'Potassium Channel Complex (GO:0034705)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Intercalated Disc (GO:0014704)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Excitatory Synapse (GO:0060076)' 'Astrocyte Projection (GO:0097449)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 16 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'T Cell Receptor Complex (GO:0042101)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 40 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Euchromatin (GO:0000791)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Cell-Cell Junction (GO:0005911)'
+ 'Axon (GO:0030424)' 'Postsynaptic Density (GO:0014069)'
+ 'Asymmetric Synapse (GO:0032279)' 'Adherens Junction (GO:0005912)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Neuromuscular Junction (GO:0031594)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle (GO:0070382)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Secretory Vesicle (GO:0099503)' 'Golgi Stack (GO:0005795)'
+ 'Dense Core Granule (GO:0031045)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Excitatory Synapse (GO:0060076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Synaptic Membrane (GO:0097060)' 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Asymmetric Synapse (GO:0032279)' 'Clathrin-Coated Vesicle (GO:0030136)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Cation Channel Complex (GO:0034703)' 'Axon (GO:0030424)'
+ 'Calcium Channel Complex (GO:0034704)' 'Neuron Projection (GO:0043005)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Dendrite (GO:0030425)'
+ 'Nucleus (GO:0005634)' 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Cell-Substrate Junction (GO:0030055)' 'Focal Adhesion (GO:0005925)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Clathrin-Coated Endocytic Vesicle (GO:0045334)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Clathrin-Coated Endocytic Vesicle Membrane (GO:0030669)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Chromosome (GO:0005694)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Microbody Lumen (GO:0031907)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Ribosome (GO:0005840)' 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 65 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endoribonuclease Complex (GO:1902555)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'T Cell Receptor Complex (GO:0042101)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)' 'Endosome Lumen (GO:0031904)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Lysosomal Lumen (GO:0043202)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Nucleus (GO:0005634)' 'Neuron Projection (GO:0043005)'
+ 'Axon (GO:0030424)' 'Adherens Junction (GO:0005912)'
+ 'Asymmetric Synapse (GO:0032279)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Microtubule (GO:0005874)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Condensed Chromosome (GO:0000793)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)' 'Endosome Lumen (GO:0031904)'
+ 'Ribosome (GO:0005840)' 'Small Ribosomal Subunit (GO:0015935)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 12 
+Pathways 
+['Neuron To Neuron Synapse (GO:0098984)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Dense Core Granule (GO:0031045)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Gap Junction (GO:0005921)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 63 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Golgi Cisterna (GO:0031985)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Ciliary Membrane (GO:0060170)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Polymeric Cytoskeletal Fiber (GO:0099513)' 'Lytic Vacuole (GO:0000323)'
+ 'Microtubule (GO:0005874)' 'Vacuolar Lumen (GO:0005775)'
+ 'Organelle Outer Membrane (GO:0031968)' 'Tertiary Granule (GO:0070820)'
+ 'Mitochondrial Outer Membrane (GO:0005741)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'P-body (GO:0000932)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vacuolar Membrane (GO:0005774)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'U2-type Spliceosomal Complex (GO:0005684)' 'Endosome Lumen (GO:0031904)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Vesicle Coat (GO:0030120)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Ribosome (GO:0005840)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Proton-Transporting V-type ATPase Complex (GO:0033176)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Vacuolar Proton-Transporting V-type ATPase Complex (GO:0016471)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endosome Lumen (GO:0031904)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Vacuolar Lumen (GO:0005775)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Tertiary Granule (GO:0070820)' 'Vesicle (GO:0031982)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Dendrite (GO:0030425)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite Membrane (GO:0032590)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Glutamatergic Synapse (GO:0098978)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Neuromuscular Junction (GO:0031594)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 2 
+Pathways 
+['Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 5 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 1 
+Pathways 
+['9+2 Motile Cilium (GO:0097729)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 51 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'U12-type Spliceosomal Complex (GO:0005689)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Non-Motile Cilium (GO:0097730)'
+ 'Endosome Lumen (GO:0031904)' 'Euchromatin (GO:0000791)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Azurophil Granule (GO:0042582)'
+ 'Platelet Alpha Granule Lumen (GO:0031093)' 'Peroxisome (GO:0005777)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)' 'Tertiary Granule (GO:0070820)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Neuron Projection (GO:0043005)' 'Cell-Cell Junction (GO:0005911)'
+ 'Adherens Junction (GO:0005912)' 'Asymmetric Synapse (GO:0032279)'
+ 'Tight Junction (GO:0070160)' 'Bicellular Tight Junction (GO:0005923)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Apical Junction Complex (GO:0043296)' 'Catenin Complex (GO:0016342)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-A Receptor Complex (GO:1902711)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 62 
+Pathways 
+['Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Postsynaptic Density (GO:0014069)' 'Axon (GO:0030424)'
+ 'Asymmetric Synapse (GO:0032279)' 'Cilium (GO:0005929)'
+ 'Adherens Junction (GO:0005912)' 'Neuron Projection (GO:0043005)'
+ 'Endoplasmic Reticulum Membrane (GO:0005789)' 'Lysosome (GO:0005764)'
+ 'Secretory Granule Membrane (GO:0030667)'
+ 'Lytic Vacuole Membrane (GO:0098852)' 'Lysosomal Membrane (GO:0005765)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Lytic Vacuole (GO:0000323)'
+ 'Vesicle (GO:0031982)' 'Peroxisome (GO:0005777)'
+ 'Lysosomal Lumen (GO:0043202)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Vacuolar Lumen (GO:0005775)' 'Secretory Granule Lumen (GO:0034774)'
+ 'Myofibril (GO:0030016)' 'Azurophil Granule (GO:0042582)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Ficolin-1-Rich Granule Membrane (GO:0101003)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Azurophil Granule Lumen (GO:0035578)' 'Tertiary Granule (GO:0070820)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Endosome Lumen (GO:0031904)'
+ 'Vesicle Coat (GO:0030120)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Microbody Lumen (GO:0031907)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 28 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Axon (GO:0030424)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite (GO:0030425)'
+ 'Cilium (GO:0005929)' 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Basement Membrane (GO:0005604)' 'Intermediate Filament (GO:0005882)'
+ 'Sperm Flagellum (GO:0036126)' '9+2 Motile Cilium (GO:0097729)'
+ 'Motile Cilium (GO:0031514)' 'Clathrin Coat Of Coated Pit (GO:0030132)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 25 
+Pathways 
+['High-Density Lipoprotein Particle (GO:0034364)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Astrocyte Projection (GO:0097449)' 'Endosome Lumen (GO:0031904)'
+ 'Platelet Dense Granule (GO:0042827)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Endoplasmic reticulum-Golgi Intermediate Compartment Membrane (GO:0033116)'
+ 'Lysosomal Lumen (GO:0043202)' 'Intercalated Disc (GO:0014704)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cell-Cell Contact Zone (GO:0044291)' 'Vacuolar Lumen (GO:0005775)'
+ 'Azurophil Granule (GO:0042582)' 'Platelet Alpha Granule (GO:0031091)'
+ 'Lytic Vacuole (GO:0000323)'
+ 'Collagen-Containing Extracellular Matrix (GO:0062023)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Serine/Threonine Protein Kinase Complex (GO:1902554)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 21 
+Pathways 
+['beta-catenin-TCF Complex (GO:1990907)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Neuron Projection (GO:0043005)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Sarcolemma (GO:0042383)' 'Potassium Channel Complex (GO:0034705)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Intercalated Disc (GO:0014704)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Excitatory Synapse (GO:0060076)' 'Astrocyte Projection (GO:0097449)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 16 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'T Cell Receptor Complex (GO:0042101)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 40 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Euchromatin (GO:0000791)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Cell-Cell Junction (GO:0005911)'
+ 'Axon (GO:0030424)' 'Postsynaptic Density (GO:0014069)'
+ 'Asymmetric Synapse (GO:0032279)' 'Adherens Junction (GO:0005912)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Neuromuscular Junction (GO:0031594)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle (GO:0070382)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Secretory Vesicle (GO:0099503)' 'Golgi Stack (GO:0005795)'
+ 'Dense Core Granule (GO:0031045)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Excitatory Synapse (GO:0060076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Synaptic Membrane (GO:0097060)' 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Asymmetric Synapse (GO:0032279)' 'Clathrin-Coated Vesicle (GO:0030136)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Cation Channel Complex (GO:0034703)' 'Axon (GO:0030424)'
+ 'Calcium Channel Complex (GO:0034704)' 'Neuron Projection (GO:0043005)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Dendrite (GO:0030425)'
+ 'Nucleus (GO:0005634)' 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Cell-Substrate Junction (GO:0030055)' 'Focal Adhesion (GO:0005925)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Clathrin-Coated Endocytic Vesicle (GO:0045334)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Clathrin-Coated Endocytic Vesicle Membrane (GO:0030669)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Chromosome (GO:0005694)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Microbody Lumen (GO:0031907)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)' 'Ribosome (GO:0005840)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 65 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endoribonuclease Complex (GO:1902555)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'T Cell Receptor Complex (GO:0042101)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)' 'Endosome Lumen (GO:0031904)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Lysosomal Lumen (GO:0043202)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Nucleus (GO:0005634)' 'Neuron Projection (GO:0043005)'
+ 'Axon (GO:0030424)' 'Adherens Junction (GO:0005912)'
+ 'Asymmetric Synapse (GO:0032279)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Microtubule (GO:0005874)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Condensed Chromosome (GO:0000793)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)' 'Endosome Lumen (GO:0031904)'
+ 'Ribosome (GO:0005840)' 'Small Ribosomal Subunit (GO:0015935)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 12 
+Pathways 
+['Neuron To Neuron Synapse (GO:0098984)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Dense Core Granule (GO:0031045)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Gap Junction (GO:0005921)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 63 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Golgi Cisterna (GO:0031985)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Ciliary Membrane (GO:0060170)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Polymeric Cytoskeletal Fiber (GO:0099513)' 'Lytic Vacuole (GO:0000323)'
+ 'Microtubule (GO:0005874)' 'Vacuolar Lumen (GO:0005775)'
+ 'Organelle Outer Membrane (GO:0031968)' 'Tertiary Granule (GO:0070820)'
+ 'Mitochondrial Outer Membrane (GO:0005741)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'P-body (GO:0000932)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vacuolar Membrane (GO:0005774)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'U2-type Spliceosomal Complex (GO:0005684)' 'Endosome Lumen (GO:0031904)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Vesicle Coat (GO:0030120)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Ribosome (GO:0005840)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Proton-Transporting V-type ATPase Complex (GO:0033176)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Vacuolar Proton-Transporting V-type ATPase Complex (GO:0016471)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endosome Lumen (GO:0031904)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Vacuolar Lumen (GO:0005775)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Tertiary Granule (GO:0070820)' 'Vesicle (GO:0031982)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Dendrite (GO:0030425)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite Membrane (GO:0032590)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Glutamatergic Synapse (GO:0098978)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Neuromuscular Junction (GO:0031594)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 2 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 5 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 3 
+Pathways 
+['Brush Border Membrane (GO:0031526)' 'Keratin Filament (GO:0045095)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 6 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 40 
+Pathways 
+['Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'High-Density Lipoprotein Particle (GO:0034364)' 'Ribosome (GO:0005840)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Platelet Alpha Granule Membrane (GO:0031092)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Organelle Inner Membrane (GO:0019866)' 'Vacuolar Lumen (GO:0005775)'
+ 'Lysosomal Lumen (GO:0043202)' 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vesicle (GO:0031982)'
+ 'Focal Adhesion (GO:0005925)' 'Cell-Substrate Junction (GO:0030055)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Golgi Stack (GO:0005795)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 2 
+Pathways 
+['Synaptic Membrane (GO:0097060)' 'Neuromuscular Junction (GO:0031594)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 43 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Nuclear Chromosome (GO:0000228)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Condensed Chromosome (GO:0000793)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Extracellular Vesicle (GO:1903561)' 'Vacuolar Lumen (GO:0005775)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Lysosomal Lumen (GO:0043202)'
+ 'Chromosome (GO:0005694)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vesicle (GO:0031982)'
+ 'Nucleolus (GO:0005730)' 'Nuclear Lumen (GO:0031981)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Asymmetric Synapse (GO:0032279)' 'Postsynaptic Density (GO:0014069)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 64 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Golgi Cisterna (GO:0031985)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Catenin Complex (GO:0016342)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Synaptic Membrane (GO:0097060)' 'Calcium Channel Complex (GO:0034704)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Adherens Junction (GO:0005912)'
+ 'Lysosome (GO:0005764)' 'Lysosomal Membrane (GO:0005765)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Lytic Vacuole Membrane (GO:0098852)' 'Microtubule (GO:0005874)'
+ 'Vesicle (GO:0031982)' 'Lytic Vacuole (GO:0000323)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Tertiary Granule (GO:0070820)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Lysosomal Lumen (GO:0043202)' 'Vacuolar Lumen (GO:0005775)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Multivesicular Body (GO:0005771)' 'Extracellular Vesicle (GO:1903561)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Endosome Lumen (GO:0031904)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)' 'Ribosome (GO:0005840)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Proton-Transporting V-type ATPase Complex (GO:0033176)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 16 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Endosome Lumen (GO:0031904)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 9 
+Pathways 
+['Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Calcium Channel Complex (GO:0034704)' 'Dendrite Membrane (GO:0032590)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Cation Channel Complex (GO:0034703)' 'Dense Core Granule (GO:0031045)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 8 
+Pathways 
+['Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 6 
+Pathways 
+['GABA-A Receptor Complex (GO:1902711)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Postsynaptic Density (GO:0014069)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Microvillus (GO:0005902)' 'Bicellular Tight Junction (GO:0005923)'
+ 'Tight Junction (GO:0070160)' 'Apical Junction Complex (GO:0043296)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 25 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 32 
+Pathways 
+['Neuron To Neuron Synapse (GO:0098984)' 'Microfibril (GO:0001527)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Catenin Complex (GO:0016342)' 'Neuromuscular Junction (GO:0031594)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Calcium Channel Complex (GO:0034704)' 'Asymmetric Synapse (GO:0032279)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Glutamatergic Synapse (GO:0098978)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 61 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'COPI-coated Vesicle Membrane (GO:0030663)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Outer Membrane Translocase Complex (GO:0005742)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Vacuolar Lumen (GO:0005775)'
+ 'Tertiary Granule (GO:0070820)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Adherens Junction (GO:0005912)' 'Dendrite (GO:0030425)'
+ 'Neuron Projection (GO:0043005)' 'Axon (GO:0030424)'
+ 'Asymmetric Synapse (GO:0032279)' 'Calcium Channel Complex (GO:0034704)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Catenin Complex (GO:0016342)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Sarcolemma (GO:0042383)' 'Postsynaptic Density (GO:0014069)'
+ 'Synaptic Membrane (GO:0097060)' 'Potassium Channel Complex (GO:0034705)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Sodium Channel Complex (GO:0034706)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 35 
+Pathways 
+['Nucleolus (GO:0005730)' 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Vesicle (GO:0031982)' 'Lytic Vacuole (GO:0000323)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Peroxisome (GO:0005777)'
+ 'Vacuolar Lumen (GO:0005775)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Tertiary Granule (GO:0070820)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Lysosomal Lumen (GO:0043202)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Vacuolar Membrane (GO:0005774)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Extracellular Vesicle (GO:1903561)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'U2-type Spliceosomal Complex (GO:0005684)' 'Vesicle Coat (GO:0030120)'
+ 'Ribosome (GO:0005840)' 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'T Cell Receptor Complex (GO:0042101)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 1 
+Pathways 
+['9+2 Motile Cilium (GO:0097729)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 51 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'U12-type Spliceosomal Complex (GO:0005689)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Non-Motile Cilium (GO:0097730)'
+ 'Endosome Lumen (GO:0031904)' 'Euchromatin (GO:0000791)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Azurophil Granule (GO:0042582)'
+ 'Platelet Alpha Granule Lumen (GO:0031093)' 'Peroxisome (GO:0005777)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)' 'Tertiary Granule (GO:0070820)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Neuron Projection (GO:0043005)' 'Cell-Cell Junction (GO:0005911)'
+ 'Adherens Junction (GO:0005912)' 'Asymmetric Synapse (GO:0032279)'
+ 'Tight Junction (GO:0070160)' 'Bicellular Tight Junction (GO:0005923)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Apical Junction Complex (GO:0043296)' 'Catenin Complex (GO:0016342)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-A Receptor Complex (GO:1902711)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 62 
+Pathways 
+['Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Postsynaptic Density (GO:0014069)' 'Axon (GO:0030424)'
+ 'Asymmetric Synapse (GO:0032279)' 'Cilium (GO:0005929)'
+ 'Adherens Junction (GO:0005912)' 'Neuron Projection (GO:0043005)'
+ 'Endoplasmic Reticulum Membrane (GO:0005789)' 'Lysosome (GO:0005764)'
+ 'Secretory Granule Membrane (GO:0030667)'
+ 'Lytic Vacuole Membrane (GO:0098852)' 'Lysosomal Membrane (GO:0005765)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Lytic Vacuole (GO:0000323)'
+ 'Vesicle (GO:0031982)' 'Peroxisome (GO:0005777)'
+ 'Lysosomal Lumen (GO:0043202)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Vacuolar Lumen (GO:0005775)' 'Secretory Granule Lumen (GO:0034774)'
+ 'Myofibril (GO:0030016)' 'Azurophil Granule (GO:0042582)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Ficolin-1-Rich Granule Membrane (GO:0101003)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Azurophil Granule Lumen (GO:0035578)' 'Tertiary Granule (GO:0070820)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Endosome Lumen (GO:0031904)'
+ 'Vesicle Coat (GO:0030120)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Microbody Lumen (GO:0031907)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 28 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)' 'Axon (GO:0030424)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite (GO:0030425)'
+ 'Cilium (GO:0005929)' 'Intermediate Filament Cytoskeleton (GO:0045111)'
+ 'Basement Membrane (GO:0005604)' 'Intermediate Filament (GO:0005882)'
+ 'Sperm Flagellum (GO:0036126)' '9+2 Motile Cilium (GO:0097729)'
+ 'Motile Cilium (GO:0031514)' 'Clathrin Coat Of Coated Pit (GO:0030132)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 25 
+Pathways 
+['High-Density Lipoprotein Particle (GO:0034364)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Astrocyte Projection (GO:0097449)' 'Endosome Lumen (GO:0031904)'
+ 'Platelet Dense Granule (GO:0042827)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Endoplasmic reticulum-Golgi Intermediate Compartment Membrane (GO:0033116)'
+ 'Lysosomal Lumen (GO:0043202)' 'Intercalated Disc (GO:0014704)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Azurophil Granule Membrane (GO:0035577)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cell-Cell Contact Zone (GO:0044291)' 'Vacuolar Lumen (GO:0005775)'
+ 'Azurophil Granule (GO:0042582)' 'Platelet Alpha Granule (GO:0031091)'
+ 'Lytic Vacuole (GO:0000323)'
+ 'Collagen-Containing Extracellular Matrix (GO:0062023)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Serine/Threonine Protein Kinase Complex (GO:1902554)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 21 
+Pathways 
+['beta-catenin-TCF Complex (GO:1990907)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Neuron Projection (GO:0043005)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Sarcolemma (GO:0042383)' 'Potassium Channel Complex (GO:0034705)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Intercalated Disc (GO:0014704)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Excitatory Synapse (GO:0060076)' 'Astrocyte Projection (GO:0097449)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 16 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'T Cell Receptor Complex (GO:0042101)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 40 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Euchromatin (GO:0000791)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)' 'Cell-Cell Junction (GO:0005911)'
+ 'Axon (GO:0030424)' 'Postsynaptic Density (GO:0014069)'
+ 'Asymmetric Synapse (GO:0032279)' 'Adherens Junction (GO:0005912)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Neuromuscular Junction (GO:0031594)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Exocytic Vesicle (GO:0070382)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Secretory Vesicle (GO:0099503)' 'Golgi Stack (GO:0005795)'
+ 'Dense Core Granule (GO:0031045)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Excitatory Synapse (GO:0060076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Synaptic Membrane (GO:0097060)' 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Asymmetric Synapse (GO:0032279)' 'Clathrin-Coated Vesicle (GO:0030136)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Cation Channel Complex (GO:0034703)' 'Axon (GO:0030424)'
+ 'Calcium Channel Complex (GO:0034704)' 'Neuron Projection (GO:0043005)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Dendrite (GO:0030425)'
+ 'Nucleus (GO:0005634)' 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Cell-Substrate Junction (GO:0030055)' 'Focal Adhesion (GO:0005925)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Clathrin-Coated Endocytic Vesicle (GO:0045334)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Clathrin-Coated Endocytic Vesicle Membrane (GO:0030669)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Chromosome (GO:0005694)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Microbody Lumen (GO:0031907)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)' 'Ribosome (GO:0005840)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 65 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Endoribonuclease Complex (GO:1902555)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'T Cell Receptor Complex (GO:0042101)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'U12-type Spliceosomal Complex (GO:0005689)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)' 'Endosome Lumen (GO:0031904)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Vacuolar Lumen (GO:0005775)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Lysosomal Lumen (GO:0043202)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Nucleus (GO:0005634)' 'Neuron Projection (GO:0043005)'
+ 'Axon (GO:0030424)' 'Adherens Junction (GO:0005912)'
+ 'Asymmetric Synapse (GO:0032279)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Monoatomic Ion Channel Complex (GO:0034702)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 18 
+Pathways 
+['Microtubule (GO:0005874)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Condensed Chromosome (GO:0000793)'
+ 'Cyclin-Dependent Protein Kinase Holoenzyme Complex (GO:0000307)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)' 'Endosome Lumen (GO:0031904)'
+ 'Ribosome (GO:0005840)' 'Small Ribosomal Subunit (GO:0015935)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 12 
+Pathways 
+['Neuron To Neuron Synapse (GO:0098984)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Dense Core Granule (GO:0031045)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Dendrite (GO:0030425)'
+ 'Axon (GO:0030424)' 'Gap Junction (GO:0005921)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 63 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Golgi Cisterna (GO:0031985)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Ciliary Membrane (GO:0060170)' 'GABA-A Receptor Complex (GO:1902711)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Polymeric Cytoskeletal Fiber (GO:0099513)' 'Lytic Vacuole (GO:0000323)'
+ 'Microtubule (GO:0005874)' 'Vacuolar Lumen (GO:0005775)'
+ 'Organelle Outer Membrane (GO:0031968)' 'Tertiary Granule (GO:0070820)'
+ 'Mitochondrial Outer Membrane (GO:0005741)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'P-body (GO:0000932)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vacuolar Membrane (GO:0005774)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Multivesicular Body (GO:0005771)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'U2-type Spliceosomal Complex (GO:0005684)' 'Endosome Lumen (GO:0031904)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Vesicle Coat (GO:0030120)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Mitochondrial Ribosome (GO:0005761)' 'Ribosome (GO:0005840)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Proton-Transporting V-type ATPase Complex (GO:0033176)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Vacuolar Proton-Transporting V-type ATPase Complex (GO:0016471)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 57 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Endosome Lumen (GO:0031904)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Euchromatin (GO:0000791)' 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Microbody Lumen (GO:0031907)'
+ 'Peroxisomal Matrix (GO:0005782)' 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Vacuolar Lumen (GO:0005775)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Tertiary Granule (GO:0070820)' 'Vesicle (GO:0031982)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Dendrite (GO:0030425)'
+ 'Neuron Projection (GO:0043005)' 'Dendrite Membrane (GO:0032590)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Glutamatergic Synapse (GO:0098978)' 'GABA-ergic Synapse (GO:0098982)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Neuromuscular Junction (GO:0031594)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 2 
+Pathways 
+['Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 5 
+Pathways 
+['Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density (GO:0014069)' 'Asymmetric Synapse (GO:0032279)'
+ 'Connexin Complex (GO:0005922)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 3 
+Pathways 
+['Brush Border Membrane (GO:0031526)' 'Keratin Filament (GO:0045095)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 6 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 40 
+Pathways 
+['Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'High-Density Lipoprotein Particle (GO:0034364)' 'Ribosome (GO:0005840)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Platelet Alpha Granule Membrane (GO:0031092)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Organelle Inner Membrane (GO:0019866)' 'Vacuolar Lumen (GO:0005775)'
+ 'Lysosomal Lumen (GO:0043202)' 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vesicle (GO:0031982)'
+ 'Focal Adhesion (GO:0005925)' 'Cell-Substrate Junction (GO:0030055)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Golgi Stack (GO:0005795)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 2 
+Pathways 
+['Synaptic Membrane (GO:0097060)' 'Neuromuscular Junction (GO:0031594)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 43 
+Pathways 
+['Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Nuclear Chromosome (GO:0000228)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Condensed Chromosome (GO:0000793)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Extracellular Vesicle (GO:1903561)' 'Vacuolar Lumen (GO:0005775)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Lysosomal Lumen (GO:0043202)'
+ 'Chromosome (GO:0005694)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Membrane (GO:0031966)' 'Vesicle (GO:0031982)'
+ 'Nucleolus (GO:0005730)' 'Nuclear Lumen (GO:0031981)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Asymmetric Synapse (GO:0032279)' 'Postsynaptic Density (GO:0014069)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Synaptic Membrane (GO:0097060)'
+ 'Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 64 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Golgi Cisterna (GO:0031985)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Catenin Complex (GO:0016342)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Synaptic Membrane (GO:0097060)' 'Calcium Channel Complex (GO:0034704)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Glutamatergic Synapse (GO:0098978)' 'Adherens Junction (GO:0005912)'
+ 'Lysosome (GO:0005764)' 'Lysosomal Membrane (GO:0005765)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Lytic Vacuole Membrane (GO:0098852)' 'Microtubule (GO:0005874)'
+ 'Vesicle (GO:0031982)' 'Lytic Vacuole (GO:0000323)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Azurophil Granule (GO:0042582)'
+ 'Tertiary Granule (GO:0070820)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Lysosomal Lumen (GO:0043202)' 'Vacuolar Lumen (GO:0005775)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Multivesicular Body (GO:0005771)' 'Extracellular Vesicle (GO:1903561)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Endosome Lumen (GO:0031904)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Endocytic Vesicle Lumen (GO:0071682)'
+ 'Sodium:Potassium-Exchanging ATPase Complex (GO:0005890)'
+ 'Cation-Transporting ATPase Complex (GO:0090533)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'High-Density Lipoprotein Particle (GO:0034364)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)' 'Ribosome (GO:0005840)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Proton-Transporting V-type ATPase Complex (GO:0033176)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 16 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Small-Subunit Processome (GO:0032040)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Endosome Lumen (GO:0031904)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 9 
+Pathways 
+['Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Calcium Channel Complex (GO:0034704)' 'Dendrite Membrane (GO:0032590)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Cation Channel Complex (GO:0034703)' 'Dense Core Granule (GO:0031045)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 8 
+Pathways 
+['Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Postsynaptic Density Membrane (GO:0098839)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 6 
+Pathways 
+['GABA-A Receptor Complex (GO:1902711)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Postsynaptic Density (GO:0014069)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Microvillus (GO:0005902)' 'Bicellular Tight Junction (GO:0005923)'
+ 'Tight Junction (GO:0070160)' 'Apical Junction Complex (GO:0043296)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 25 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)' 'Ribosome (GO:0005840)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Azurophil Granule (GO:0042582)'
+ 'Secretory Granule Lumen (GO:0034774)'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 32 
+Pathways 
+['Neuron To Neuron Synapse (GO:0098984)' 'Microfibril (GO:0001527)'
+ 'GABA-A Receptor Complex (GO:1902711)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-ergic Synapse (GO:0098982)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Catenin Complex (GO:0016342)' 'Neuromuscular Junction (GO:0031594)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Calcium Channel Complex (GO:0034704)' 'Asymmetric Synapse (GO:0032279)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Glutamatergic Synapse (GO:0098978)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Tertiary Granule Lumen (GO:1904724)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Small Ribosomal Subunit (GO:0015935)' 'Ribosome (GO:0005840)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 61 
+Pathways 
+['Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'COPI-coated Vesicle Membrane (GO:0030663)'
+ 'Precatalytic Spliceosome (GO:0071011)'
+ 'U2-type Precatalytic Spliceosome (GO:0071005)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'Golgi-associated Vesicle Membrane (GO:0030660)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'U12-type Spliceosomal Complex (GO:0005689)' 'Ribosome (GO:0005840)'
+ 'Mitochondrial Outer Membrane Translocase Complex (GO:0005742)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Mitochondrial Envelope (GO:0005740)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Azurophil Granule Lumen (GO:0035578)'
+ 'Organelle Envelope Lumen (GO:0031970)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Extracellular Vesicle (GO:1903561)' 'Azurophil Granule (GO:0042582)'
+ 'Mitochondrial Matrix (GO:0005759)'
+ 'Secretory Granule Lumen (GO:0034774)' 'Vacuolar Lumen (GO:0005775)'
+ 'Tertiary Granule (GO:0070820)'
+ 'Intracellular Organelle Lumen (GO:0070013)' 'Vesicle (GO:0031982)'
+ 'Adherens Junction (GO:0005912)' 'Dendrite (GO:0030425)'
+ 'Neuron Projection (GO:0043005)' 'Axon (GO:0030424)'
+ 'Asymmetric Synapse (GO:0032279)' 'Calcium Channel Complex (GO:0034704)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Catenin Complex (GO:0016342)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Sarcolemma (GO:0042383)' 'Postsynaptic Density (GO:0014069)'
+ 'Synaptic Membrane (GO:0097060)' 'Potassium Channel Complex (GO:0034705)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Sodium Channel Complex (GO:0034706)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 35 
+Pathways 
+['Nucleolus (GO:0005730)' 'Intracellular Organelle Lumen (GO:0070013)'
+ 'Vesicle (GO:0031982)' 'Lytic Vacuole (GO:0000323)'
+ 'Secretory Granule Lumen (GO:0034774)'
+ 'Mitochondrial Envelope (GO:0005740)' 'Peroxisome (GO:0005777)'
+ 'Vacuolar Lumen (GO:0005775)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Tertiary Granule (GO:0070820)' 'Mitochondrial Membrane (GO:0031966)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Lysosomal Lumen (GO:0043202)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)' 'Vacuolar Membrane (GO:0005774)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Tertiary Granule Lumen (GO:1904724)' 'Peroxisomal Matrix (GO:0005782)'
+ 'Microbody Lumen (GO:0031907)' 'Extracellular Vesicle (GO:1903561)'
+ 'Extracellular Membrane-Bounded Organelle (GO:0065010)'
+ 'Heterotrimeric G-protein Complex (GO:0005834)'
+ 'Spliceosomal snRNP Complex (GO:0097525)'
+ 'U2-type Spliceosomal Complex (GO:0005684)' 'Vesicle Coat (GO:0030120)'
+ 'Ribosome (GO:0005840)' 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'T Cell Receptor Complex (GO:0042101)'] 
+
+PLS-C 5 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 45 
+Pathways 
+['Cytosolic Small Ribosomal Subunit (GO:0022627)'
+ 'Cytosolic Large Ribosomal Subunit (GO:0022625)'
+ 'Large Ribosomal Subunit (GO:0015934)'
+ 'RNA Polymerase II, Core Complex (GO:0005665)'
+ 'Mitochondrial Respiratory Chain Complex I (GO:0005747)'
+ 'Respiratory Chain Complex I (GO:0045271)'
+ 'Small Ribosomal Subunit (GO:0015935)'
+ 'Mitochondrial Outer Membrane Translocase Complex (GO:0005742)'
+ 'Spliceosomal tri-snRNP Complex (GO:0097526)'
+ 'U4/U6 X U5 tri-snRNP Complex (GO:0046540)'
+ 'T Cell Receptor Complex (GO:0042101)'
+ 'Mitochondrial Ribosome (GO:0005761)'
+ 'Mitochondrial Intermembrane Space (GO:0005758)'
+ 'Keratin Filament (GO:0045095)'
+ 'U2-type Spliceosomal Complex (GO:0005684)'
+ 'Ficolin-1-Rich Granule Lumen (GO:1904813)'
+ 'Mitochondrial Inner Membrane (GO:0005743)'
+ 'Organelle Inner Membrane (GO:0019866)'
+ 'Mitochondrial Envelope (GO:0005740)'
+ 'Cytoplasmic Vesicle Lumen (GO:0060205)'
+ 'Mitochondrial Membrane (GO:0031966)'
+ 'Ficolin-1-Rich Granule (GO:0101002)' 'Mitochondrial Matrix (GO:0005759)'
+ 'Actin Filament (GO:0005884)' 'Neuron Projection (GO:0043005)'
+ 'Dendrite (GO:0030425)' 'Sarcolemma (GO:0042383)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Neuromuscular Junction (GO:0031594)' 'Axon (GO:0030424)'
+ 'Potassium Channel Complex (GO:0034705)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Synaptic Membrane (GO:0097060)' 'Asymmetric Synapse (GO:0032279)'
+ 'Postsynaptic Density (GO:0014069)' 'Glutamatergic Synapse (GO:0098978)'
+ 'Excitatory Synapse (GO:0060076)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Intercalated Disc (GO:0014704)' 'GABA-A Receptor Complex (GO:1902711)'] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 19 
+Pathways 
+['Cytoskeleton Of Presynaptic Active Zone (GO:0048788)'
+ 'GABA-A Receptor Complex (GO:1902711)' 'Exocytic Vesicle (GO:0070382)'
+ 'Dendrite Membrane (GO:0032590)'
+ 'AMPA Glutamate Receptor Complex (GO:0032281)'
+ 'Postsynaptic Density Membrane (GO:0098839)'
+ 'Ionotropic Glutamate Receptor Complex (GO:0008328)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Postsynaptic Specialization Membrane (GO:0099634)'
+ 'GABA-ergic Synapse (GO:0098982)' 'Synaptic Membrane (GO:0097060)'
+ 'Calcium Channel Complex (GO:0034704)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Postsynaptic Density (GO:0014069)'
+ 'Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Asymmetric Synapse (GO:0032279)'
+ 'Potassium Channel Complex (GO:0034705)' 'Axon (GO:0030424)'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 7 
+Pathways 
+['Axon (GO:0030424)' 'Asymmetric Synapse (GO:0032279)'
+ 'Ficolin-1-Rich Granule (GO:0101002)'
+ 'Synaptic Vesicle Membrane (GO:0030672)'
+ 'Exocytic Vesicle Membrane (GO:0099501)'
+ 'Voltage-Gated Calcium Channel Complex (GO:0005891)'
+ 'Endosome Lumen (GO:0031904)'] 
+
+PLS-C 4 
+Number of significantly enriched pathways: 4 
+Pathways 
+['Voltage-Gated Potassium Channel Complex (GO:0008076)'
+ 'Microtubule (GO:0005874)' 'Dendrite Membrane (GO:0032590)'
+ 'Dense Core Granule (GO:0031045)'] 
+

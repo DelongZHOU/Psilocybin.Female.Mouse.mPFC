@@ -1,0 +1,75 @@
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 1 
+Pathways 
+['OXPHOS.Complex_I'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 17 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'OXPHOS' 'Metabolism.Detoxification.Xenobiotic_metabolism'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'Protein_import_sorting_and_homeostasis' 'OXPHOS.Complex_IV'
+ 'Metabolism.Metals_and_cofactors' 'Metabolism.Lipid_metabolism'
+ 'Mitochondrial_central_dogma' 'Metabolism'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 1 
+Pathways 
+['OXPHOS.Complex_I'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 17 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'OXPHOS' 'Metabolism.Detoxification.Xenobiotic_metabolism'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'Protein_import_sorting_and_homeostasis' 'OXPHOS.Complex_IV'
+ 'Metabolism.Metals_and_cofactors' 'Metabolism.Lipid_metabolism'
+ 'Mitochondrial_central_dogma' 'Metabolism'] 
+
+PLS-C 1 
+Number of significantly enriched pathways: 0 
+Pathways 
+[] 
+
+PLS-C 2 
+Number of significantly enriched pathways: 1 
+Pathways 
+['OXPHOS.Complex_I'] 
+
+PLS-C 3 
+Number of significantly enriched pathways: 17 
+Pathways 
+['OXPHOS.Complex_I.CI_subunits' 'OXPHOS.Complex_I'
+ 'Mitochondrial_central_dogma.Translation.Mitochondrial_ribosome'
+ 'OXPHOS.OXPHOS_subunits' 'OXPHOS.Complex_IV.CIV_assembly_factors'
+ 'OXPHOS' 'Metabolism.Detoxification.Xenobiotic_metabolism'
+ 'OXPHOS.OXPHOS_assembly_factors'
+ 'Metabolism.Metals_and_cofactors.Fe-S-containing_proteins'
+ 'Mitochondrial_central_dogma.Translation'
+ 'Protein_import_sorting_and_homeostasis.Protein_import_and_sorting'
+ 'Protein_import_sorting_and_homeostasis' 'OXPHOS.Complex_IV'
+ 'Metabolism.Metals_and_cofactors' 'Metabolism.Lipid_metabolism'
+ 'Mitochondrial_central_dogma' 'Metabolism'] 
+
