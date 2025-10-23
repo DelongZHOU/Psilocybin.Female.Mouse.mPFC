@@ -1,0 +1,302 @@
+{
+    "L2-6 IT": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.603,
+                "Ahr": -0.678
+            },
+            "Component 2": {
+                "Ntrk2": 0.157,
+                "Ahr": 0.126
+            },
+            "Component 3": {
+                "Ntrk2": 0.553,
+                "Ahr": 0.306
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "L5 PT": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.902,
+                "Ahr": -1.654
+            },
+            "Component 2": {
+                "Ntrk2": 0.553,
+                "Ahr": 1.739
+            },
+            "Component 3": {
+                "Ntrk2": 0.04,
+                "Ahr": 0.356
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.001,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "L5/6 NP": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.3,
+                "Ahr": -0.348
+            },
+            "Component 2": {
+                "Ntrk2": 0.012,
+                "Ahr": 0.111
+            },
+            "Component 3": {
+                "Ntrk2": 0.375,
+                "Ahr": 0.354
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.55,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "L6 CT": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.592,
+                "Ahr": -1.301
+            },
+            "Component 2": {
+                "Ntrk2": 0.581,
+                "Ahr": 0.489
+            },
+            "Component 3": {
+                "Ntrk2": 0.476,
+                "Ahr": 0.073
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "GABA": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.057,
+                "Ahr": -2.406
+            },
+            "Component 2": {
+                "Ntrk2": 0.011,
+                "Ahr": -1.336
+            },
+            "Component 3": {
+                "Ntrk2": -0.053,
+                "Ahr": -0.663
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.128,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "Astro": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.147,
+                "Ahr": 0.123
+            },
+            "Component 2": {
+                "Ntrk2": 0.114,
+                "Ahr": 0.003
+            },
+            "Component 3": {
+                "Ntrk2": -0.02,
+                "Ahr": -0.015
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.612
+            },
+            "Component 3": {
+                "Ntrk2": 0.001,
+                "Ahr": 0.001
+            }
+        }
+    ],
+    "Endo": [
+        {
+            "Component 1": {
+                "Ntrk2": 0.934,
+                "Ahr": -0.25
+            },
+            "Component 2": {
+                "Ntrk2": 0.103,
+                "Ahr": -0.268
+            },
+            "Component 3": {
+                "Ntrk2": 0.41,
+                "Ahr": -0.378
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "Micro": [
+        {
+            "Component 1": {
+                "Ntrk2": 1.05,
+                "Ahr": 0.094
+            },
+            "Component 2": {
+                "Ntrk2": -0.6,
+                "Ahr": -0.03
+            },
+            "Component 3": {
+                "Ntrk2": 0.712,
+                "Ahr": -0.057
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ],
+    "Oligo": [
+        {
+            "Component 1": {
+                "Ntrk2": 0.444,
+                "Ahr": 0.103
+            },
+            "Component 2": {
+                "Ntrk2": -0.732,
+                "Ahr": -0.151
+            },
+            "Component 3": {
+                "Ntrk2": 0.177,
+                "Ahr": 0.004
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.535
+            }
+        }
+    ],
+    "OPC": [
+        {
+            "Component 1": {
+                "Ntrk2": -0.063,
+                "Ahr": 0.056
+            },
+            "Component 2": {
+                "Ntrk2": 0.105,
+                "Ahr": 0.476
+            },
+            "Component 3": {
+                "Ntrk2": 0.15,
+                "Ahr": 1.609
+            }
+        },
+        {
+            "Component 1": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.013
+            },
+            "Component 2": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            },
+            "Component 3": {
+                "Ntrk2": 0.0,
+                "Ahr": 0.0
+            }
+        }
+    ]
+}

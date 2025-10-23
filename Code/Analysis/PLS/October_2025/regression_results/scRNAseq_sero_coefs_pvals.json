@@ -1,0 +1,782 @@
+{
+    "L2-5_IT": [
+        {
+            "Component 1": {
+                "Htr1a": -0.136,
+                "Htr1b": -0.065,
+                "Htr1d": -0.019,
+                "Htr1f": -0.246,
+                "Htr2a": -0.229,
+                "Htr2c": -0.044,
+                "Htr3a": 0.032,
+                "Htr4": 0.011,
+                "Htr5b": -0.026,
+                "Htr7": -0.099
+            },
+            "Component 2": {
+                "Htr1a": 0.093,
+                "Htr1b": 0.013,
+                "Htr1d": 0.052,
+                "Htr1f": -0.083,
+                "Htr2a": -0.062,
+                "Htr2c": 0.087,
+                "Htr3a": 0.035,
+                "Htr4": 0.091,
+                "Htr5b": 0.069,
+                "Htr7": -0.0
+            },
+            "Component 3": {
+                "Htr1a": -0.038,
+                "Htr1b": -0.022,
+                "Htr1d": -0.032,
+                "Htr1f": -0.061,
+                "Htr2a": 0.137,
+                "Htr2c": -0.028,
+                "Htr3a": 0.005,
+                "Htr4": -0.141,
+                "Htr5b": 0.021,
+                "Htr7": 0.059
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.001,
+                "Htr1d": 0.354,
+                "Htr1f": 0.0,
+                "Htr2a": 0.0,
+                "Htr2c": 0.027,
+                "Htr3a": 0.112,
+                "Htr4": 0.588,
+                "Htr5b": 0.188,
+                "Htr7": 0.0
+            },
+            "Component 2": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.509,
+                "Htr1d": 0.01,
+                "Htr1f": 0.0,
+                "Htr2a": 0.002,
+                "Htr2c": 0.0,
+                "Htr3a": 0.084,
+                "Htr4": 0.0,
+                "Htr5b": 0.001,
+                "Htr7": 0.989
+            },
+            "Component 3": {
+                "Htr1a": 0.055,
+                "Htr1b": 0.269,
+                "Htr1d": 0.11,
+                "Htr1f": 0.002,
+                "Htr2a": 0.0,
+                "Htr2c": 0.159,
+                "Htr3a": 0.808,
+                "Htr4": 0.0,
+                "Htr5b": 0.293,
+                "Htr7": 0.003
+            }
+        }
+    ],
+    "L5_PT": [
+        {
+            "Component 1": {
+                "Htr1a": -0.134,
+                "Htr1b": -0.037,
+                "Htr1d": 0.0,
+                "Htr1f": -0.19,
+                "Htr2a": -0.01,
+                "Htr2c": 0.142,
+                "Htr3a": 0.0,
+                "Htr4": 0.099,
+                "Htr5b": -0.003,
+                "Htr7": 0.058
+            },
+            "Component 2": {
+                "Htr1a": -0.016,
+                "Htr1b": -0.003,
+                "Htr1d": 0.0,
+                "Htr1f": 0.128,
+                "Htr2a": 0.152,
+                "Htr2c": 0.079,
+                "Htr3a": 0.0,
+                "Htr4": 0.151,
+                "Htr5b": 0.003,
+                "Htr7": 0.003
+            },
+            "Component 3": {
+                "Htr1a": -0.064,
+                "Htr1b": 0.028,
+                "Htr1d": 0.0,
+                "Htr1f": -0.118,
+                "Htr2a": 0.006,
+                "Htr2c": -0.011,
+                "Htr3a": 0.0,
+                "Htr4": -0.181,
+                "Htr5b": -0.024,
+                "Htr7": 0.023
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.007,
+                "Htr1b": 0.463,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.848,
+                "Htr2c": 0.005,
+                "Htr3a": NaN,
+                "Htr4": 0.049,
+                "Htr5b": 0.949,
+                "Htr7": 0.244
+            },
+            "Component 2": {
+                "Htr1a": 0.755,
+                "Htr1b": 0.953,
+                "Htr1d": NaN,
+                "Htr1f": 0.01,
+                "Htr2a": 0.002,
+                "Htr2c": 0.116,
+                "Htr3a": NaN,
+                "Htr4": 0.002,
+                "Htr5b": 0.952,
+                "Htr7": 0.954
+            },
+            "Component 3": {
+                "Htr1a": 0.205,
+                "Htr1b": 0.577,
+                "Htr1d": NaN,
+                "Htr1f": 0.018,
+                "Htr2a": 0.91,
+                "Htr2c": 0.822,
+                "Htr3a": NaN,
+                "Htr4": 0.0,
+                "Htr5b": 0.626,
+                "Htr7": 0.644
+            }
+        }
+    ],
+    "L5-6_NP": [
+        {
+            "Component 1": {
+                "Htr1a": -0.091,
+                "Htr1b": 0.009,
+                "Htr1d": 0.0,
+                "Htr1f": -0.099,
+                "Htr2a": 0.003,
+                "Htr2c": -0.153,
+                "Htr3a": 0.0,
+                "Htr4": -0.006,
+                "Htr5b": -0.105,
+                "Htr7": -0.044
+            },
+            "Component 2": {
+                "Htr1a": 0.027,
+                "Htr1b": 0.072,
+                "Htr1d": -0.039,
+                "Htr1f": 0.155,
+                "Htr2a": 0.027,
+                "Htr2c": 0.268,
+                "Htr3a": 0.0,
+                "Htr4": 0.136,
+                "Htr5b": 0.05,
+                "Htr7": 0.008
+            },
+            "Component 3": {
+                "Htr1a": -0.093,
+                "Htr1b": -0.022,
+                "Htr1d": -0.021,
+                "Htr1f": -0.091,
+                "Htr2a": 0.028,
+                "Htr2c": -0.172,
+                "Htr3a": 0.0,
+                "Htr4": 0.006,
+                "Htr5b": 0.039,
+                "Htr7": 0.084
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.06,
+                "Htr1b": 0.845,
+                "Htr1d": 0.996,
+                "Htr1f": 0.041,
+                "Htr2a": 0.953,
+                "Htr2c": 0.002,
+                "Htr3a": NaN,
+                "Htr4": 0.894,
+                "Htr5b": 0.03,
+                "Htr7": 0.361
+            },
+            "Component 2": {
+                "Htr1a": 0.573,
+                "Htr1b": 0.137,
+                "Htr1d": 0.425,
+                "Htr1f": 0.001,
+                "Htr2a": 0.574,
+                "Htr2c": 0.0,
+                "Htr3a": NaN,
+                "Htr4": 0.005,
+                "Htr5b": 0.297,
+                "Htr7": 0.862
+            },
+            "Component 3": {
+                "Htr1a": 0.055,
+                "Htr1b": 0.656,
+                "Htr1d": 0.667,
+                "Htr1f": 0.061,
+                "Htr2a": 0.565,
+                "Htr2c": 0.0,
+                "Htr3a": NaN,
+                "Htr4": 0.895,
+                "Htr5b": 0.425,
+                "Htr7": 0.082
+            }
+        }
+    ],
+    "L6_CT": [
+        {
+            "Component 1": {
+                "Htr1a": -0.086,
+                "Htr1b": -0.01,
+                "Htr1d": 0.004,
+                "Htr1f": -0.232,
+                "Htr2a": -0.03,
+                "Htr2c": 0.045,
+                "Htr3a": 0.0,
+                "Htr4": 0.035,
+                "Htr5b": -0.022,
+                "Htr7": -0.064
+            },
+            "Component 2": {
+                "Htr1a": 0.026,
+                "Htr1b": 0.022,
+                "Htr1d": -0.025,
+                "Htr1f": 0.213,
+                "Htr2a": -0.021,
+                "Htr2c": 0.01,
+                "Htr3a": 0.0,
+                "Htr4": 0.101,
+                "Htr5b": 0.046,
+                "Htr7": 0.003
+            },
+            "Component 3": {
+                "Htr1a": -0.022,
+                "Htr1b": -0.047,
+                "Htr1d": -0.06,
+                "Htr1f": 0.209,
+                "Htr2a": -0.144,
+                "Htr2c": -0.085,
+                "Htr3a": 0.0,
+                "Htr4": -0.05,
+                "Htr5b": 0.016,
+                "Htr7": 0.046
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.63,
+                "Htr1d": 0.851,
+                "Htr1f": 0.0,
+                "Htr2a": 0.172,
+                "Htr2c": 0.039,
+                "Htr3a": NaN,
+                "Htr4": 0.106,
+                "Htr5b": 0.312,
+                "Htr7": 0.003
+            },
+            "Component 2": {
+                "Htr1a": 0.229,
+                "Htr1b": 0.303,
+                "Htr1d": 0.252,
+                "Htr1f": 0.0,
+                "Htr2a": 0.323,
+                "Htr2c": 0.648,
+                "Htr3a": NaN,
+                "Htr4": 0.0,
+                "Htr5b": 0.033,
+                "Htr7": 0.899
+            },
+            "Component 3": {
+                "Htr1a": 0.308,
+                "Htr1b": 0.029,
+                "Htr1d": 0.005,
+                "Htr1f": 0.0,
+                "Htr2a": 0.0,
+                "Htr2c": 0.0,
+                "Htr3a": NaN,
+                "Htr4": 0.022,
+                "Htr5b": 0.465,
+                "Htr7": 0.035
+            }
+        }
+    ],
+    "GABA": [
+        {
+            "Component 1": {
+                "Htr1a": -0.072,
+                "Htr1b": 0.021,
+                "Htr1d": 0.03,
+                "Htr1f": 0.078,
+                "Htr2a": -0.014,
+                "Htr2c": -0.06,
+                "Htr3a": -0.109,
+                "Htr4": -0.098,
+                "Htr5b": 0.007,
+                "Htr7": -0.064
+            },
+            "Component 2": {
+                "Htr1a": -0.005,
+                "Htr1b": 0.043,
+                "Htr1d": -0.023,
+                "Htr1f": 0.045,
+                "Htr2a": 0.23,
+                "Htr2c": -0.004,
+                "Htr3a": -0.211,
+                "Htr4": 0.024,
+                "Htr5b": 0.01,
+                "Htr7": 0.046
+            },
+            "Component 3": {
+                "Htr1a": 0.002,
+                "Htr1b": -0.009,
+                "Htr1d": 0.015,
+                "Htr1f": -0.014,
+                "Htr2a": -0.101,
+                "Htr2c": 0.07,
+                "Htr3a": 0.161,
+                "Htr4": 0.029,
+                "Htr5b": 0.013,
+                "Htr7": -0.012
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.027,
+                "Htr1b": 0.511,
+                "Htr1d": 0.36,
+                "Htr1f": 0.016,
+                "Htr2a": 0.672,
+                "Htr2c": 0.067,
+                "Htr3a": 0.001,
+                "Htr4": 0.002,
+                "Htr5b": 0.82,
+                "Htr7": 0.049
+            },
+            "Component 2": {
+                "Htr1a": 0.866,
+                "Htr1b": 0.192,
+                "Htr1d": 0.484,
+                "Htr1f": 0.172,
+                "Htr2a": 0.0,
+                "Htr2c": 0.902,
+                "Htr3a": 0.0,
+                "Htr4": 0.455,
+                "Htr5b": 0.753,
+                "Htr7": 0.156
+            },
+            "Component 3": {
+                "Htr1a": 0.956,
+                "Htr1b": 0.788,
+                "Htr1d": 0.654,
+                "Htr1f": 0.659,
+                "Htr2a": 0.002,
+                "Htr2c": 0.032,
+                "Htr3a": 0.0,
+                "Htr4": 0.374,
+                "Htr5b": 0.693,
+                "Htr7": 0.708
+            }
+        }
+    ],
+    "Astro": [
+        {
+            "Component 1": {
+                "Htr1a": 0.0,
+                "Htr1b": -0.009,
+                "Htr1d": -0.013,
+                "Htr1f": 0.037,
+                "Htr2a": 0.044,
+                "Htr2c": 0.013,
+                "Htr3a": 0.025,
+                "Htr4": -0.003,
+                "Htr5b": -0.004,
+                "Htr7": 0.0
+            },
+            "Component 2": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.009,
+                "Htr1d": 0.001,
+                "Htr1f": 0.008,
+                "Htr2a": 0.048,
+                "Htr2c": -0.018,
+                "Htr3a": -0.019,
+                "Htr4": 0.0,
+                "Htr5b": 0.01,
+                "Htr7": 0.0
+            },
+            "Component 3": {
+                "Htr1a": 0.0,
+                "Htr1b": -0.019,
+                "Htr1d": -0.003,
+                "Htr1f": -0.026,
+                "Htr2a": 0.025,
+                "Htr2c": -0.035,
+                "Htr3a": -0.012,
+                "Htr4": -0.029,
+                "Htr5b": -0.02,
+                "Htr7": 0.0
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": NaN,
+                "Htr1b": 0.328,
+                "Htr1d": 0.147,
+                "Htr1f": 0.0,
+                "Htr2a": 0.0,
+                "Htr2c": 0.145,
+                "Htr3a": 0.004,
+                "Htr4": 0.725,
+                "Htr5b": 0.61,
+                "Htr7": NaN
+            },
+            "Component 2": {
+                "Htr1a": NaN,
+                "Htr1b": 0.282,
+                "Htr1d": 0.878,
+                "Htr1f": 0.347,
+                "Htr2a": 0.0,
+                "Htr2c": 0.045,
+                "Htr3a": 0.028,
+                "Htr4": 0.992,
+                "Htr5b": 0.233,
+                "Htr7": NaN
+            },
+            "Component 3": {
+                "Htr1a": NaN,
+                "Htr1b": 0.028,
+                "Htr1d": 0.733,
+                "Htr1f": 0.003,
+                "Htr2a": 0.005,
+                "Htr2c": 0.0,
+                "Htr3a": 0.164,
+                "Htr4": 0.001,
+                "Htr5b": 0.022,
+                "Htr7": NaN
+            }
+        }
+    ],
+    "Endo": [
+        {
+            "Component 1": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.067,
+                "Htr1d": 0.0,
+                "Htr1f": 0.247,
+                "Htr2a": -0.041,
+                "Htr2c": 0.035,
+                "Htr3a": 0.004,
+                "Htr4": 0.0,
+                "Htr5b": -0.002,
+                "Htr7": 0.006
+            },
+            "Component 2": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.002,
+                "Htr1d": 0.0,
+                "Htr1f": -0.156,
+                "Htr2a": -0.037,
+                "Htr2c": -0.11,
+                "Htr3a": -0.032,
+                "Htr4": 0.0,
+                "Htr5b": 0.004,
+                "Htr7": -0.055
+            },
+            "Component 3": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.084,
+                "Htr1d": 0.0,
+                "Htr1f": 0.09,
+                "Htr2a": 0.056,
+                "Htr2c": -0.008,
+                "Htr3a": 0.007,
+                "Htr4": 0.0,
+                "Htr5b": -0.007,
+                "Htr7": -0.003
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": NaN,
+                "Htr1b": 0.0,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.006,
+                "Htr2c": 0.019,
+                "Htr3a": 0.768,
+                "Htr4": NaN,
+                "Htr5b": 0.882,
+                "Htr7": 0.683
+            },
+            "Component 2": {
+                "Htr1a": NaN,
+                "Htr1b": 0.873,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.011,
+                "Htr2c": 0.0,
+                "Htr3a": 0.03,
+                "Htr4": NaN,
+                "Htr5b": 0.785,
+                "Htr7": 0.0
+            },
+            "Component 3": {
+                "Htr1a": NaN,
+                "Htr1b": 0.0,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.0,
+                "Htr2c": 0.581,
+                "Htr3a": 0.65,
+                "Htr4": NaN,
+                "Htr5b": 0.618,
+                "Htr7": 0.853
+            }
+        }
+    ],
+    "Micro": [
+        {
+            "Component 1": {
+                "Htr1a": -0.011,
+                "Htr1b": 0.0,
+                "Htr1d": 0.001,
+                "Htr1f": 0.123,
+                "Htr2a": 0.0,
+                "Htr2c": 0.0,
+                "Htr3a": -0.02,
+                "Htr4": -0.045,
+                "Htr5b": -0.003,
+                "Htr7": -0.001
+            },
+            "Component 2": {
+                "Htr1a": -0.005,
+                "Htr1b": 0.0,
+                "Htr1d": -0.003,
+                "Htr1f": -0.119,
+                "Htr2a": 0.0,
+                "Htr2c": 0.0,
+                "Htr3a": -0.065,
+                "Htr4": 0.01,
+                "Htr5b": 0.018,
+                "Htr7": 0.003
+            },
+            "Component 3": {
+                "Htr1a": -0.017,
+                "Htr1b": 0.0,
+                "Htr1d": -0.019,
+                "Htr1f": 0.144,
+                "Htr2a": 0.0,
+                "Htr2c": 0.0,
+                "Htr3a": -0.015,
+                "Htr4": 0.036,
+                "Htr5b": 0.009,
+                "Htr7": -0.008
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.595,
+                "Htr1b": NaN,
+                "Htr1d": 0.957,
+                "Htr1f": 0.0,
+                "Htr2a": NaN,
+                "Htr2c": NaN,
+                "Htr3a": 0.314,
+                "Htr4": 0.022,
+                "Htr5b": 0.892,
+                "Htr7": 0.97
+            },
+            "Component 2": {
+                "Htr1a": 0.81,
+                "Htr1b": NaN,
+                "Htr1d": 0.875,
+                "Htr1f": 0.0,
+                "Htr2a": NaN,
+                "Htr2c": NaN,
+                "Htr3a": 0.001,
+                "Htr4": 0.613,
+                "Htr5b": 0.369,
+                "Htr7": 0.881
+            },
+            "Component 3": {
+                "Htr1a": 0.391,
+                "Htr1b": NaN,
+                "Htr1d": 0.335,
+                "Htr1f": 0.0,
+                "Htr2a": NaN,
+                "Htr2c": NaN,
+                "Htr3a": 0.435,
+                "Htr4": 0.069,
+                "Htr5b": 0.632,
+                "Htr7": 0.693
+            }
+        }
+    ],
+    "Oligo": [
+        {
+            "Component 1": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": 0.125,
+                "Htr2a": 0.014,
+                "Htr2c": 0.02,
+                "Htr3a": 0.055,
+                "Htr4": 0.0,
+                "Htr5b": 0.0,
+                "Htr7": 0.042
+            },
+            "Component 2": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": -0.198,
+                "Htr2a": -0.047,
+                "Htr2c": -0.033,
+                "Htr3a": -0.081,
+                "Htr4": 0.0,
+                "Htr5b": 0.0,
+                "Htr7": -0.028
+            },
+            "Component 3": {
+                "Htr1a": 0.0,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": 0.014,
+                "Htr2a": -0.027,
+                "Htr2c": -0.01,
+                "Htr3a": 0.031,
+                "Htr4": 0.0,
+                "Htr5b": 0.0,
+                "Htr7": -0.026
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": NaN,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.259,
+                "Htr2c": 0.108,
+                "Htr3a": 0.0,
+                "Htr4": NaN,
+                "Htr5b": NaN,
+                "Htr7": 0.001
+            },
+            "Component 2": {
+                "Htr1a": NaN,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.0,
+                "Htr2c": 0.009,
+                "Htr3a": 0.0,
+                "Htr4": NaN,
+                "Htr5b": NaN,
+                "Htr7": 0.026
+            },
+            "Component 3": {
+                "Htr1a": NaN,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.25,
+                "Htr2a": 0.033,
+                "Htr2c": 0.42,
+                "Htr3a": 0.014,
+                "Htr4": NaN,
+                "Htr5b": NaN,
+                "Htr7": 0.04
+            }
+        }
+    ],
+    "OPC": [
+        {
+            "Component 1": {
+                "Htr1a": -0.026,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": -0.139,
+                "Htr2a": -0.011,
+                "Htr2c": 0.03,
+                "Htr3a": -0.008,
+                "Htr4": -0.002,
+                "Htr5b": 0.018,
+                "Htr7": -0.005
+            },
+            "Component 2": {
+                "Htr1a": 0.03,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": 0.054,
+                "Htr2a": 0.024,
+                "Htr2c": 0.028,
+                "Htr3a": -0.025,
+                "Htr4": 0.027,
+                "Htr5b": 0.016,
+                "Htr7": 0.037
+            },
+            "Component 3": {
+                "Htr1a": -0.02,
+                "Htr1b": 0.0,
+                "Htr1d": 0.0,
+                "Htr1f": -0.01,
+                "Htr2a": -0.012,
+                "Htr2c": 0.009,
+                "Htr3a": -0.034,
+                "Htr4": 0.015,
+                "Htr5b": 0.012,
+                "Htr7": -0.032
+            }
+        },
+        {
+            "Component 1": {
+                "Htr1a": 0.075,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.438,
+                "Htr2c": 0.04,
+                "Htr3a": 0.571,
+                "Htr4": 0.891,
+                "Htr5b": 0.219,
+                "Htr7": 0.749
+            },
+            "Component 2": {
+                "Htr1a": 0.039,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.0,
+                "Htr2a": 0.094,
+                "Htr2c": 0.053,
+                "Htr3a": 0.08,
+                "Htr4": 0.066,
+                "Htr5b": 0.279,
+                "Htr7": 0.011
+            },
+            "Component 3": {
+                "Htr1a": 0.158,
+                "Htr1b": NaN,
+                "Htr1d": NaN,
+                "Htr1f": 0.469,
+                "Htr2a": 0.419,
+                "Htr2c": 0.518,
+                "Htr3a": 0.018,
+                "Htr4": 0.297,
+                "Htr5b": 0.386,
+                "Htr7": 0.026
+            }
+        }
+    ]
+}
