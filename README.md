@@ -42,10 +42,6 @@ The combination of vquant=0.9, ntree=150, mtry=20 produced best score and the im
 The entire dataset was used to establish the overall response. The cell condition labels were then shuffled (with Augur "permute" option) to determine whether the Augur score was significantly different above chance.
 Neurons expressing serotonin receptors were then examined by subsetting the neurons according to their serotonin receptor expression.
 
-
-### Cell-Cell Communication with CellChat and NeuronChat
-CellChat was used to estimate cell-cell communication in either control group or psilocybin group. The numbers of interactions identified were then compared. Most difference in cell-cell communication were found in neurons. Thus, we used NeuronChat to further identify cell-cell communications in the neurons in a similar manner, but with a model and database optimized for neurons.
-
 ### Differential Gene Expression with Libra
 Libra is run with the following setting:
 ```
