@@ -13,7 +13,7 @@ The R package versions can be found in the R_sessioninfo.txt
 Analysis with CellBender was performed on Compute Canada Béluga cluster with Python virtual enrivonment.
 Other Python scripts were executed using WinPython with package versions in WinPython.txt
 
-Packages and dependencies required to extract the gene modules using supervised latent factor modeling (and all downstream analyses shown in Fig 3 and Extended Figures 6–8) and listed in ```python.package.version.txt```. The conda environment can be recreated with ```psilocybin_mouse_pls.yml```.
+Packages and dependencies required to extract the gene modules using supervised latent factor modeling (and all downstream analyses shown in Fig 4 and Extended Data Figures 7–9) and listed in ```python.package.version.txt```. The conda environment can be recreated with ```psilocybin_mouse_pls.yml```.
 
 
 ## Analysis Pipeline
@@ -64,4 +64,7 @@ Seurat related figures such as UMAP and violin plots are performed on Compute Ca
 Python scripts were executed using WinPython with package versions in WinPython.txt
 
 ## Biorender
-Portions of Figures 1, 3 and Supp. Figures S4 were created with Biorender. These graphics were not included in this repo.
+Portions of Figures 1, 2 and 5 were created with BioRender (panels 1a, 1c, 2a and 5a). These graphics were not included in this repo.
+
+## Figure numbering
+Filenames follow the figure numbering of the published version: `Fig.<n>.<panel>.*` for main figures and `Fig.ED<n>.<panel>.*` for Extended Data Figures.

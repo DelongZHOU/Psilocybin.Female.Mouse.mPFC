@@ -14,3 +14,15 @@
 *.ico binary
 *.tiff binary
 *.png binary
+
+# Data and model artifacts (must not be line-ending normalized)
+*.npy binary
+*.npz binary
+*.gz binary
+*.zip binary
+*.xlsx binary
+*.pdf binary
+*.svg binary
+*.h5 binary
+*.rds binary
+*.gmt binary
