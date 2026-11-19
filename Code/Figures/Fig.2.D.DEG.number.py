@@ -1,4 +1,4 @@
-def deg_number_barplot(csv='..//..//Data//Fig.6.A.Libra.count.csv',out='..//..//Figures//Fig.6.A.DEG.barplot'):
+def deg_number_barplot(csv='..//..//Data//Fig.2.D.Libra.count.csv',out='..//..//Figures//Fig.2.D.DEG.barplot'):
     '''
     From a matrix of celltype X up/down X count
     produce a two way bar plot

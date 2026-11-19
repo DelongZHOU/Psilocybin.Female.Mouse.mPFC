@@ -1,4 +1,4 @@
-def augur_barplot(file='..//..//Data//Fig.2.B.Augur.csv',out='..//..//Figures//Fig.2.B.Augur'):
+def augur_barplot(file='..//..//Data//Fig.3.B.Augur.csv',out='..//..//Figures//Fig.3.B.Augur'):
     '''
     The Augur result was manually re-ordered to separate neurons and glias.
     An empty line was inserted between neurons and glias to produce a space between tew two.

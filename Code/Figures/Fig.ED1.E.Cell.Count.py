@@ -1,4 +1,4 @@
-def cell_count(file='..//..//Data//Fig.S1.E.cell.count.csv',out='..//..//Figures//Fig.S1.E.cell.count'):
+def cell_count(file='..//..//Data//Fig.ED1.E.cell.count.csv',out='..//..//Figures//Fig.ED1.E.cell.count'):
     import seaborn as sns, matplotlib.pyplot as plt, pandas as pd
     colors=['#c6dbef','#9ecae1','#3182bd','#08519c','#33a02c','#fdbf6f','#ff7f00','#cab2d6','#6a3d9a','#ffff99','#b15928']
     plt.rcParams['font.family'] = 'Arial'

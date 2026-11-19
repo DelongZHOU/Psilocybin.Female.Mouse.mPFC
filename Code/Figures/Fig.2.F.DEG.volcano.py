@@ -1,4 +1,4 @@
-def deg_volcano_plot(csv='..//..//Data//Fig.4.C.1.Libra.csv',highlight='..//..//Data//Fig.4.C.2.Libra.highlight.csv',yaxis=True,p=1.3,l2fc=0.1):
+def deg_volcano_plot(csv='..//..//Data//Fig.2.F.1.Libra.csv',highlight='..//..//Data//Fig.2.F.2.Libra.highlight.csv',yaxis=True,p=1.3,l2fc=0.1):
     '''
     csv: a csv table of Different Expression Analysis result from Libra; contains DE result for all cell types / subtypes
     prefix: output png file
@@ -25,11 +25,11 @@ def deg_volcano_plot(csv='..//..//Data//Fig.4.C.1.Libra.csv',highlight='..//..//
     mpl.rcParams['text.color'] = 'k'
     #by default use input csv name as prefix
     if yaxis:
-        out_folder='..//..//Figures//Fig.4.volcano'
+        out_folder='..//..//Figures//Fig.2.F.volcano'
     else:
-        out_folder='..//..//Figures//Fig.4.volcano_no.y'
+        out_folder='..//..//Figures//Fig.2.F.volcano.no_y'
     os.makedirs(out_folder, exist_ok=True)
-    prefix='Fig.4.C.DEG.volcano'
+    prefix='Fig.2.F.DEG.volcano'
     #load data
     hl_df=pd.read_csv(highlight,sep=',')
     def row_to_color(row):

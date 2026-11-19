@@ -1,4 +1,4 @@
-def gse_ancestor_heatmap(fi='..//..//Data//Fig.6.B.Selected.Ancestors.csv',out='..//..//Figures//Fig.6.B.GSE.Ancestor.Heatmap',na='NE'): #just heatmap
+def gse_ancestor_heatmap(fi='..//..//Data//Fig.2.E.Selected.Ancestors.csv',out='..//..//Figures//Fig.2.E.GSE.Ancestor.Heatmap',na='NE'): #just heatmap
     from mpl_toolkits.axes_grid1 import make_axes_locatable
     from mpl_toolkits.axes_grid1.axes_divider import make_axes_area_auto_adjustable
     from math import floor

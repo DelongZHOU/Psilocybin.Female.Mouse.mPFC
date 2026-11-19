@@ -1,9 +1,8 @@
-def head_twitch(file='..//..//Data//Fig.1.B-C.headtwitches.csv',sex='F',out=None):
+def head_twitch(file='..//..//Data//Fig.1.B.headtwitches.csv',sex='F',out=None):
     import seaborn as sns, matplotlib.pyplot as plt, pandas as pd
     import numpy as np
     if out==None:
-        panel={'F':'B','M':'C'}[sex]
-        out='..//..//Figures//Fig.1.{}.headtwitches.{}'.format(panel,sex)
+        out='..//..//Figures//Fig.1.B.headtwitches'
     plt.rcParams['font.family'] = 'Arial'
     plt.rcParams['font.size'] = '12'
     plt.rcParams['figure.figsize'] = [2.5,2]

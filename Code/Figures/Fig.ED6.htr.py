@@ -1,4 +1,4 @@
-def plot_htr(file1='..//..//Data//Fig.S2.htr2a.csv',file2='..//..//Data//Fig.S2.htr.csv',out='..//..//Figures//Figure S2-2'):
+def plot_htr(file1='..//..//Data//Fig.ED6.htr2a.csv',file2='..//..//Data//Fig.ED6.htr.csv',out='..//..//Figures//Fig.ED6.htr-2'):
     import pandas as pd
     import seaborn as sns
     import matplotlib.pyplot as plt

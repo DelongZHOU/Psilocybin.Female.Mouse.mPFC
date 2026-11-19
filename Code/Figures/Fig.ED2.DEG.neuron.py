@@ -1,4 +1,4 @@
-def plot_deg_violin_strip(file='..//..//Data//Fig.S5.neuron.csv',out='..//..//Figures//Figure S5'):
+def plot_deg_violin_strip(file='..//..//Data//Fig.ED2.neuron.csv',out='..//..//Figures//Fig.ED2.DEG.neuron'):
     import pandas as pd
     import seaborn as sns
     import matplotlib.pyplot as plt
