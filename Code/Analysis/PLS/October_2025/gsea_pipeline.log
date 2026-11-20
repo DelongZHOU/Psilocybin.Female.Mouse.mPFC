@@ -1,80 +1,80 @@
-2025-10-23 16:15:02,812 - INFO - Starting GSEA pipeline for folder: GO_cellular, atlas: GO_Cellular_Component_2023
-2025-10-23 16:15:03,316 - INFO - Finished GSEA pipeline for folder: GO_cellular
-2025-10-23 16:15:03,316 - INFO - Starting GSEA pipeline for folder: GO_molecular, atlas: GO_Molecular_Function_2023
-2025-10-23 16:15:03,768 - INFO - Finished GSEA pipeline for folder: GO_molecular
-2025-10-23 16:15:03,769 - INFO - Starting GSEA pipeline for folder: GO_biological, atlas: GO_Biological_Process_2023
-2025-10-23 16:15:04,216 - INFO - Finished GSEA pipeline for folder: GO_biological
+2026-11-19 18:15:02,084 - INFO - Starting GSEA pipeline for folder: GO_cellular, atlas: GO_Cellular_Component_2023
+2026-11-19 18:15:04,506 - INFO - Finished GSEA pipeline for folder: GO_cellular
+2026-11-19 18:15:04,508 - INFO - Starting GSEA pipeline for folder: GO_molecular, atlas: GO_Molecular_Function_2023
+2026-11-19 18:15:06,874 - INFO - Finished GSEA pipeline for folder: GO_molecular
+2026-11-19 18:15:06,875 - INFO - Starting GSEA pipeline for folder: GO_biological, atlas: GO_Biological_Process_2023
+2026-11-19 18:15:09,329 - INFO - Finished GSEA pipeline for folder: GO_biological
 Processing folder: GO_cellular (GO_Cellular_Component_2023)
 Processing folder: GO_molecular (GO_Molecular_Function_2023)
 Processing folder: GO_biological (GO_Biological_Process_2023)
 Processing Astro in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 443.54it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 35.33it/s]
 Processing Endo in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 439.85it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 56.99it/s]
 Processing GABA in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 452.53it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.75it/s]
 Processing L2-5_IT in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 431.69it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 55.03it/s]
 Processing L5-6_NP in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 481.68it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 56.06it/s]
 Processing L5_PT in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 507.83it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 58.81it/s]
 Processing L6_CT in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 439.13it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.23it/s]
 Processing Micro in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 479.75it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 58.04it/s]
 Processing NFO in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 464.23it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 58.33it/s]
 Processing OPC in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 445.37it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 53.93it/s]
 Processing Oligo in GO_cellular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 462.79it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.23it/s]
 Saved October_2025/supplementary_tables/GSEA_Cellular_GO_cellular.csv
 Processing Astro in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 442.55it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 53.94it/s]
 Processing Endo in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 460.26it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 58.09it/s]
 Processing GABA in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 481.79it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 57.50it/s]
 Processing L2-5_IT in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 471.66it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 55.88it/s]
 Processing L5-6_NP in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 496.25it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 57.95it/s]
 Processing L5_PT in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 473.95it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 60.13it/s]
 Processing L6_CT in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 484.93it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 56.59it/s]
 Processing Micro in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 499.64it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 57.61it/s]
 Processing NFO in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 497.47it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 57.94it/s]
 Processing OPC in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 465.81it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.32it/s]
 Processing Oligo in GO_molecular...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 462.78it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 55.05it/s]
 Saved October_2025/supplementary_tables/GSEA_Molecular_GO_molecular.csv
 Processing Astro in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 436.62it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 53.60it/s]
 Processing Endo in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 485.70it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 58.24it/s]
 Processing GABA in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 441.01it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 52.20it/s]
 Processing L2-5_IT in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 449.87it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 47.04it/s]
 Processing L5-6_NP in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 494.63it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 56.39it/s]
 Processing L5_PT in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 497.49it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 59.35it/s]
 Processing L6_CT in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 478.75it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 51.07it/s]
 Processing Micro in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 468.10it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.25it/s]
 Processing NFO in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 439.56it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 54.86it/s]
 Processing OPC in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 395.40it/s]
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 50.36it/s]
 Processing Oligo in GO_biological...
-  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 401.60it/s]Saved October_2025/supplementary_tables/GSEA_Biological_GO_biological.csv
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 51.41it/s]Saved October_2025/supplementary_tables/GSEA_Biological_GO_biological.csv
 
 L5-6_NP
 L5_PT
